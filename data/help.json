@@ -1,0 +1,18 @@
+{
+    "main": [
+      "`shikigami`",
+      "`list`",
+      "`item`",
+      "`build`",
+      "`spell`",
+      "`onmyodo`",
+      "`addcom`",
+      "`support`",
+      "`winrate`"
+    ],
+    "misc": [
+      "`mal`",
+      "`mal.season`",
+      "`search`"
+    ]
+  }

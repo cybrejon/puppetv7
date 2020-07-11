@@ -1,0 +1,65 @@
+{
+    "spells" : {
+        
+        "subdue" : {
+            "icon" : "https://onmyojiarenacentral.com/wp-content/uploads/2018/05/onmyoji-spell-01.png",
+            "name" : "Subdue",
+            "desc" : "Deal 425 (+43xLevel) true damage to monsters of minions. If the target is a monster, also recover 150 (+10% Max HP) HP."
+        },
+        
+        "cleanse" : {
+            "icon" : "https://onmyojiarenacentral.com/wp-content/uploads/2018/05/onmyoji-spell-02.png",
+            "name" : "Cleanse",
+            "desc" : "Cleanse misfortune by imediately removing all control effects and granting immunity to all control effects for the next 2 seconds."
+        },
+
+        "barrier" : {
+            "icon" : "https://onmyojiarenacentral.com/wp-content/uploads/2018/05/onmyoji-spell-03.png",
+            "name" : "Barrier",
+            "desc" : "Protect yourself and allied shikigami who are near death by creating a shield that can obsorb 125 (+25xLevel) damage for 3 seconds. The effects of the shield will be reduced by half if it is cast again within 15 seconds."
+        },
+
+        "flash" : {
+            "icon" : "https://onmyojiarenacentral.com/wp-content/uploads/2018/05/onmyoji-spell-04.png",
+            "name" : "Flash",
+            "desc" : "Instantaneously disapear and reapear at the selected location."
+        },
+
+        "bind" : {
+            "icon" : "https://onmyojiarenacentral.com/wp-content/uploads/2018/05/onmyoji-spell-05.png",
+            "name" : "Bind",
+            "desc" : "Sacrifice your attack damage to bind the targeted enemy shikigami. Reduce your damage dealt by 20% to lower the target’s damage dealt by 40% and movement speed by 40%. This last for 3 seconds or until the target is more than 1200 yards away."
+        },
+
+        "pace" : {
+            "icon" : "https://onmyojiarenacentral.com/wp-content/uploads/2018/05/onmyoji-spell-06.png",
+            "name" : "Pace",
+            "desc" : "Increase movement speed by 30% for the next 10 seconds."
+        },
+
+        "corrode" : {
+            "icon" : "https://onmyojiarenacentral.com/wp-content/uploads/2018/05/onmyoji-spell-07.png",
+            "name" : "Corrode",
+            "desc" : "Corrode the enemy shikigami, dealing 40 (+15xLevel) true damage and exposing their vision for the next 4 seconds, dealing a cumulative amount of 40 (+15xLevel) true damage."
+        },
+
+        "heal" : {
+            "icon" : "https://onmyojiarenacentral.com/wp-content/uploads/2018/05/onmyoji-spell-08.png",
+            "name" : "Heal",
+            "desc" : "Active the shikigami’s potential. Immediately recover 125 (+25xLevel) HP and reduce damage taken by 15% for the next 3 seconds."
+        },
+
+        "seeker" : {
+            "icon" : "https://onmyojiarenacentral.com/wp-content/uploads/2018/05/onmyoji-spell-09.png",
+            "name" : "Seeker",
+            "desc" : "Summon two ghost spirits to automatically search for enemies. After the targets are found, their vision is exposed and their movement speed is reduced by 25% for 2 to 6 seconds (extended according to the time the spirits have to search)."
+        },
+
+        "shift" : {
+            "icon" : "https://onmyojiarenacentral.com/wp-content/uploads/2018/05/onmyoji-spell-10.png",
+            "name" : "Shift",
+            "desc" : "Chant to 4 seconds before teleporting to the location of the specified turret or minion. The spell may be canceled by casting the ability again. At the same time, recover 50% of the CD time."
+        }
+
+    }
+}

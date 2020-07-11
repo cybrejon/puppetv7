@@ -1,0 +1,802 @@
+{
+  "items": [
+    {
+      "support": {
+        "fashionable-trinket": {
+          "name": "Fashionable Trinket",
+          "desc": "+100% HP Regen\n+100% MP Regen\n+450 HP\n+10% Cooldown Reduction\nActive - Windrunner: Increase Movement Speed of nearby allied units by 40% for 3 seconds. (CD: 60s)\nFortune: Deals an additional 20 + (10 * Level) Magic Damage and grants 12 coins (8 Coins at long range) when attacking an enemy shikigami. When your total Coins is among the last two in the team, grants 1 layer of energy recharge every 9 seconds, up to a maximum of 3 layers.\n\nRakuzen: The Reward for killing minions and monsters below Lv. 8 will be transferred to nearby allied shikigami."
+        },
+        "ft": {
+          "name": "Fashionable Trinket",
+          "desc": "+100% HP Regen\n+100% MP Regen\n+450 HP\n+10% Cooldown Reduction\nActive - Windrunner: Increase Movement Speed of nearby allied units by 40% for 3 seconds. (CD: 60s)\nFortune: Deals an additional 20 + (10 * Level) Magic Damage and grants 12 coins (8 Coins at long range) when attacking an enemy shikigami. When your total Coins is among the last two in the team, grants 1 layer of energy recharge every 9 seconds, up to a maximum of 3 layers.\n\nRakuzen: The Reward for killing minions and monsters below Lv. 8 will be transferred to nearby allied shikigami."
+        },
+        "asakusa-glow": {
+          "name": "Asakusa Glow",
+          "desc": "+65 Ability Power\n+100% MP Regen\n+150 HP\n+10% Cooldown Reduction\n\nActive – Fluorescence: Restores 40 + (35 * Level) HP and 30 + (20 * Level) MP for nearby allied shikigami over the next 4 seconds. (CD: 50 seconds.)\nFortune: Deals an additional 10.5 + (1.5 * Level) Magic Damage and grants 12 coins (8 Coins at long range) when attacking an enemy shikigami. When your total Coins is among the last two in the team, grants 1 layer of energy recharge every 9 seconds, up to a maximum of 3 layers.\nRakuzen: The Reward for killing minions and monsters below Lv. 8 will be transferred to nearby allied shikigami."
+        },
+        "ag": {
+          "name": "Asakusa Glow",
+          "desc": "+65 Ability Power\n+100% MP Regen\n+150 HP\n+10% Cooldown Reduction\n\nActive – Fluorescence: Restores 40 + (35 * Level) HP and 30 + (20 * Level) MP for nearby allied shikigami over the next 4 seconds. (CD: 50 seconds.)\nFortune: Deals an additional 10.5 + (1.5 * Level) Magic Damage and grants 12 coins (8 Coins at long range) when attacking an enemy shikigami. When your total Coins is among the last two in the team, grants 1 layer of energy recharge every 9 seconds, up to a maximum of 3 layers.\nRakuzen: The Reward for killing minions and monsters below Lv. 8 will be transferred to nearby allied shikigami."
+        },
+        "astrolabe": {
+          "name": "Astrolabe",
+          "desc": "+100% HP Regen\n+750 HP\n\nActive – Sea Sprite: Create a shield that lasts for 2 seconds to protect nearby allied shikigami. This can absorb 57 + (33 * Level) damage. (CD: 60 seconds.)\nFortune: Deals an additional 10.5 + (1.5 * Level) Magic Damage and grants 12 coins (8 Coins at long range) when attacking an enemy shikigami. When your total Coins is among the last two in the team, grants 1 layer of energy recharge every 9 seconds, up to a maximum of 3 layers.\nRakuzen: The Reward for killing minions and monsters below Lv. 8 will be transferred to nearby allied shikigami."
+        },
+        "8ft-magatama": {
+          "name": "8ft. Magatama",
+          "desc": "+100% HP Regen\n+300 HP\n+40 Armor\n+40 Magic Resist\n\nFine Jade: Increases Armor and Magic Resist by 30 + (1.5 * Level), and HP Regen by 100% for nearby allied shikigami.\nFortune: Deals an additional 10.5 + (1.5 * Level) Magic Damage and grants 12 coins (8 Coins at long range) when attacking an enemy shikigami. When your total Coins is among the last two in the team, grants 1 layer of energy recharge every 9 seconds, up to a maximum of 3 layers.\nRakuzen: The Reward for killing minions and monsters below Lv. 8 will be transferred to nearby allied shikigami."
+        },
+        "8fm": {
+          "name": "8ft. Magatama",
+          "desc": "+100% HP Regen\n+300 HP\n+40 Armor\n+40 Magic Resist\n\nFine Jade: Increases Armor and Magic Resist by 30 + (1.5 * Level), and HP Regen by 100% for nearby allied shikigami.\nFortune: Deals an additional 10.5 + (1.5 * Level) Magic Damage and grants 12 coins (8 Coins at long range) when attacking an enemy shikigami. When your total Coins is among the last two in the team, grants 1 layer of energy recharge every 9 seconds, up to a maximum of 3 layers.\nRakuzen: The Reward for killing minions and monsters below Lv. 8 will be transferred to nearby allied shikigami."
+        },
+        "little-bells": {
+          "name": "Little Bells",
+          "desc": "+90 Ability Power\n+300 MP\n+50% MP Regen\n+5% Movement Speed\n\nTree Spirit: +20% Heals and Shields increased"
+        },
+        "lb": {
+          "name": "Little Bells",
+          "desc": "+90 Ability Power\n+300 MP\n+50% MP Regen\n+5% Movement Speed\n\nTree Spirit: +20% Heals and Shields increased"
+        },
+        "destinys-tile": {
+          "name": "Destiny's Tile",
+          "desc": "+50% HP Regen\n+50% MP Regen\n+150 HP\n\nFortune: Deals an additional 10.5 + (1.5 * Level) Magic Damage and grants 12 coins (8 Coins at long range) when attacking an enemy shikigami. When your total Coins is among the last two in the team, grants 1 layer of energy recharge every 9 seconds, up to a maximum of 3 layers.\nRakuzen: The Reward for killing minions and monsters below Lv. 8 will be transferred to nearby allied shikigami."
+        },
+        "dt": {
+          "name": "Destiny's Tile",
+          "desc": "+50% HP Regen\n+50% MP Regen\n+150 HP\n\nFortune: Deals an additional 10.5 + (1.5 * Level) Magic Damage and grants 12 coins (8 Coins at long range) when attacking an enemy shikigami. When your total Coins is among the last two in the team, grants 1 layer of energy recharge every 9 seconds, up to a maximum of 3 layers.\nRakuzen: The Reward for killing minions and monsters below Lv. 8 will be transferred to nearby allied shikigami."
+        },
+        "inari-bell": {
+          "name": "Inari Bell",
+          "desc": "+250 MP\n+50% MP Regen\n\nTree Spirit: 8% Heals and Shields Increased"
+        },
+        "ib": {
+          "name": "Inari Bell",
+          "desc": "+250 MP\n+50% MP Regen\n\nTree Spirit: 8% Heals and Shields Increased"
+        },
+        "wealth-amulet": {
+          "name": "Wealth Amulet",
+          "desc": "+25% HP Regen\n+25% MP Regen\n\nFortune: Deals an additional 10.5 + (1.5 * Level) Magic Damage and grants 12 coins (8 Coins at long range) when attacking an enemy shikigami. When your total Coins is among the last two in the team, grants 1 layer of energy recharge every 9 seconds, up to a maximum of 3 layers.\nRakuzen: The Reward for killing minions and monsters below Lv. 8 will be transferred to nearby allied shikigami"
+        },
+        "wa": {
+          "name": "Wealth Amulet",
+          "desc": "+25% HP Regen\n+25% MP Regen\n\nFortune: Deals an additional 10.5 + (1.5 * Level) Magic Damage and grants 12 coins (8 Coins at long range) when attacking an enemy shikigami. When your total Coins is among the last two in the team, grants 1 layer of energy recharge every 9 seconds, up to a maximum of 3 layers.\nRakuzen: The Reward for killing minions and monsters below Lv. 8 will be transferred to nearby allied shikigami"
+        },
+        "item": {
+          "name": "text",
+          "desc": "text"
+        }
+      }
+    },
+    {
+      "movement": {
+        "hagakure-boots": {
+          "name": "Hagakure",
+          "desc": "+60 Armor\n\nMovement: +45 Movement Speed\nHagakure: Decreases all Physical Damage taken by 6%."
+        },
+        "hagakure": {
+          "name": "Hagakure",
+          "desc": "+60 Armor\n\nMovement: +45 Movement Speed\nHagakure: Decreases all Physical Damage taken by 6%."
+        },
+        "hb": {
+          "name": "Hagakure",
+          "desc": "+60 Armor\n\nMovement: +45 Movement Speed\nHagakure: Decreases all Physical Damage taken by 6%."
+        },
+        "takemikazuchi-boots": {
+          "name": "Takemikazuchi Boots",
+          "desc": "+50 Magic Resist\n\nMovement: +45 Movement Speed\nTakemikazuchi: +30% Control Reduction"
+        },
+        "tb": {
+          "name": "Takemikazuchi Boots",
+          "desc": "+50 Magic Resist\n\nMovement: +45 Movement Speed\nTakemikazuchi: +30% Control Reduction"
+        },
+        "demonic-boots": {
+          "name": "Demonic Boots",
+          "desc": "Demonic Strike: +30 Magic Penetration\nMovement: +45 Movement Speed."
+        },
+        "db": {
+          "name": "Demonic Boots",
+          "desc": "Demonic Strike: +30 Magic Penetration\nMovement: +45 Movement Speed."
+        },
+        "boots-of-fury": {
+          "name": "Boots of Fury",
+          "desc": "Movement: +60 Movement Speed\n+35% Reduce Slow Effect."
+        },
+        "bof": {
+          "name": "Boots of Furry",
+          "desc": "Movement: +60 Movement Speed\n+35% Reduce Slow Effect."
+        },
+        "boots-of-purity": {
+          "name": "Boots of Purity",
+          "desc": "Movement: +45 Movement Speed\n\nPurity: +10% Cooldown Reduction\nPurity: +10% Spell Cooldown Reduction"
+        },
+        "bop": {
+          "name": "Boots of Purity",
+          "desc": "Movement: +45 Movement Speed\n\nPurity: +10% Cooldown Reduction\nPurity: +10% Spell Cooldown Reduction"
+        },
+        "wind-walker": {
+          "name": "Wind Walker",
+          "desc": "Movement: +45 Movement Speed\n\nWind Treader: After leaving battle, obtain the Fujin’s blessing, increasing movement speed by 60 and HP Regen by 75%."
+        },
+        "ww": {
+          "name": "Wind Walker",
+          "desc": "Movement: +45 Movement Speed\n\nWind Treader: After leaving battle, obtain the Fujin’s blessing, increasing movement speed by 60 and HP Regen by 75%."
+        },
+        "swift-boots": {
+          "name": "Swift Boots",
+          "desc": "Movement: +25 Movement Speed."
+        },
+        "sb": {
+          "name": "Swift Boots",
+          "desc": "Movement: +25 Movement Speed."
+        }
+      }
+    },
+    {
+      "jungle": {
+        "blank-lance": {
+          "name": "Blank Lance",
+          "desc": "+90 Attack Damage\n+10% Cooldown Reduction\n\nHunt: Attacking monsters will deal continuous damage. Damage will be decreased when being attacked by monsters. Wipe out monsters to get extra EXP and restore HP and MP\nDemonbane: Upgrade the Subdue ability to Ice Subdue."
+        },
+        "bl": {
+          "name": "Black Lance",
+          "desc": "+90 Attack Damage\n+10% Cooldown Reduction\n\nHunt: Attacking monsters will deal continuous damage. Damage will be decreased when being attacked by monsters. Wipe out monsters to get extra EXP and restore HP and MP\nDemonbane: Upgrade the Subdue ability to Ice Subdue."
+        },
+        "fire-king-lance": {
+          "name": "Fire King Lance",
+          "desc": "+500 HP\n+60 Armor\n\nSkyfire: Incinerates the souls of nearby enemies, dealing 28.5 + (1.5 * Level) magic damage per second (4.5x damage against non-shikigami units.)\n\nHunt: Attacking monsters will deal continuous damage. Damage will be decreased when being attacked by monsters. Wipe out monsters to get extra EXP and restore HP and MP\nDemonbane: Upgrade the Subdue ability to Ice Subdue."
+        },
+        "fkl": {
+          "name": "Fire King Lance",
+          "desc": "+500 HP\n+60 Armor\n\nSkyfire: Incinerates the souls of nearby enemies, dealing 28.5 + (1.5 * Level) magic damage per second (4.5x damage against non-shikigami units.)\n\nHunt: Attacking monsters will deal continuous damage. Damage will be decreased when being attacked by monsters. Wipe out monsters to get extra EXP and restore HP and MP\nDemonbane: Upgrade the Subdue ability to Ice Subdue."
+        },
+        "imperial-lance": {
+          "name": "Imperial Lance",
+          "desc": "+100 Ability Power\n\nYatagarasu: +10% Cooldown Reduction\nScepter: Your abilities deal an additional 90 + (12% Ability Power) Magic damage to the target. (4x against monsters). This can only be triggered once every 9 seconds for each target.\nHunt: Attacking monsters will deal continuous damage. Damage will be decreased when being attacked by monsters. Wipe out monsters to get extra EXP and restore HP and MP\nDemonbane: Upgrade the Subdue ability to Ice Subdue."
+        },
+        "il": {
+          "name": "Imperial Lance",
+          "desc": "+100 Ability Power\n\nYatagarasu: +10% Cooldown Reduction\nScepter: Your abilities deal an additional 90 + (12% Ability Power) Magic damage to the target. (4x against monsters). This can only be triggered once every 9 seconds for each target.\nHunt: Attacking monsters will deal continuous damage. Damage will be decreased when being attacked by monsters. Wipe out monsters to get extra EXP and restore HP and MP\nDemonbane: Upgrade the Subdue ability to Ice Subdue."
+        },
+        "unholy-halberd": {
+          "name": "Unholy Halberd",
+          "desc": "+50% Attack Speed\n+15 Attack Damage\n\nShatter: Basic attacks deal an additional (4% Target Max HP) physical damage. Damage to targets with less than 35% HP is halved. Maximum damage to non-shikigami units is 120.\nHunt: Attacking monsters will deal continuous damage. Damage will be decreased when being attacked by monsters. Wipe out monsters to get extra EXP and restore HP and MP\nDemonbane: Upgrade the Subdue ability to Ice Subdue."
+        },
+        "uh": {
+          "name": "Unholy Halberd",
+          "desc": "+50% Attack Speed\n+15 Attack Damage\n\nShatter: Basic attacks deal an additional (4% Target Max HP) physical damage. Damage to targets with less than 35% HP is halved. Maximum damage to non-shikigami units is 120.\nHunt: Attacking monsters will deal continuous damage. Damage will be decreased when being attacked by monsters. Wipe out monsters to get extra EXP and restore HP and MP\nDemonbane: Upgrade the Subdue ability to Ice Subdue."
+        },
+        "dragon-hunting-knife": {
+          "name": "Dragon Hunting Knife",
+          "desc": "Hunt: Attacking monsters will deal continuous damage. Damage will be decreased when being attacked by monsters. Wipe out monsters to get extra EXP and restore HP and MP\nDemonbane: Upgrade the Subdue ability to Ice Subdue."
+        },
+        "dhk": {
+          "name": "Dragon Hunting Knife",
+          "desc": "Hunt: Attacking monsters will deal continuous damage. Damage will be decreased when being attacked by monsters. Wipe out monsters to get extra EXP and restore HP and MP\nDemonbane: Upgrade the Subdue ability to Ice Subdue."
+        },
+        "hunting-knife": {
+          "name": "Hunting Knife",
+          "desc": "Hunt: Attacking monsters will deal continuous damage. Damage will be decreased when being attacked by monsters. Wipe out monsters to get extra EXP and restore HP and MP."
+        },
+        "item": {
+          "name": "text",
+          "desc": "text"
+        }
+      }
+    },
+    {
+      "weapon": {
+        "onimaru": {
+          "name": "Onimaru",
+          "desc": "+110 Attack Damage\n+20% Attack HP Steal\n\nHimeidori: Restores HP by 10% when you defeat or assist to defeat an enemy shikigami.",
+          "emote": "<:onimaru:711927884599787562>"
+        },
+        "otenta": {
+          "name": "Otenta",
+          "desc": "+80 Attack Damage\n+25% Crit Rate\n\nSeductress: Deal an additional 40 + (50% Attack) Physical Damage when a Basic Attack Crits.",
+          "emote": "<:otenta:711927884708708383>"
+        },
+        "juzumaru": {
+          "name": "Juzumaru",
+          "desc": "+60 Attack Damage\n+40% Attack Speed\n\nShatter: Basic attacks deal an additional (+4% Target Max HP) physical damage. Damage to targets with less than 35% HP is halved. Maximum damage to non-shikigami units is 90.",
+          "emote": "<:juzumaru:711927884968886322>"
+        },
+        "heaven's-thunder": {
+          "name": "Heaven's Thunder",
+          "desc": "+60 Attack Damage\n+50% Attack Speed\n\nThunder: Every 6 seconds, basic attacks trigger chain lightning that deals 50 + (10 * Level) magic damage to 5 targets, with 200% damage dealt to minions. Each basic attack reduces the cooldown by 2 seconds.",
+          "emote": "<:heaven:711927884779880470>"
+        },
+        "ht": {
+          "name": "Heaven's Thunder",
+          "desc": "+60 Attack Damage\n+50% Attack Speed\n\nThunder: Every 6 seconds, basic attacks trigger chain lightning that deals 50 + (10 * Level) magic damage to 5 targets, with 200% damage dealt to minions. Each basic attack reduces the cooldown by 2 seconds.",
+          "emote": "<:heaven:711927884779880470>"
+        },
+        "omoikane's-bow": {
+          "name": "Omoikane's Bow",
+          "desc": "+55 Attack Damage\n+25% Crit Rate\n+15% CDR\n+50% MP Regen\n\nAmewakahiko: Every 8 seconds, the next attack deals an additional 50% physical damage and inflicts a 1.5-second 70% Slow effect on the target that weakens over time. Attacking or casting abilities will decrease the cooldown by 1 second.",
+          "emote": "<:omoikane:711927884780011542>"
+        },
+        "ob": {
+          "name": "Omoikane's Bow",
+          "desc": "+55 Attack Damage\n+25% Crit Rate\n+15 CDR\n+50% MP Regen\n\nAmewakahiko: Every 8 seconds, the next attack deals an additional 50% physical damage and inflicts a 1.5-second 70% Slow effect on the target that weakens over time. Attacking or casting abilities will decrease the cooldown by 1 second.",
+          "emote": "<:omoikane:711927884780011542>"
+        },
+        "hawk-bow": {
+          "name": "Hawk Bow",
+          "desc": "+45% Attack Speed\n+25% Crit Rate\n\nFeathers: 7% Movement Speed\nRising Wind: The Basic Attacks of ranged shikigami are divided up to simultaneously attack up to 3 units within range, The Basic Attacks decreases by 15% for each unit hit.",
+          "emote": "<:hawkBow:711927884293341306>"
+        },
+        "hb": {
+          "name": "Hawk Bow",
+          "desc": "+45% Attack Speed\n+25% Crit Rate\n\nFeathers: 7% Movement Speed\nRising Wind: The Basic Attacks of ranged shikigami are divided up to simultaneously attack up to 3 units within range, The Basic Attacks decreases by 15% for each unit hit.",
+          "emote": "<:hawkBow:711927884293341306>"
+        },
+        "amanozako's-bow": {
+          "name": "Amanozako’s Bow",
+          "desc": "+55% Attack Speed\n+25% Crit Rate\n\nFeathers: +7% Movement Speed\nSuppression: Physical damage dealt by you reduces the healing of enemy shikigami by 40% over 4 seconds.",
+          "emote": ""
+        },
+        "ab": {
+          "name": "Amanozako’s Bow",
+          "desc": "+55% Attack Speed\n+25% Crit Rate\n\nFeathers: +7% Movement Speed\nSuppression: Physical damage dealt by you reduces the healing of enemy shikigami by 40% over 4 seconds."
+        },
+        "chidori-twin-swords": {
+          "name": "Chidori Twin Swords",
+          "desc": "+40 Attack Damage\n+450 HP\n+20% Attack Speed\n+15% Crit Rate\n\nChidori: Basic Attacks decrease your opponent’s Movement Speed by 25% for the next 3 seconds and reduce the damage you take by 10%. The effect of Chidori is reduced if the wearer is a ranged shikigami."
+        },
+        "cts": {
+          "name": "Chidori Twin Swords",
+          "desc": "+40 Attack Damage\n+450 HP\n+20% Attack Speed\n+15% Crit Rate\n\nChidori: Basic Attacks decrease your opponent’s Movement Speed by 25% for the next 3 seconds and reduce the damage you take by 10%. The effect of Chidori is reduced if the wearer is a ranged shikigami."
+        },
+        "kusarigama": {
+          "name": "Kusarigama",
+          "desc": "+80 Attack Damage\n+10% Cooldown Reduction\n\nDreamless: Increases Ability Damage by 10% (Reaches the maximum at Lv.18).\nKyokushin: Increases Movement Speed by 3 per second. When it reaches 30, the next Basic deals an additional 100 (5 * Level) Physical Damage. Melee Shikigami also reduce the target’s movement by 50% for 1 second. The Haste effect is weakened when you take a Basic Attack or control effect."
+        },
+        "nature's-glory": {
+          "name": "Nature’s Glory",
+          "desc": "+80 Attack Damage\n+10% Cooldown Reduction\n\nThousand Images: Increases Ability Damage by 10% (Reaches the maximum at Lv.18).\nWatcher: Basic Attacks against shikigami with less than 40% HP deal 45 + (22* Level) Physical Damage and greatly reduce the target’s Movement Speed for a short period of time. (This effect can only be triggered on a target once every 10 seconds.)"
+        },
+        "ng": {
+          "name": "Nature’s Glory",
+          "desc": "+80 Attack Damage\n+10% Cooldown Reduction\n\nThousand Images: Increases Ability Damage by 10% (Reaches the maximum at Lv.18).\nWatcher: Basic Attacks against shikigami with less than 40% HP deal 45 + (22* Level) Physical Damage and greatly reduce the target’s Movement Speed for a short period of time. (This effect can only be triggered on a target once every 10 seconds.)"
+        },
+        "grass-cutting-sword": {
+          "name": "Grass-cutting Sword",
+          "desc": "+300 HP\n+40 Attack Damage\n+40% Attack Speed\n+20% Cooldown Reduction\n+5% Movement Speed\n\nCursed Scar: Basic Attack restores MP by 3. For the next 5 seconds after using this ability, the next Basic Attack deals an additional 90 + (90% Bonus Attack) physical damage. This can be triggered once every 1.5 seconds."
+        },
+        "gcs": {
+          "name": "Grass-cutting Sword",
+          "desc": "+300 HP\n+40 Attack Damage\n+40% Attack Speed\n+20% Cooldown Reduction\n+5% Movement Speed\n\nCursed Scar: Basic Attack restores MP by 3. For the next 5 seconds after using this ability, the next Basic Attack deals an additional 90 + (90% Bonus Attack) physical damage. This can be triggered once every 1.5 seconds."
+        },
+        "mikazuki": {
+          "name": "Mikazuki",
+          "desc": "+600 HP\n+35 Attack Damage\n+20% Cooldown Reduction\n\nClaws: 20% Armor Penetration\nMoonchaser: Whenever Physical Damage is dealt to an enemy shikigami, Movement Speed is increased by 6 and Attack Damage by 7 for 5 seconds. This can be stacked a maximum of 5 times. The Movement Speed increase for ranged shikigami is halved."
+        },
+        "tsurumaru": {
+          "name": "Tsurumaru",
+          "desc": "+80 Attack Damage\n\nClaws: +30% Armor Penetration"
+        },
+        "bonerotter": {
+          "name": "Bonerotter",
+          "desc": "+75 Attack Damage\n+80 Armor\n+8% Life Steal\n+8% Spell Vampire\n\nSacred Bones: Grants 1.25% Life Steal and Spell Vampire for every 10% HP lost, up to a maximum of 10%."
+        },
+        "greater-devourer-ball": {
+          "name": "Greater Devourer Ball",
+          "desc": "+75 Attack Damage\n+105 Magic Resist\n+10% Cooldown Reductionn\n\nDevourer: Generate a shield that can absorb 200 + (+75% Attack) Magic Damage. The shield will refresh if no Magic Damage is taken for 20 seconds."
+        },
+        "gdb": {
+          "name": "Greater Devourer Ball",
+          "desc": "+75 Attack Damage\n+105 Magic Resist\n+10% Cooldown Reductionn\n\nDevourer: Generate a shield that can absorb 200 + (+75% Attack) Magic Damage. The shield will refresh if no Magic Damage is taken for 20 seconds."
+        },
+        "raja-warhammer": {
+          "name": "Raja Warhammer",
+          "desc": "+75 Attack Damage\n+450 HP\n+10% Cooldown Reduction\n\nActive – Rakhasa: Removes all control effects and grants immunity to controlling effects in the coming 2 seconds. (CD: 90 seconds.)"
+        },
+        "rw": {
+          "name": "Raja Warhammer",
+          "desc": "+75 Attack Damage\n+450 HP\n+10% Cooldown Reduction\n\nActive – Rakhasa: Removes all control effects and grants immunity to controlling effects in the coming 2 seconds. (CD: 90 seconds.)"
+        },
+        "eye-of-orochi": {
+          "name": "Eye of Orochi",
+          "desc": "+100 Attack Damage\n+15% Attack HP Steal\n\nChop: Basic melee attacks deal (+35% Attack) physical damage to enemies near the target. Damage to minions is increased by 100%"
+        },
+        "eoo": {
+          "name": "Eye of Orochi",
+          "desc": "+100 Attack Damage\n+15% Attack HP Steal\n\nChop: Basic melee attacks deal (+35% Attack) physical damage to enemies near the target. Damage to minions is increased by 100%"
+        },
+        "yin-yang-wheel": {
+          "name": "Yin Yang Wheel",
+          "desc": "+35 Attack Damage\n+800 HP\n+100% HP Regen\n\nChop: Every 2 seconds, the next basic melee attack deals (2.5% Max HP) to the target and enemies near the target. Deals 300% damage to minions."
+        },
+        "yyw": {
+          "name": "Yin Yang Wheel",
+          "desc": "+35 Attack Damage\n+800 HP\n+100% HP Regen\n\nChop: Every 2 seconds, the next basic melee attack deals (2.5% Max HP) to the target and enemies near the target. Deals 300% damage to minions."
+        },
+        "nether-crossbow": {
+          "name": "Nether Crossbow",
+          "desc": "+60% Attack Speed\n+20 Attack Damage\n\nNether Arrow: Basic Attacks deal 30 + (2 * Level) extra magic damage to target. Every time after using 2 basic attacks or abilities, the next basic attack will trigger a bonus basic attack."
+        },
+        "nc": {
+          "name": "Nether Crossbow",
+          "desc": "+60% Attack Speed\n+20 Attack Damage\n\nNether Arrow: Basic Attacks deal 30 + (2 * Level) extra magic damage to target. Every time after using 2 basic attacks or abilities, the next basic attack will trigger a bonus basic attack."
+        },
+        "shadow-blade": {
+          "name": "Shadow Blade",
+          "desc": "+70 Attack Damage\n+400 HP\n\nSuppression: Physical damage dealt by you reduces the healing of enemy shikigami by 40% over 4 seconds.\nDark Feathers: Increases Armor Penetration by 15 + (1.75 * Level)."
+        },
+        "sb": {
+          "name": "Shadow Blade",
+          "desc": "+70 Attack Damage\n+400 HP\n\nSuppression: Physical damage dealt by you reduces the healing of enemy shikigami by 40% over 4 seconds.\nDark Feathers: Increases Armor Penetration by 15 + (1.75 * Level)."
+        },
+        "murasame": {
+          "name": "Murasame",
+          "desc": "+60 atk damage."
+        },
+        "redmark-katar": {
+          "name": "Redmark Katar",
+          "desc": "+25 Attack Damage\n+10% Attack HP Steal"
+        },
+        "rk": {
+          "name": "Redmark Katar",
+          "desc": "+25 Attack Damage\n+10% Attack HP Steal"
+        },
+        "dragon-gun": {
+          "name": "Dragon Gun",
+          "desc": "+40 Attack Damage\n\nThunder: Basic Attacks deal 40 additional Magic Damage every 6 seconds. Every basic Attack reduces the CD by 2 seconds."
+        },
+        "dg": {
+          "name": "Dragon Gun",
+          "desc": "+40 Attack Damage\n\nThunder: Basic Attacks deal 40 additional Magic Damage every 6 seconds. Every basic Attack reduces the CD by 2 seconds."
+        },
+        "genji-longbow": {
+          "name": "Genji Longbow",
+          "desc": "+30% Attack Speed"
+        },
+        "gl": {
+          "name": "Genji Longbow",
+          "desc": "+30% Attack Speed"
+        },
+        "feather-bow": {
+          "name": "Feather Bow",
+          "desc": "+15% Attack Speed\n+15% Crit Rate\n\nFeathers: +5% Movement Speed"
+        },
+        "fb": {
+          "name": "Feather Bow",
+          "desc": "+15% Attack Speed\n+15% Crit Rate\n\nFeathers: +5% Movement Speed"
+        },
+        "chibiki-blade": {
+          "name": "Chibiki Blade",
+          "desc": "+40 Attack Damage\n\nChibiki: +10% Cooldown Reduction"
+        },
+        "cb": {
+          "name": "Chibiki Blade",
+          "desc": "+40 Attack Damage\n\nChibiki: +10% Cooldown Reduction"
+        },
+        "sulfur-hammer": {
+          "name": "Sulfur Hammer",
+          "desc": "+25 Attack Damage\n+450 HP"
+        },
+        "sh": {
+          "name": "Sulfur Hammer",
+          "desc": "+25 Attack Damage\n+450 HP"
+        },
+        "nether-scythe": {
+          "name": "Nether Scythe",
+          "desc": "+40 Attack Damage\n\nShadow scythe: Basic Attacks deal an additional 15 Physical Damage to the target."
+        },
+        "ns": {
+          "name": "Nether Scythe",
+          "desc": "+40 Attack Damage\n\nShadow scythe: Basic Attacks deal an additional 15 Physical Damage to the target."
+        },
+        "hateful-tachi": {
+          "name": "Hateful Tachi",
+          "desc": "+30% Attack Speed\n\nSuppression: Physical damage dealt by you reduces the healing of enemy shikigami by 25% over 2 seconds."
+        },
+        "demon-splitter": {
+          "name": "Demon Splitter",
+          "desc": "+30 Attack Damage\n\nClaws: +15% Armor Penetration"
+        },
+        "ds": {
+          "name": "Demon Splitter",
+          "desc": "+30 Attack Damage\n\nClaws: +15% Armor Penetration"
+        },
+        "devourer-ball": {
+          "name": "Devourer Ball",
+          "desc": "+35 Attack Damage\n+70 Magic Resist"
+        },
+        "db": {
+          "name": "Devourer Ball",
+          "desc": "+35 Attack Damage\n+70 Magic Resist"
+        },
+        "otome-blade": {
+          "name": "Otome Blade",
+          "desc": "+40 Attack Damage\n\nCursed Scar: Basic Attack restores MP by 2."
+        },
+        "otome": {
+          "name": "Otome Blade",
+          "desc": "+40 Attack Damage\n\nCursed Scar: Basic Attack restores MP by 2."
+        },
+        "eclipse-blade": {
+          "name": "Eclipse Blade",
+          "desc": "+30 Attack Damage\n\nChop: Basic melee attack deal (25% Attack) to the target and enemies near the target. Damage to minions is increased by 100%"
+        },
+        "eb": {
+          "name": "Eclipse Blade",
+          "desc": "+30 Attack Damage\n\nChop: Basic melee attack deal (25% Attack) to the target and enemies near the target. Damage to minions is increased by 100%"
+        },
+        "shuriken": {
+          "name": "Shuriken",
+          "desc": "+15% Attack Speed."
+        },
+        "tachi": {
+          "name": "Tachi",
+          "desc": "+15 Attack Damage."
+        },
+        "katar": {
+          "name": "Katar",
+          "desc": "+10% Crit Rate."
+        },
+        "item": {
+          "name": "text",
+          "desc": "text"
+        }
+      }
+    },
+    {
+      "magic": {
+        "shichimen-tennyo": {
+          "name": "Shichimen Tennyo",
+          "desc": "+100 Ability Power\n+450 HP\n+300 MP\n+100% MP Regen\n\nTennyo: Increases HP by 15 and AP by 3 when defeating a shikigami or assisting to defeat a shikigami. Gain 1 layer every 40 seconds. Can store up to 25 layers.\nSoul Infusion: You gain 8 MP for the death of each nearby enemy unit to a maximum of 800. The effect is doubled when you kill the Unit."
+        },
+        "st": {
+          "name": "Shichimen Tennyo",
+          "desc": "+100 Ability Power\n+450 HP\n+300 MP\n+100% MP Regen\n\nTennyo: Increases HP by 15 and AP by 3 when defeating a shikigami or assisting to defeat a shikigami. Gain 1 layer every 40 seconds. Can store up to 25 layers.\nSoul Infusion: You gain 8 MP for the death of each nearby enemy unit to a maximum of 800. The effect is doubled when you kill the Unit."
+        },
+        "mandala-sutra": {
+          "name": "Mandala Sutra",
+          "desc": "+135 Ability Power\n+75% MP Regen\n+20% Cooldown Reduction\n\nSoul Rune: Restores 20% of MP Cost this time when casting an ability.\nHarpy: Restores 20% of Max MP when you defeat or assist to defeat a shikigami."
+        },
+        "ms": {
+          "name": "Mandala Sutra",
+          "desc": "+135 Ability Power\n+75% MP Regen\n+20% Cooldown Reduction\n\nSoul Rune: Restores 20% of MP Cost this time when casting an ability.\nHarpy: Restores 20% of Max MP when you defeat or assist to defeat a shikigami."
+        },
+        "izanami's-scepter": {
+          "name": "Izanami’s Scepter",
+          "desc": "Izanami’s Scepter\n+135 Ability Power\n\nYatagarasu: +7% Movement Speed\nDivine Will: Your abilities deal an additional 120 + (9% Ability Power) Magic Damage to the target. This can only be triggered once every 9 seconds for each target"
+        },
+        "is": {
+          "name": "Izanami’s Scepter",
+          "desc": "Izanami’s Scepter\n+135 Ability Power\n\nYatagarasu: +7% Movement Speed\nDivine Will: Your abilities deal an additional 120 + (9% Ability Power) Magic Damage to the target. This can only be triggered once every 9 seconds for each target"
+        },
+        "marsh-moon": {
+          "name": "Marsh Moon",
+          "desc": "+135 Ability Power\n+250 HP\n\nYatagarasu: 10% Movement Speed\nAmanuma: Your Magic Damage decreases the movement speed of enemies by 20% for 1 second.\nSuppression: When your magic damage hits an enemy, it reduces healing effect of enemy by 40% over 4 seconds."
+        },
+        "mm": {
+          "name": "Marsh Moon",
+          "desc": "+135 Ability Power\n+250 HP\n\nYatagarasu: 10% Movement Speed\nAmanuma: Your Magic Damage decreases the movement speed of enemies by 20% for 1 second.\nSuppression: When your magic damage hits an enemy, it reduces healing effect of enemy by 40% over 4 seconds."
+        },
+        "tale-of-izumo": {
+          "name": "Tale of Izumo",
+          "desc": "+180 Ability Power\n\nIzumo: Increases Ability Power by 13% + Lv * 2 to a maximum of 35%."
+        },
+        "toi": {
+          "name": "Tale of Izumo",
+          "desc": "+180 Ability Power\n\nIzumo: Increases Ability Power by 13% + Lv * 2 to a maximum of 35%."
+        },
+        "summer-ashes": {
+          "name": "Summer Ashes",
+          "desc": "+120 Ability Power\n+375 HP\n+10% Cooldown Reduction\n\nEmber: Your magic damage will make the target receive magic damage equal to 4% of Max HP within 3 seconds. Can deal up to 70 magic damage each time."
+        },
+        "sa": {
+          "name": "Summer Ashes",
+          "desc": "+120 Ability Power\n+375 HP\n+10% Cooldown Reduction\n\nEmber: Your magic damage will make the target receive magic damage equal to 4% of Max HP within 3 seconds. Can deal up to 70 magic damage each time."
+        },
+        "eight-trigrams": {
+          "name": "Eight Trigrams",
+          "desc": "+120 Ability Power\n\nTrigram: +35% Magic Penetration\nTaichi: Magic Damage is increased by 1% for every 100 HP the target has more than you, up to a maximum of 10%."
+        },
+        "et": {
+          "name": "Eight Trigrams",
+          "desc": "+120 Ability Power\n\nTrigram: +35% Magic Penetration\nTaichi: Magic Damage is increased by 1% for every 100 HP the target has more than you, up to a maximum of 10%."
+        },
+        "night-parasol": {
+          "name": "Night Parasol",
+          "desc": "+120 Ability Power\n+90 Magic Resist\n+10% Cooldown Reduction\n\nNight Parasol: Uses 1 charged energy to reduce damage by (25 + (Level * 5)) when receiving magic damage equal to more than 8% of your HP. Every 15 seconds 1 charged energy will be restored. Get 5 charged energy when returning to the Seimei Well."
+        },
+        "np": {
+          "name": "Night Parasol",
+          "desc": "+120 Ability Power\n+90 Magic Resist\n+10% Cooldown Reduction\n\nNight Parasol: Uses 1 charged energy to reduce damage by (25 + (Level * 5)) when receiving magic damage equal to more than 8% of your HP. Every 15 seconds 1 charged energy will be restored. Get 5 charged energy when returning to the Seimei Well."
+        },
+        "chiyo's-sword": {
+          "name": "Chiyo's Sword",
+          "desc": "+120 Ability Power\n+300 HP\n+10% Cooldown Reduction\n\nNightwing: +20% Spell Vampire\nHimeidori: Restores Base HP by 10% when you defeat or assist and enemy shikigami."
+        },
+        "cs": {
+          "name": "Chiyo's Sword",
+          "desc": "+120 Ability Power\n+300 HP\n+10% Cooldown Reduction\n\nNightwing: +20% Spell Vampire\nHimeidori: Restores Base HP by 10% when you defeat or assist and enemy shikigami."
+        },
+        "ravening-zither": {
+          "name": "Ravening Zither",
+          "desc": "+110 Ability Power\n+80 Armor\n+100% HP Regen\n\nActive – Flash: Make your shikigami enter flash for 2.5 seconds. The shikigami gains immunity to all damage and cannot be targeted. CD: 90 seconds."
+        },
+        "rz": {
+          "name": "Ravening Zither",
+          "desc": "+110 Ability Power\n+80 Armor\n+100% HP Regen\n\nActive – Flash: Make your shikigami enter flash for 2.5 seconds. The shikigami gains immunity to all damage and cannot be targeted. CD: 90 seconds."
+        },
+        "sylph's-harp": {
+          "name": "Sylph’s Harp",
+          "desc": "+110 Ability Power\b+450 HP\n+100% HP Regen\n\nSylph: When your HP is lower than 35%, you immediately obtain a shield that can absorb 400 + (30 * Level) Damage for 4 seconds. All Slow effects are ineffective while shield is in effect. CD 60 seconds."
+        },
+        "sh": {
+          "name": "Sylph’s Harp",
+          "desc": "+110 Ability Power\b+450 HP\n+100% HP Regen\n\nSylph: When your HP is lower than 35%, you immediately obtain a shield that can absorb 400 + (30 * Level) Damage for 4 seconds. All Slow effects are ineffective while shield is in effect. CD 60 seconds."
+        },
+        "ama-no-ohabari": {
+          "name": "Ama-no-Ohabari",
+          "desc": "+100 Ability Power\n+450 HP\n+20% Cooldown Reduction\n\nCursed Scar: For the next 5 seconds after using an ability, the next Basic Attack deals an additional 50 + (30% Ability Power) + (8 * Level) extra magic damage. This effect can be triggered once every 1.5 seconds."
+        },
+        "ano": {
+          "name": "Ama-no-Ohabari",
+          "desc": "+100 Ability Power\n+450 HP\n+20% Cooldown Reduction\n\nCursed Scar: For the next 5 seconds after using an ability, the next Basic Attack deals an additional 50 + (30% Ability Power) + (8 * Level) extra magic damage. This effect can be triggered once every 1.5 seconds."
+        },
+        "buddha-beads": {
+          "name": "Buddha Beads",
+          "desc": "+150 Ability Power\n+10% Cooldown Reduction\n\nWrath: Immediately gains 60 ability power for 6 seconds after casting ultimate abilities. CD: 40 seconds."
+        },
+        "bb": {
+          "name": "Buddha Beads",
+          "desc": "+150 Ability Power\n+10% Cooldown Reduction\n\nWrath: Immediately gains 60 ability power for 6 seconds after casting ultimate abilities. CD: 40 seconds."
+        },
+        "shadow-fan": {
+          "name": "Shadow Fan",
+          "desc": "+100 Ability Power\n+450 HP\n+10% Cooldown Reduction\n\nShadow: After you deal Magic Damage to a target, your Magic Damage to the target will be increased by 1.5%. This effect can stack 1 layer every 0.5 seconds, up to a max of 8 layers. This effect will disappear if the target doesn’t receive Magic Damage from you within 6 seconds. (Valid for shikigami abilities only.)"
+        },
+        "sf": {
+          "name": "Shadow Fan",
+          "desc": "+100 Ability Power\n+450 HP\n+10% Cooldown Reduction\n\nShadow: After you deal Magic Damage to a target, your Magic Damage to the target will be increased by 1.5%. This effect can stack 1 layer every 0.5 seconds, up to a max of 8 layers. This effect will disappear if the target doesn’t receive Magic Damage from you within 6 seconds. (Valid for shikigami abilities only.)"
+        },
+        "ningyo-soulstone": {
+          "name": "Ningyo Soulstone",
+          "desc": "+440 HP\n+300 MP\n+50% MP Regen\n\nSoul Infusion: You gain 8 MP for the death of each nearby enemy unit to a maximum of 800. The effect is doubled when you kill the Unit."
+        },
+        "ns": {
+          "name": "Ningyo Soulstone",
+          "desc": "+440 HP\n+300 MP\n+50% MP Regen\n\nSoul Infusion: You gain 8 MP for the death of each nearby enemy unit to a maximum of 800. The effect is doubled when you kill the Unit."
+        },
+        "soul-infusion": {
+          "name": "Soul Infusion",
+          "desc": "+40 Ability Power\n+75% MP Regen\n\nSoul Rune: Restores 10% of MP Cost this time when casting an ability."
+        },
+        "si": {
+          "name": "Soul Infusion",
+          "desc": "+40 Ability Power\n+75% MP Regen\n\nSoul Rune: Restores 10% of MP Cost this time when casting an ability."
+        },
+        "naraku-staff": {
+          "name": "Naraku Staff",
+          "desc": "+90 Ability Power"
+        },
+        "naraku": {
+          "name": "Naraku Staff",
+          "desc": "+90 Ability Power"
+        },
+        "yatagarasu-feather": {
+          "name": "Yatagarasu Feather",
+          "desc": "+45 Ability Power\n\nYatagarasu: +5% Movement Speed"
+        },
+        "yf": {
+          "name": "Yatagarasu Feather",
+          "desc": "+45 Ability Power\n\nYatagarasu: +5% Movement Speed"
+        },
+        "kojiki-scroll": {
+          "name": "Kojiki Scroll",
+          "desc": "+45 Ability Power\n\nHistory: +10% Cooldown Reduction"
+        },
+        "ks": {
+          "name": "Kojiki Scroll",
+          "desc": "+45 Ability Power\n\nHistory: +10% Cooldown Reduction"
+        },
+        "nova-fan": {
+          "name": "Nova Fan",
+          "desc": "+40 Ability Power\n+300 HP\n\nEmber: Your magic damage will make the target receive magic damage equal to 2% of Max HP within 3 seconds. Can deal up to 30 magic damage each time."
+        },
+        "nf": {
+          "name": "Nova Fan",
+          "desc": "+40 Ability Power\n+300 HP\n\nEmber: Your magic damage will make the target receive magic damage equal to 2% of Max HP within 3 seconds. Can deal up to 30 magic damage each time."
+        },
+        "crane-lute": {
+          "name": "Crane Lute",
+          "desc": "+40 Ability Power\n+100% HP Regen"
+        },
+        "cl": {
+          "name": "Crane Lute",
+          "desc": "+40 Ability Power\n+100% HP Regen"
+        },
+        "kitsune-sword": {
+          "name": "Kitsune Sword",
+          "desc": "+40 Ability Power\n+300 HP"
+        },
+        "kitsune": {
+          "name": "Kitsune Sword",
+          "desc": "+40 Ability Power\n+300 HP"
+        },
+        "stamp-of-seimei": {
+          "name": "Stamp of Seimei",
+          "desc": "+40 Ability Power\n+225 HP\n\nSuppression: When your magic damage hits an enemy shikigami, it reduces the healing effects of enemy by 25% over 2 seconds."
+        },
+        "sos": {
+          "name": "Stamp of Seimei",
+          "desc": "+40 Ability Power\n+225 HP\n\nSuppression: When your magic damage hits an enemy shikigami, it reduces the healing effects of enemy by 25% over 2 seconds."
+        },
+        "onmyoji-amulet": {
+          "name": "Onmyoji Amulet",
+          "desc": "+25% MP Regen"
+        },
+        "oa": {
+          "name": "Onmyoji Amulet",
+          "desc": "+25% MP Regen"
+        },
+        "jade-pendant": {
+          "name": "Jade Pendant",
+          "desc": "+250 mp."
+        },
+        "jp": {
+          "name": "Jade Pendant",
+          "desc": "+250 mp."
+        },
+        "history-parchment": {
+          "name": "History Parchment",
+          "desc": "+30 Ability Power"
+        },
+        "hp": {
+          "name": "History Parchment",
+          "desc": "+30 Ability Power"
+        },
+        "item": {
+          "name": "text",
+          "desc": "text"
+        }
+      }
+    },
+    {
+      "defense": {
+        "sessho-seki-do": {
+          "name": "Sessho-seki-Do",
+          "desc": "+150 Armor\n\nJizo Diety: When you take a critical hit, you obtain a shield that can absorb 15% of its physical damage.\nSessho-seki: Counterattack when you take a basic attack, dealing magic damage equal to 15% Armor +15% of the damage taken before damage reduction."
+        },
+        "ssd": {
+          "name": "Sessho-seki-Do",
+          "desc": "+150 Armor\n\nJizo Diety: When you take a critical hit, you obtain a shield that can absorb 15% of its physical damage.\nSessho-seki: Counterattack when you take a basic attack, dealing magic damage equal to 15% Armor +15% of the damage taken before damage reduction."
+        },
+        "vaisravana-drum": {
+          "name": "Vaisravana Drum",
+          "desc": "+600 HP\n+100% HP Regen\n+95 Armor\n\nSkyfire: Incinetrates the souls of nearby enemies, dealing 38 + (2 * Level) magic damage per second (2x damage against non-shikigami units.)"
+        },
+        "vd": {
+          "name": "Vaisravana Drum",
+          "desc": "+600 HP\n+100% HP Regen\n+95 Armor\n\nSkyfire: Incinetrates the souls of nearby enemies, dealing 38 + (2 * Level) magic damage per second (2x damage against non-shikigami units.)"
+        },
+        "soul-grabber": {
+          "name": "Soul Grabber",
+          "desc": "+120 Armor\n+465 HP\n+20 Cooldown Reduction\n\nCursed Scar: For the next 5 seconds after using this ability, the next Basic Attacks deals an additional (+70% Bonus Armor) physical damage, reduces target’s movement speed by 20% and increases Movement speed by 10% over 2 seconds. This effect can be triggered once every 6 seconds."
+        },
+        "sg": {
+          "name": "Soul Grabber",
+          "desc": "+120 Armor\n+465 HP\n+20 Cooldown Reduction\n\nCursed Scar: For the next 5 seconds after using this ability, the next Basic Attacks deals an additional (+70% Bonus Armor) physical damage, reduces target’s movement speed by 20% and increases Movement speed by 10% over 2 seconds. This effect can be triggered once every 6 seconds."
+        },
+        "tsukuyomi-do": {
+          "name": "Tsukuyomi Do",
+          "desc": "+150 Armor\n+300 HP\n+75% MP Regen\n+20% Cooldown Reduction\n\nSoul Rune: Restores 20% of MP Cost this time when casting an ability.\nTsukiyomi: A chilly aura blocks the attacks of nearby enemies, reducing Attack Speed by 15%"
+        },
+        "td": {
+          "name": "Tsukuyomi Do",
+          "desc": "+150 Armor\n+300 HP\n+75% MP Regen\n+20% Cooldown Reduction\n\nSoul Rune: Restores 20% of MP Cost this time when casting an ability.\nTsukiyomi: A chilly aura blocks the attacks of nearby enemies, reducing Attack Speed by 15%"
+        },
+        "hoko-do": {
+          "name": "Hoko Do",
+          "desc": "+135 Armor\n+650 HP\n\nKing Mu Order: When damage equal to 35% of your mac HP is taken, a frost ring is triggered that decreases the target’s Movement speed by 50% for 2 seconds. The CD of this effect is 12 seconds.\nSuppression: When being hit by a basic attack, it reduces the healing effect of the attacked by 40% for 1 second."
+        },
+        "hd": {
+          "name": "Hoko Do",
+          "desc": "+135 Armor\n+650 HP\n\nKing Mu Order: When damage equal to 35% of your mac HP is taken, a frost ring is triggered that decreases the target’s Movement speed by 50% for 2 seconds. The CD of this effect is 12 seconds.\nSuppression: When being hit by a basic attack, it reduces the healing effect of the attacked by 40% for 1 second."
+        },
+        "gold-hachiman-do": {
+          "name": "Gold Hachiman Do",
+          "desc": "+90 Armor\n+375 HP\n+15% Attack Speed\n\nFeathers: +5% Movement Speed\nGolden Armor: Increases attack speed by 25% and armor by 30 for nearby allied shikigami.\nBushin: Decrease the Armor of nearby enemies by 30."
+        },
+        "ghd": {
+          "name": "Gold Hachiman Do",
+          "desc": "+90 Armor\n+375 HP\n+15% Attack Speed\n\nFeathers: +5% Movement Speed\nGolden Armor: Increases attack speed by 25% and armor by 30 for nearby allied shikigami.\nBushin: Decrease the Armor of nearby enemies by 30."
+        },
+        "ninth-heaven-wing": {
+          "name": "Ninth Heaven Wing",
+          "desc": "+675 HP\n+110 Magic Resist\n+100% HP Regen\n+10% Cooldown Reduction\n\nPhoenix Wing: Whenever you take Magic Damage from a shikigami ability, decrease future Magic Damage taken by 3%. Stacks up to 3 layers and lost for 6 seconds."
+        },
+        "nhw": {
+          "name": "Ninth Heaven Wing",
+          "desc": "+675 HP\n+110 Magic Resist\n+100% HP Regen\n+10% Cooldown Reduction\n\nPhoenix Wing: Whenever you take Magic Damage from a shikigami ability, decrease future Magic Damage taken by 3%. Stacks up to 3 layers and lost for 6 seconds."
+        },
+        "lavish-red-robe": {
+          "name": "Lavish Red Robe",
+          "desc": "+675 HP\n+110 Magic Resist\n+100% HP Regen\n+10% Cooldown Reduction\n\nBlessing: Increase Magic Resist by 40 for nearby allied shikigami."
+        },
+        "lrr": {
+          "name": "Lavish Red Robe",
+          "desc": "+675 HP\n+110 Magic Resist\n+100% HP Regen\n+10% Cooldown Reduction\n\nBlessing: Increase Magic Resist by 40 for nearby allied shikigami."
+        },
+        "sanzu-river-lantern": {
+          "name": "Sanzu River Lantern",
+          "desc": "+525 HP\n+110 Magic Resist\n+10% Cooldown Reduction\n\nOgawa River: Your Basic Attacks and Ability Damage will corrode the target, decreasing Magic Resist by 10. Stacks up to 3 layers and lasts for 5 seconds."
+        },
+        "srl": {
+          "name": "Sanzu River Lantern",
+          "desc": "+525 HP\n+110 Magic Resist\n+10% Cooldown Reduction\n\nOgawa River: Your Basic Attacks and Ability Damage will corrode the target, decreasing Magic Resist by 10. Stacks up to 3 layers and lasts for 5 seconds."
+        },
+        "lucky-parasol": {
+          "name": "Lucky Parasol",
+          "desc": "+135 Armor\n+135 Magic Resist\n\nPearl: +30% Increase Healing Received"
+        },
+        "lp": {
+          "name": "Lucky Parasol",
+          "desc": "+135 Armor\n+135 Magic Resist\n\nPearl: +30% Increase Healing Received"
+        },
+        "yata-no-kagami": {
+          "name": "Yata no Kagami",
+          "desc": "+1200 HP\n+10% Cooldown Reduction\n\nYata no Kagami: Recover 2% of Max HP per second (the effect doubles after Lv.15). This effect will deactivate for 8 seconds after taking damage (the effect will deactivate for 6 seconds after taking damage from minions and monsters)."
+        },
+        "ynk": {
+          "name": "Yata no Kagami",
+          "desc": "+1200 HP\n+10% Cooldown Reduction\n\nYata no Kagami: Recover 2% of Max HP per second (the effect doubles after Lv.15). This effect will deactivate for 8 seconds after taking damage (the effect will deactivate for 6 seconds after taking damage from minions and monsters)."
+        },
+        "demon-mask": {
+          "name": "Demon Mask",
+          "desc": "+40 Attack Damage\n+600 HP\n\nDemon Visage: Instantly gains a shield that can absorb 270 + (50% Bonus Max HP) for 4 seconds when HP is less than 35% and increases Base attack by 50% for 5 seconds. Dealing damage to enemy shikigami can refresh duration time. CD: 90 seconds."
+        },
+        "dm": {
+          "name": "Demon Mask",
+          "desc": "+40 Attack Damage\n+600 HP\n\nDemon Visage: Instantly gains a shield that can absorb 270 + (50% Bonus Max HP) for 4 seconds when HP is less than 35% and increases Base attack by 50% for 5 seconds. Dealing damage to enemy shikigami can refresh duration time. CD: 90 seconds."
+        },
+        "bloodberry": {
+          "name": "Bloodberry",
+          "desc": "+50% HP Regen"
+        },
+        "bronze-scale": {
+          "name": "Bronze Scale",
+          "desc": "+225 HP"
+        },
+        "bs": {
+          "name": "Bronze Scale",
+          "desc": "+225 HP"
+        },
+        "hermit-kariginu": {
+          "name": "Hermit Kariginu",
+          "desc": "+30 Armor"
+        },
+        "hk": {
+          "name": "Hermit Kariginu",
+          "desc": "+30 Armor"
+        },
+        "straw-hat": {
+          "name": "Straw Hat",
+          "desc": "+50 Magic Resist"
+        },
+        "sh": {
+          "name": "Straw Hat",
+          "desc": "+50 Magic Resist"
+        },
+        "kitsune-mask": {
+          "name": "Kitsune Mask",
+          "desc": "+50 Armor\n+50% MP Regen\n\nKitsune: +10% Cooldown Reduction\nSoul Rune: Restores 10% of MP Cost this time when casting an ability"
+        },
+        "km": {
+          "name": "Kitsune Mask",
+          "desc": "+50 Armor\n+50% MP Regen\n\nKitsune: +10% Cooldown Reduction\nSoul Rune: Restores 10% of MP Cost this time when casting an ability"
+        },
+        "item": {
+          "name": "text",
+          "desc": "text"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+    "onmyodos": {
+        "mortality": {
+            "name": "Mortality",
+            "desc": "When attacking enemy shikigami who has higher max hp than yours, the damage dealt increases according to the percentage of the hp that is higher. When max hp is 60% more than yours, the damage dealt is 6% more."
+        },
+
+        "shatter": {
+            "name": "Shatter",
+            "desc": "Increases damage by 4% on enemies with less than 30% hp"
+        },
+
+        "soul-ward": {
+            "name": "Soul Ward",
+            "desc": "Increases heal and shield effects by 6%. When used on a target with less than 35% hp, the effect increases to 12%."
+        },
+
+        "clairvoyance": {
+            "name": "Clairvoyance",
+            "desc": "Every seal or assist on an enemy shikigami, or sealing 3 monsters, will permanently increase your max hp by 0.4%, up to a maximum of 10 times. At maximum, max hp will be increased by an additional 2%."
+        },
+
+        "occult-panther-maul": {
+            "name": "Occult: Panther Maul",
+            "desc": "Marks enemy shikigamis after hitting the enemy with two different basic attacks or abilities.  When the enemy is hit again, summon a panther that pounces on the enemy, dealing (+8×Level) + (+18% Ability Power) + (+35% Bonus Attack) magic damage Cooldown: 18 seconds."
+        },
+
+        "sorcery-star": {
+            "name": "Sorcery: Star",
+            "desc": "Abilities and basic attacks that hit enemy shikigami increases own spiritual power. (Every layer of basic attack and every two layers of ability stacking contain a 0.5-second built-in cooldown.) Each layer adds 0.6% damage to self, the 10th layer grants the Sorcery: Star state, adding an additional 5% Life Steal and Spell Vampire."
+        },
+
+        "occult-haste": {
+            "name": "Occult: Haste",
+            "desc": "If accumulated damage to an enemy shikigami reaches 15% of their max HP within 3 seconds, a 30% + (1.5%×Level) Movement speed bonus and a 50% Slow immunity is granted. The effect decays over 3 seconds to a 9% + (0.45%×Level) Movement Speed bonus and a 15% Slow immunity that last for 3 seconds. Dealing damage to enemy shikigami will refresh the duration. Cooldown 30 seconds."
+        },
+
+        "summon-purgatory": {
+            "name": "Summon: Purgatory",
+            "desc": "After using the damaging shikigami ability, summon Purgatory beneath the first shikigami or monster for 1.5 seconds, dealing up to (+8×Level) + (15% Ability Power) + (32.5% Bonus Attack0 magic damage to enemies within range. Cooldown: 8 seconds."
+        },
+
+        "divination-sigil": {
+            "name": "Divination Sigil",
+            "desc": "Triggers Divination Sigil in 4 seconds after entering battle. The next attack against a shikigami will be a heavy attack and deal 30(7% Bonus Max HP) magic damage and gain 30 + (7% Max Bonus HP) Shield. Effects will be halved if it is used by a ranged shikigami."
+        },
+
+        "sorcery-protect": {
+            "name": "Sorcery: Protect",
+            "desc": "After using the ultimate ability, you and a nearby shikigami with the lowest HP will gain a 50 + (12% Max HP) Shield and a 30% Movement speed increase for 1.5 seconds. Cooldown: 30 seconds."
+        },
+
+        "spirit-protection-fish": {
+            "name": "Spirit Protection Fish",
+            "desc": "If damage taken within 3 seconds is equal to 10% of Max HP, Armor and Magic Resist is increased by 45% plus 30 for 3 seconds. At the same time, (8×Level) magic damage is dealt to surround enemies every second. Cooldown 28 seconds."
+        },
+
+        "occult-pursuit": {
+            "name": "Occult: Pursuit",
+            "desc": "If enemy shikigami are hit with basic attacks 2 times within 5 seconds, attack speed is increased by 30% + (4%×Level) for 3 seconds. Cooldown 15 seconds."
+        },
+
+        "sorcery-change": {
+            "name": "Sorcery: Change",
+            "desc": "After leaving battle for 3 seconds, you can switch a spell that you carry to another spell not carried. After using the spell or 60 seconds, it will switch back to the original spell. Cooldown 90 seconds.\n\nThis ability can be used 100 seconds after the start of the battle.  After switching, the Cooldown of the spell used is 3 times that of the original."
+        },
+
+        "feather-sigil": {
+            "name": "Feather Sigil",
+            "desc": "Gains a 5% Cooldown Reduction. Every 1% of exceeded Cooldown Reduction will be converted to 1.5 Attack of 2.3 Ability Power"
+        },
+
+        "fox-blaze": {
+            "name": "Fox Blaze",
+            "desc": "Exceed healing effect will be converted to Shield. Limit 10% of your Max HP. Lasts for 10 seconds. Healing conversion ratio: Your healing effect: 40%. From allies: 10%."
+        },
+
+        "kiai": {
+            "name": "Kiai",
+            "desc": "Increases MP recovery per second by 1. Restores 10 MP each time an enemy unit is killed."
+        },
+
+        "omen-starlight": {
+            "name": "Omen Starlight",
+            "desc": "Restores 15 + (5% Max HP Lost) HP to self after dealing damage to enemies. Restoring an additional 50% if the damage is dealt to an enemy shikigami. Cooldown 15 seconds."
+        },
+
+        "witchs-prayer": {
+            "name": "Witch's Prayer",
+            "desc": "Reduces spell ability cooldown by 15%."
+        },
+
+        "scud": {
+            "name": "Scud",
+            "desc": "Trigger Scud effect in 1 second after withdrawing from a battle to increase movement speed by 20. After entering a battle, movement speed will be increased by 40 over 3 seconds."
+        },
+
+        "umbrella-shield": {
+            "name": "Umbrella Shield",
+            "desc": "Passive: Increases Armor and Magic Resist of self by an additional 5%. When casting ultimate ability, increase Reduce control by 20%. Cooldown 30 seconds."
+        },
+
+        "shadow-hunt": {
+            "name": "Shadow Hunt",
+            "desc": "Step into a bush and the next Basic attack carries a (15 + (4 × Level)) Magic Damage buff. The effect will remain for 5 seconds after leaving bush. Cooldown: 10 seconds"
+        }
+
+    }
+}
