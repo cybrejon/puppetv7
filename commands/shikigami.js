@@ -389,7 +389,7 @@ module.exports = {
             // computing base dmg after lvl 18
             var finalDamage = Math.trunc((growthStats.\u7269\u7406\u4f24\u5bb3 * 17) + baseStats.\u7269\u7406\u4f24\u5bb3),
                 finalArmor = Math.trunc(growthStats.\u62a4\u7532 * 17) + baseStats.\u62a4\u7532,
-                finalMana = ((growthStats.\u9b54\u6cd5\u4e0a\u9650 * 17) + baseStats.\u9b54\u6cd5\u4e0a\u9650),
+                finalMana = ((growthStats["魔法Top Lane限"] * 17) + baseStats["魔法Top Lane限"]),
                 finalAS = ((growthStats.\u653b\u901f\u52a0\u6210 * 17) + baseStats.\u653b\u51fb\u901f\u5ea6),
                 finalHP = Math.trunc((growthStats.\u751f\u547d\u503c * 17) + baseStats.\u751f\u547d\u503c),
                 finalMres = Math.trunc((growthStats.\u9b54\u6297 * 17) + baseStats.魔抗);
@@ -431,8 +431,8 @@ module.exports = {
                     { name: `:microphone2: Caracter Voice`, value: `Japanese VA: ${mainData.cv名字[0]}\nChinese VA: ${mainData.cv名字[1]}\nEnglish VA: ${mainData.cv名字[2]}\nKorean VA: ${mainData.cv名字[3]}`, inline: true },
                     { name: `:mens: Shikigami Score`, value: `:dagger: DPS: ${dps}\n:cyclone: Control: ${control}\n:heart: Survive: ${survive}\n:milky_way: Buff: ${buff}\n:woman_running: Agility: ${agility}\n:trident: Difficulty Score: ${shikiDiff}`, inline: true },
                     { name: `\u200b`, value: `\u200b` },
-                    { name: `:bar_chart: Base Stats`, value: `> Base Attack Damage: ${baseStats.\u7269\u7406\u4f24\u5bb3}\n> Attack Speed: ${baseStats.\u653b\u51fb\u901f\u5ea6}\n> Base Mana: ${baseStats.\u9b54\u6cd5\u4e0a\u9650}\n> Base Magic Resist: ${baseStats.魔抗}\n> Base HP: ${baseStats.\u751f\u547d\u503c}\n> Base Armor: ${baseStats.\u62a4\u7532}\n> Base Movement Speed: ${baseStats.\u79fb\u52a8\u901f\u5ea6}`, inline: true },
-                    { name: `:bar_chart: Growth Stats`, value: `> Mana Regen: ${growthStats.\u9b54\u6cd5\u56de\u590d}\n> Mana Increase: ${growthStats.\u9b54\u6cd5\u4e0a\u9650}\n> Resistance: ${growthStats.\u9b54\u6297}\n> Attack Speed Bonus: ${growthStats.\u653b\u901f\u52a0\u6210}\n> Attack Damage Bonus: ${growthStats.\u7269\u7406\u4f24\u5bb3}\n> Health Regen Bonus: ${growthStats.\u751f\u547d\u6062\u590d}\n> Armor Bonus: ${growthStats.\u62a4\u7532}\n> HP Bonus: ${growthStats.\u751f\u547d\u503c}`, inline: true },
+                    { name: `:bar_chart: Base Stats`, value: `> Base Attack Damage: ${baseStats.\u7269\u7406\u4f24\u5bb3}\n> Attack Speed: ${baseStats.\u653b\u51fb\u901f\u5ea6}\n> Base Mana: ${baseStats["魔法Top Lane限"]}\n> Base Magic Resist: ${baseStats.魔抗}\n> Base HP: ${baseStats.\u751f\u547d\u503c}\n> Base Armor: ${baseStats.\u62a4\u7532}\n> Base Movement Speed: ${baseStats.\u79fb\u52a8\u901f\u5ea6}`, inline: true },
+                    { name: `:bar_chart: Growth Stats`, value: `> Mana Regen: ${growthStats.\u9b54\u6cd5\u56de\u590d}\n> Mana Increase: ${growthStats["魔法Top Lane限"]}\n> Resistance: ${growthStats.\u9b54\u6297}\n> Attack Speed Bonus: ${growthStats.\u653b\u901f\u52a0\u6210}\n> Attack Damage Bonus: ${growthStats.\u7269\u7406\u4f24\u5bb3}\n> Health Regen Bonus: ${growthStats.\u751f\u547d\u6062\u590d}\n> Armor Bonus: ${growthStats.\u62a4\u7532}\n> HP Bonus: ${growthStats.\u751f\u547d\u503c}`, inline: true },
                     { name: `:track_next: Skill Lvl-up Order:`, value: `> ${mainData.\u63a8\u8350\u52a0\u70b9\u987a\u5e8f}` },
                     { name: `\u200b`, value: `\u200b` },
                     { name: `:crossed_swords: Okami 1: **${mainData.推荐装备['推荐装备-默认方案1-说明']}**`, value: okami1_data, inline: true },
