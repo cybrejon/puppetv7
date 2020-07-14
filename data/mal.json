@@ -1,177 +1,181 @@
 {
- "title": "Kyoukai no Kanata",
- "synopsis": "Mirai Kuriyama is the sole survivor of a clan of Spirit World warriors with the power to employ their blood as weapons. As such, Mirai is tasked with hunting down and killing \"youmu\"—creatures said to be the manifestation of negative human emotions. One day, while deep in thought on the school roof, Mirai comes across Akihito Kanbara, a rare half-breed of youmu in human form. In a panicked state, she plunges her blood saber into him only to realize that he's an immortal being. From then on, the two form an impromptu friendship that revolves around Mirai constantly trying to kill Akihito, in an effort to boost her own wavering confidence as a Spirit World warrior. Eventually, Akihito also manages to convince her to join the Literary Club, which houses two other powerful Spirit World warriors, Hiroomi and Mitsuki Nase.\n\nAs the group's bond strengthens, however, so does the tenacity of the youmu around them. Their misadventures will soon turn into a fight for survival as the inevitable release of the most powerful youmu, Beyond the Boundary, approaches.\n\n[Written by MAL Rewrite]",
- "picture": "https://cdn.myanimelist.net/images/anime/3/85468.jpg",
+ "title": "Hinamatsuri",
+ "synopsis": "While reveling in the successful clinching of a prized vase for his collection, Yoshifumi Nitta, a yakuza member, is rudely interrupted when a large, peculiar capsule suddenly materializes and falls on his head. He opens the capsule to reveal a young, blue-haired girl, who doesn't divulge anything about herself but her name—Hina—and the fact that she possesses immense powers. As if things couldn't get any worse, she loses control and unleashes an explosion if her powers remain unused. Faced with no other choice, Nitta finds himself becoming her caregiver. \n\nTo let her use her powers freely, Nitta asks Hina to help out with a construction deal, which goes smoothly. But while this is happening, a rival yakuza group covertly attacks his boss. To Nitta's shock, his colleagues later pin the blame on him! Tasked with attacking the rival group in retaliation, Nitta steels himself and arrives at their hideout. But suddenly, Hina unexpectedly steps in and helps him wipe out the entire group. As it turns out, Hina might just become a valuable asset to Nitta and his yakuza business, provided she does not use her powers on him first! And so the strange life of this unusual duo begins.\n\n[Written by MAL Rewrite]",
+ "picture": "https://cdn.myanimelist.net/images/anime/1580/93526.jpg",
  "characters": [
   {
-   "link": "https://myanimelist.net/character/81751/Mirai_Kuriyama",
-   "picture": "https://cdn.myanimelist.net/images/characters/16/222699.jpg",
-   "name": "Kuriyama, Mirai",
+   "link": "https://myanimelist.net/character/100043/Hina",
+   "picture": "https://cdn.myanimelist.net/images/characters/13/346460.jpg",
+   "name": "Hina",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/16135/Risa_Taneda",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/46264.jpg",
-    "name": "Taneda, Risa"
+    "link": "https://myanimelist.net/people/47440/Takako_Tanaka",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/52419.jpg",
+    "name": "Tanaka, Takako"
    }
   },
   {
-   "link": "https://myanimelist.net/character/81757/Akihito_Kanbara",
-   "picture": "https://cdn.myanimelist.net/images/characters/5/228759.jpg",
-   "name": "Kanbara, Akihito",
+   "link": "https://myanimelist.net/character/100045/Yoshifumi_Nitta",
+   "picture": "https://cdn.myanimelist.net/images/characters/4/346461.jpg",
+   "name": "Nitta, Yoshifumi",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/857/KENN",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/46265.jpg",
-    "name": "KENN"
+    "link": "https://myanimelist.net/people/20096/Yoshiki_Nakajima",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/44398.jpg",
+    "name": "Nakajima, Yoshiki"
    }
   },
   {
-   "link": "https://myanimelist.net/character/81763/Hiroomi_Nase",
-   "picture": "https://cdn.myanimelist.net/images/characters/8/222655.jpg",
-   "name": "Nase, Hiroomi",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/735/Tatsuhisa_Suzuki",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/46267.jpg",
-    "name": "Suzuki, Tatsuhisa"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/81753/Mitsuki_Nase",
-   "picture": "https://cdn.myanimelist.net/images/characters/5/222649.jpg",
-   "name": "Nase, Mitsuki",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/53/Minori_Chihara",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/46268.jpg",
-    "name": "Chihara, Minori"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/91483/Izumi_Nase",
-   "picture": "https://cdn.myanimelist.net/images/characters/13/223243.jpg",
-   "name": "Nase, Izumi",
+   "link": "https://myanimelist.net/character/100421/Hitomi_Mishima",
+   "picture": "https://cdn.myanimelist.net/images/characters/13/346464.jpg",
+   "name": "Mishima, Hitomi",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/13/Ayako_Kawasumi",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/49118.jpg",
-    "name": "Kawasumi, Ayako"
+    "link": "https://myanimelist.net/people/38659/Kaede_Hondo",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/41956.jpg",
+    "name": "Hondo, Kaede"
    }
   },
   {
-   "link": "https://myanimelist.net/character/91479/Ai_Shindou",
-   "picture": "https://cdn.myanimelist.net/images/characters/7/222657.jpg",
-   "name": "Shindou, Ai",
+   "link": "https://myanimelist.net/character/111045/Anzu",
+   "picture": "https://cdn.myanimelist.net/images/characters/9/346462.jpg",
+   "name": "Anzu",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/8478/Yuri_Yamaoka",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/57490.jpg",
-    "name": "Yamaoka, Yuri"
+    "link": "https://myanimelist.net/people/12212/Rie_Murakawa",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/39494.jpg",
+    "name": "Murakawa, Rie"
    }
   },
   {
-   "link": "https://myanimelist.net/character/91481/Ayaka_Shindou",
-   "picture": "https://cdn.myanimelist.net/images/characters/2/222663.jpg",
-   "name": "Shindou, Ayaka",
+   "link": "https://myanimelist.net/character/158178/Mao",
+   "picture": "https://cdn.myanimelist.net/images/characters/13/348653.jpg",
+   "name": "Mao",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/256/Naomi_Shindo",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/23949.jpg",
-    "name": "Shindo, Naomi"
+    "link": "https://myanimelist.net/people/27395/Ari_Ozawa",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/37089.jpg",
+    "name": "Ozawa, Ari"
    }
   },
   {
-   "link": "https://myanimelist.net/character/91487/Shizuku_Ninomiya",
-   "picture": "https://cdn.myanimelist.net/images/characters/13/222661.jpg",
-   "name": "Ninomiya, Shizuku",
+   "link": "https://myanimelist.net/character/160939/Yassan",
+   "picture": "https://cdn.myanimelist.net/images/characters/14/355744.jpg",
+   "name": "Yassan",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/94/Akeno_Watanabe",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/17129.jpg",
-    "name": "Watanabe, Akeno"
+    "link": "https://myanimelist.net/people/800/Shinpachi_Tsuji",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/56339.jpg",
+    "name": "Tsuji, Shinpachi"
    }
   },
   {
-   "link": "https://myanimelist.net/character/91489/Sakura_Inami",
-   "picture": "https://cdn.myanimelist.net/images/characters/6/226081.jpg",
-   "name": "Inami, Sakura",
+   "link": "https://myanimelist.net/character/158177/Utako_Sakura",
+   "picture": "https://cdn.myanimelist.net/images/characters/5/348652.jpg",
+   "name": "Sakura, Utako",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/25395/Moe_Toyota",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/42230.jpg",
-    "name": "Toyota, Moe"
+    "link": "https://myanimelist.net/people/7263/Yoko_Hikasa",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/44597.jpg",
+    "name": "Hikasa, Yoko"
    }
   },
   {
-   "link": "https://myanimelist.net/character/94225/Yayoi_Kanbara",
-   "picture": "https://cdn.myanimelist.net/images/characters/15/224331.jpg",
-   "name": "Kanbara, Yayoi",
+   "link": "https://myanimelist.net/character/158180/Sabu",
+   "picture": "https://cdn.myanimelist.net/images/characters/9/348655.jpg",
+   "name": "Sabu",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/56/Hiromi_Konno",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/33447.jpg",
-    "name": "Konno, Hiromi"
+    "link": "https://myanimelist.net/people/15877/Kengo_Kawanishi",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/46959.jpg",
+    "name": "Kawanishi, Kengo"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/166683/Tatsuhiko_Naitou",
+   "picture": "https://cdn.myanimelist.net/images/characters/12/368831.jpg",
+   "name": "Naitou, Tatsuhiko",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/395/Tetsu_Inada",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/32729.jpg",
+    "name": "Inada, Tetsu"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/158179/Kiyoshi_Baba",
+   "picture": "https://cdn.myanimelist.net/images/characters/15/348654.jpg",
+   "name": "Baba, Kiyoshi",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/285/Tsuyoshi_Koyama",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/46079.jpg",
+    "name": "Koyama, Tsuyoshi"
    }
   }
  ],
  "staff": [
   {
-   "link": "https://myanimelist.net/people/38029/Shinichi_Nakamura",
+   "link": "https://myanimelist.net/people/10140/Kei_Oikawa",
    "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Nakamura, Shinichi",
-   "role": "Producer"
+   "name": "Oikawa, Kei",
+   "role": "Director, Storyboard"
   },
   {
-   "link": "https://myanimelist.net/people/38027/Riri_Senami",
+   "link": "https://myanimelist.net/people/6549/Satoshi_Motoyama",
    "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Senami, Riri",
-   "role": "Producer"
-  },
-  {
-   "link": "https://myanimelist.net/people/8129/Taichi_Ishidate",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/56512.jpg",
-   "name": "Ishidate, Taichi",
-   "role": "Director"
-  },
-  {
-   "link": "https://myanimelist.net/people/7194/Youta_Tsuruoka",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54363.jpg",
-   "name": "Tsuruoka, Youta",
+   "name": "Motoyama, Satoshi",
    "role": "Sound Director"
+  },
+  {
+   "link": "https://myanimelist.net/people/6010/Munenori_Nawa",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Nawa, Munenori",
+   "role": "Episode Director"
+  },
+  {
+   "link": "https://myanimelist.net/people/25383/Keiichirou_Oochi",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Oochi, Keiichirou",
+   "role": "Script, Series Composition"
   }
  ],
- "trailer": "https://www.youtube.com/embed/BnfeVrAAS2k?enablejsapi=1&wmode=opaque&autoplay=1",
- "englishTitle": "Beyond the Boundary",
- "japaneseTitle": "境界の彼方",
- "synonyms": "Beyond the Horizon",
+ "trailer": "https://www.youtube.com/embed/1oTxGJcx04Q?enablejsapi=1&wmode=opaque&autoplay=1",
+ "englishTitle": "Hinamatsuri",
+ "japaneseTitle": "ヒナまつり",
+ "synonyms": "Hina Festival",
  "type": "TV",
  "episodes": "12",
  "status": "Finished Airing",
- "aired": "Oct 3, 2013 to Dec 19, 2013",
- "premiered": "Fall 2013",
- "broadcast": "Thursdays at 00:30 (JST)",
+ "aired": "Apr 6, 2018 to Jun 22, 2018",
+ "premiered": "Spring 2018",
+ "broadcast": "Fridays at 21:00 (JST)",
  "producers": [
-  "Lantis",
-  "Pony Canyon",
-  "TBS"
+  "Media Factory",
+  "Magic Capsule",
+  "Nippon Columbia",
+  "Kadokawa Media House",
+  "Akatsuki"
  ],
  "studios": [
-  "Kyoto Animation"
+  "feel."
  ],
- "source": "Light novel",
+ "source": "Manga",
  "genres": [
+  "Comedy",
+  "Sci-Fi",
+  "Seinen",
   "Slice of Life",
-  "Supernatural",
-  "Fantasy"
+  "Supernatural"
  ],
- "duration": "24 min. per ep.",
+ "duration": "23 min. per ep.",
  "rating": "PG-13 - Teens 13 or older",
- "score": "7.81",
- "scoreStats": "scored by 358,799 users",
- "ranked": "#810",
- "popularity": "#84",
- "members": "734,873",
- "favorites": "9,842",
- "id": 18153,
- "url": "https://myanimelist.net/anime/18153/Kyoukai_no_Kanata"
+ "score": "8.25",
+ "scoreStats": "scored by 144,171 users",
+ "ranked": "#264",
+ "popularity": "#382",
+ "members": "294,111",
+ "favorites": "2,850",
+ "id": 36296,
+ "url": "https://myanimelist.net/anime/36296/Hinamatsuri"
 }
