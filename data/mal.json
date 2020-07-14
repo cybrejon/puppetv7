@@ -1,173 +1,177 @@
 {
- "title": "Persona 3 the Movie 1: Spring of Birth",
- "synopsis": "At the stroke of midnight, the Dark Hour appears—a secret hour which most are unaware of. Those not trapped in coffins during this time, unfortunate enough to find themselves conscious, are met by dangerous creatures known as Shadows. A select few, however, possess the potential to wield Persona: a special power used to defeat these beings. This secret group is called SEES (Specialized Extracurricular Execution Squad), and their mission is to uncover the reason behind the Dark Hour's appearance.\n\nOnly a short while after transfer student Makoto Yuuki begins his residency at Iwatodai Dorm, his Persona awakens after an attack by a strong Shadow. Now recruited into the ranks of SEES, he begins fighting alongside his comrades, as only they can protect humanity from Shadows and prevent the anomaly that is the Dark Hour.\n\n[Written by MAL Rewrite]",
- "picture": "https://cdn.myanimelist.net/images/anime/6/55287.jpg",
+ "title": "Kyoukai no Kanata",
+ "synopsis": "Mirai Kuriyama is the sole survivor of a clan of Spirit World warriors with the power to employ their blood as weapons. As such, Mirai is tasked with hunting down and killing \"youmu\"—creatures said to be the manifestation of negative human emotions. One day, while deep in thought on the school roof, Mirai comes across Akihito Kanbara, a rare half-breed of youmu in human form. In a panicked state, she plunges her blood saber into him only to realize that he's an immortal being. From then on, the two form an impromptu friendship that revolves around Mirai constantly trying to kill Akihito, in an effort to boost her own wavering confidence as a Spirit World warrior. Eventually, Akihito also manages to convince her to join the Literary Club, which houses two other powerful Spirit World warriors, Hiroomi and Mitsuki Nase.\n\nAs the group's bond strengthens, however, so does the tenacity of the youmu around them. Their misadventures will soon turn into a fight for survival as the inevitable release of the most powerful youmu, Beyond the Boundary, approaches.\n\n[Written by MAL Rewrite]",
+ "picture": "https://cdn.myanimelist.net/images/anime/3/85468.jpg",
  "characters": [
   {
-   "link": "https://myanimelist.net/character/6203/Makoto_Yuuki",
-   "picture": "https://cdn.myanimelist.net/images/characters/2/70476.jpg",
-   "name": "Yuuki, Makoto",
+   "link": "https://myanimelist.net/character/81751/Mirai_Kuriyama",
+   "picture": "https://cdn.myanimelist.net/images/characters/16/222699.jpg",
+   "name": "Kuriyama, Mirai",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/17/Akira_Ishida",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/44590.jpg",
-    "name": "Ishida, Akira"
+    "link": "https://myanimelist.net/people/16135/Risa_Taneda",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/46264.jpg",
+    "name": "Taneda, Risa"
    }
   },
   {
-   "link": "https://myanimelist.net/character/6206/Mitsuru_Kirijou",
-   "picture": "https://cdn.myanimelist.net/images/characters/2/362586.jpg",
-   "name": "Kirijou, Mitsuru",
+   "link": "https://myanimelist.net/character/81757/Akihito_Kanbara",
+   "picture": "https://cdn.myanimelist.net/images/characters/5/228759.jpg",
+   "name": "Kanbara, Akihito",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/60/Rie_Tanaka",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54653.jpg",
-    "name": "Tanaka, Rie"
+    "link": "https://myanimelist.net/people/857/KENN",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/46265.jpg",
+    "name": "KENN"
    }
   },
   {
-   "link": "https://myanimelist.net/character/9418/Akihiko_Sanada",
-   "picture": "https://cdn.myanimelist.net/images/characters/11/362587.jpg",
-   "name": "Sanada, Akihiko",
+   "link": "https://myanimelist.net/character/81763/Hiroomi_Nase",
+   "picture": "https://cdn.myanimelist.net/images/characters/8/222655.jpg",
+   "name": "Nase, Hiroomi",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/112/Hikaru_Midorikawa",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/56626.jpg",
-    "name": "Midorikawa, Hikaru"
+    "link": "https://myanimelist.net/people/735/Tatsuhisa_Suzuki",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/46267.jpg",
+    "name": "Suzuki, Tatsuhisa"
    }
   },
   {
-   "link": "https://myanimelist.net/character/6204/Yukari_Takeba",
-   "picture": "https://cdn.myanimelist.net/images/characters/10/362584.jpg",
-   "name": "Takeba, Yukari",
+   "link": "https://myanimelist.net/character/81753/Mitsuki_Nase",
+   "picture": "https://cdn.myanimelist.net/images/characters/5/222649.jpg",
+   "name": "Nase, Mitsuki",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/144/Megumi_Toyoguchi",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54873.jpg",
-    "name": "Toyoguchi, Megumi"
+    "link": "https://myanimelist.net/people/53/Minori_Chihara",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/46268.jpg",
+    "name": "Chihara, Minori"
    }
   },
   {
-   "link": "https://myanimelist.net/character/6205/Junpei_Iori",
-   "picture": "https://cdn.myanimelist.net/images/characters/10/362585.jpg",
-   "name": "Iori, Junpei",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/97/Kousuke_Toriumi",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/56756.jpg",
-    "name": "Toriumi, Kousuke"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/6207/Aegis",
-   "picture": "https://cdn.myanimelist.net/images/characters/8/362589.jpg",
-   "name": "Aegis",
+   "link": "https://myanimelist.net/character/91483/Izumi_Nase",
+   "picture": "https://cdn.myanimelist.net/images/characters/13/223243.jpg",
+   "name": "Nase, Izumi",
    "role": "Supporting",
    "seiyuu": {
-    "name": ""
+    "link": "https://myanimelist.net/people/13/Ayako_Kawasumi",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/49118.jpg",
+    "name": "Kawasumi, Ayako"
    }
   },
   {
-   "link": "https://myanimelist.net/character/9435/Shinjirou_Aragaki",
-   "picture": "https://cdn.myanimelist.net/images/characters/8/362591.jpg",
-   "name": "Aragaki, Shinjirou",
+   "link": "https://myanimelist.net/character/91479/Ai_Shindou",
+   "picture": "https://cdn.myanimelist.net/images/characters/7/222657.jpg",
+   "name": "Shindou, Ai",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/123/Kazuya_Nakai",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54603.jpg",
-    "name": "Nakai, Kazuya"
+    "link": "https://myanimelist.net/people/8478/Yuri_Yamaoka",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/57490.jpg",
+    "name": "Yamaoka, Yuri"
    }
   },
   {
-   "link": "https://myanimelist.net/character/9419/Elizabeth",
-   "picture": "https://cdn.myanimelist.net/images/characters/8/362593.jpg",
-   "name": "Elizabeth",
+   "link": "https://myanimelist.net/character/91481/Ayaka_Shindou",
+   "picture": "https://cdn.myanimelist.net/images/characters/2/222663.jpg",
+   "name": "Shindou, Ayaka",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/99/Miyuki_Sawashiro",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54600.jpg",
-    "name": "Sawashiro, Miyuki"
+    "link": "https://myanimelist.net/people/256/Naomi_Shindo",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/23949.jpg",
+    "name": "Shindo, Naomi"
    }
   },
   {
-   "link": "https://myanimelist.net/character/9207/Fuuka_Yamagishi",
-   "picture": "https://cdn.myanimelist.net/images/characters/13/362588.jpg",
-   "name": "Yamagishi, Fuuka",
+   "link": "https://myanimelist.net/character/91487/Shizuku_Ninomiya",
+   "picture": "https://cdn.myanimelist.net/images/characters/13/222661.jpg",
+   "name": "Ninomiya, Shizuku",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/40/Mamiko_Noto",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/44269.jpg",
-    "name": "Noto, Mamiko"
+    "link": "https://myanimelist.net/people/94/Akeno_Watanabe",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/17129.jpg",
+    "name": "Watanabe, Akeno"
    }
   },
   {
-   "link": "https://myanimelist.net/character/9431/Koromaru",
-   "picture": "https://cdn.myanimelist.net/images/characters/14/362594.jpg",
-   "name": "Koromaru",
+   "link": "https://myanimelist.net/character/91489/Sakura_Inami",
+   "picture": "https://cdn.myanimelist.net/images/characters/6/226081.jpg",
+   "name": "Inami, Sakura",
    "role": "Supporting",
    "seiyuu": {
-    "name": ""
+    "link": "https://myanimelist.net/people/25395/Moe_Toyota",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/42230.jpg",
+    "name": "Toyota, Moe"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/94225/Yayoi_Kanbara",
+   "picture": "https://cdn.myanimelist.net/images/characters/15/224331.jpg",
+   "name": "Kanbara, Yayoi",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/56/Hiromi_Konno",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/33447.jpg",
+    "name": "Konno, Hiromi"
    }
   }
  ],
  "staff": [
   {
-   "link": "https://myanimelist.net/people/37589/Noriaki_Akitaya",
+   "link": "https://myanimelist.net/people/38029/Shinichi_Nakamura",
    "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Akitaya, Noriaki",
+   "name": "Nakamura, Shinichi",
+   "role": "Producer"
+  },
+  {
+   "link": "https://myanimelist.net/people/38027/Riri_Senami",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Senami, Riri",
+   "role": "Producer"
+  },
+  {
+   "link": "https://myanimelist.net/people/8129/Taichi_Ishidate",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/56512.jpg",
+   "name": "Ishidate, Taichi",
    "role": "Director"
   },
   {
-   "link": "https://myanimelist.net/people/35787/Satoki_Iida",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/49710.jpg",
-   "name": "Iida, Satoki",
+   "link": "https://myanimelist.net/people/7194/Youta_Tsuruoka",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54363.jpg",
+   "name": "Tsuruoka, Youta",
    "role": "Sound Director"
-  },
-  {
-   "link": "https://myanimelist.net/people/12305/Yumi_Kawamura",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54063.jpg",
-   "name": "Kawamura, Yumi",
-   "role": "Theme Song Performance"
-  },
-  {
-   "link": "https://myanimelist.net/people/8958/Shoji_Meguro",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/48596.jpg",
-   "name": "Meguro, Shoji",
-   "role": "Music"
   }
  ],
- "trailer": "https://www.youtube.com/embed/TFcKYRgwsMo?enablejsapi=1&wmode=opaque&autoplay=1",
- "englishTitle": "Persona 3 the Movie: #1 Spring of Birth",
- "japaneseTitle": "PERSONA3 THE MOVIE —#1 Spring of Birth—",
- "synonyms": "Shin Megami Tensei: Persona 3, P3M",
- "type": "Movie",
- "episodes": "1",
+ "trailer": "https://www.youtube.com/embed/BnfeVrAAS2k?enablejsapi=1&wmode=opaque&autoplay=1",
+ "englishTitle": "Beyond the Boundary",
+ "japaneseTitle": "境界の彼方",
+ "synonyms": "Beyond the Horizon",
+ "type": "TV",
+ "episodes": "12",
  "status": "Finished Airing",
- "aired": "Nov 23, 2013",
- "premiered": "",
- "broadcast": "",
+ "aired": "Oct 3, 2013 to Dec 19, 2013",
+ "premiered": "Fall 2013",
+ "broadcast": "Thursdays at 00:30 (JST)",
  "producers": [
-  "Aniplex",
-  "Yomiko Advertising",
-  "Atlus"
+  "Lantis",
+  "Pony Canyon",
+  "TBS"
  ],
  "studios": [
-  "AIC A.S.T.A."
+  "Kyoto Animation"
  ],
- "source": "Game",
+ "source": "Light novel",
  "genres": [
-  "Action",
+  "Slice of Life",
   "Supernatural",
   "Fantasy"
  ],
- "duration": "1 hr. 38 min.",
- "rating": "R - 17+ (violence & profanity)",
- "score": "7.63",
- "scoreStats": "scored by 40,252 users",
- "ranked": "#1225",
- "popularity": "#1453",
- "members": "80,541",
- "favorites": "441",
- "id": 14407,
- "url": "https://myanimelist.net/anime/14407/Persona_3_the_Movie_1__Spring_of_Birth"
+ "duration": "24 min. per ep.",
+ "rating": "PG-13 - Teens 13 or older",
+ "score": "7.81",
+ "scoreStats": "scored by 358,799 users",
+ "ranked": "#810",
+ "popularity": "#84",
+ "members": "734,873",
+ "favorites": "9,842",
+ "id": 18153,
+ "url": "https://myanimelist.net/anime/18153/Kyoukai_no_Kanata"
 }
