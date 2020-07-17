@@ -43,7 +43,7 @@ module.exports = {
 
         const sendErr = (warn) => {
             message.channel.send(warn);
-            bot.channels.cache.get('706461978545356872').send('shikigami');
+            message.client.channels.cache.get('706461978545356872').send('shikigami');
         }
 
         if (aliases.kubinashi.includes(text1)) {

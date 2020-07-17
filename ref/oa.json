@@ -14031,8 +14031,8 @@
           "技能成长": {
             "Energy Cost": [
               "12.0",
-              "10.0",
-              "8.0"
+              "11.0",
+              "10.0"
             ],
             "Base Damage": [
               "100",
@@ -14088,15 +14088,15 @@
         "三技能": {
           "图标路径": "gui/res/skill/1057002.png",
           "技能ID": 105721,
-          "技能描述": "Lord Arakawa recovers all water balls. Water balls will deal 55(+24%Ability Power)    magic damage to enemies in their path. Each water ball will restore 2 (+0.11%HP Lost )   HP for him. If the water ball hits an enemy shikigami, HP restored will be increased by 500%.",
+          "技能描述": "Lord Arakawa recovers all water balls. Water balls will deal 55(+24%Ability Power)    magic damage to enemies in their path. Each water ball will restore 2 (+0.1%HP Lost )   HP for him. If the water ball hits an enemy shikigami, HP restored will be increased by 500%.",
           "技能名称": "Flow Force",
           "技能成长": {
             "Lost HP Regen": [
-              "0.11%",
-              "0.19%",
-              "0.28%",
-              "0.36%",
-              "0.45%"
+              "0.1%",
+              "0.18%",
+              "0.26%",
+              "0.34%",
+              "0.42%"
             ],
             "Base Damage": [
               "55",
@@ -17582,13 +17582,13 @@
         "四技能": {
           "图标路径": "gui/res/skill/1019004.png",
           "技能ID": 101941,
-          "技能描述": "Kanko triggers a Bamboo Blast, sending 12 conical waves of bullets at the enemy, with each wave dealing 50(+40%Attack)   physical damage. Kanko can move while using this ability, but his orientation cannot be changed. This damage can crit, and will deal 135% damage.",
+          "技能描述": "Kanko triggers a Bamboo Blast, sending 12 conical waves of bullets at the enemy, with each wave dealing 50(+40%Attack)   physical damage. Kanko can move while using this ability, but his orientation cannot be changed. This damage can crit, and will deal 150% damage.",
           "技能名称": "Bamboo Blast",
           "技能成长": {
             "Base Damage": [
               "50",
-              "110",
-              "170"
+              "130",
+              "210"
             ],
             "CD": [
               70,
@@ -20132,11 +20132,11 @@
               10
             ],
             "MP": [
-              40,
-              40,
-              40,
-              40,
-              40
+              30,
+              30,
+              30,
+              30,
+              30
             ]
           }
         },
@@ -20161,11 +20161,11 @@
               14
             ],
             "MP": [
+              50,
               60,
               70,
               80,
-              90,
-              100
+              90
             ],
             "HP Regen": [
               "60",
@@ -25622,7 +25622,32 @@
         "护甲": 6.5,
         "生命值": 155
       },
-      "皮肤": [],
+      "皮肤": [
+        {
+          "皮肤名称": "Tranquil Stars",
+          "皮肤全身像_新": "gui/res/hero_quan2/1089.png",
+          "皮肤ID": 108909,
+          "皮肤全身像": "gui/res/hero_quan/1089.png",
+          "皮肤头像": "gui/res/head_fang/1089.png",
+          "皮肤头像_新": "gui2/res/head_fang/1089.png"
+        },
+        {
+          "皮肤名称": "Evolved Form",
+          "皮肤全身像_新": "gui/res/hero_quan2/108901.png",
+          "皮肤ID": 108901,
+          "皮肤全身像": "gui/res/hero_quan/108901.png",
+          "皮肤头像": "gui/res/head_fang/108901.png",
+          "皮肤头像_新": "gui2/res/head_fang/108901.png"
+        },
+        {
+          "皮肤名称": "Thousand-year Dream",
+          "皮肤全身像_新": "gui/res/hero_quan2/108902.png",
+          "皮肤ID": 108902,
+          "皮肤全身像": "gui/res/hero_quan/108902.png",
+          "皮肤头像": "gui/res/head_fang/108902.png",
+          "皮肤头像_新": "gui2/res/head_fang/108902.png"
+        }
+      ],
       "推荐加点顺序": [
         1,
         3,
@@ -25696,7 +25721,7 @@
         "四技能": {
           "图标路径": "gui/res/skill/1089004.png",
           "技能ID": 108941,
-          "技能描述": "Active Effect: Shiranui unleashes a blazefly at the designated position.Shiranui gets one blazefly every 16 seconds up to a maximum of 2 blazeflies. If she helps seal an enemy shikigami, she will immediately gain a blazefly.Passive Effect: Midnight Flutter deals an additional 30(+30%Ability Power)   magic damage.",
+          "技能描述": "Active Effect: Shiranui unleashes a blazefly at the designated position. Shiranui gets one blazefly every 16 seconds up to a maximum of 2 blazeflies.If she helps seal an enemy shikigami, she will immediately gain a blazefly. This ability can be used during the casting process of other abilities.Passive Effect: Midnight Flutter deals an additional 30(+30%Ability Power)   magic damage.",
           "技能名称": "Blazing Stars",
           "技能成长": {
             "Base Damage": [
@@ -25744,7 +25769,7 @@
               65,
               70
             ],
-            "Slow Effect": [
+            "Slow effect": [
               "40%",
               "42.5%",
               "45%",
@@ -25756,7 +25781,7 @@
         "三技能": {
           "图标路径": "gui/res/skill/1089003.png",
           "技能ID": 108931,
-          "技能描述": "Whenever there is a blazefly on the field, Shiranui can transform into a butterfly, making her immune to interruption as she flies to the newest blazefly within a certain range of herself. When she lands, she will deal 75(+35%Ability Power)   magic damage to enemies in range, and the blazefly will disappear after a short delay. This ability can only be used on each individual blazefly one time.During the flight, the damage reduction effect of 20% will be obtained,",
+          "技能描述": "Whenever there is a blazefly on the field, Shiranui can transform into a butterfly, making her immune to interruption as she flies to the newest blazefly within a certain range of herself. When she lands, she will deal 75(+35%Ability Power)   magic damage to enemies in range. She receives a 20% damage reduction while flying, and the blazefly will disappear after a short delay. This ability can only be used on each individual blazefly one time.",
           "技能名称": "Midnight Flutter",
           "技能成长": {
             "Base Damage": [
@@ -25797,7 +25822,7 @@
         1,
         1
       ],
-      "新式神": false,
+      "新式神": true,
       "推荐加点优先级": [
         4,
         1,
@@ -25807,9 +25832,9 @@
       "式神标签": "Burst/Charge",
       "cv名字": [
         "Nao Touyama",
+        "Gui Niang",
         "Laura Post",
-        "Yeo Yunmi",
-        "여윤미"
+        "Yeo Yunmi"
       ],
       "式神方头像_新": "gui2/res/head_fang/1089.png",
       "式神卡片": "gui/res/hero/1089.png",
@@ -25900,7 +25925,7 @@
         "生存": 3,
         "增益": 1,
         "敏捷": 5,
-        "难度": 3
+        "难度": 4
       },
       "是否限免": false,
       "限免结束时间": null
