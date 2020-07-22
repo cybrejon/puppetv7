@@ -1,178 +1,178 @@
 {
- "title": "Inari, Konkon, Koi Iroha.",
- "synopsis": "Frazzle-haired middle schooler Inari Fushimi is less than average; she's painfully shy and horribly clumsy, but despite all this, she is undeniably kind. Running about the winding streets of her hometown, she takes a shortcut through the local shrine and stumbles upon a small fox pup in a river. After rescuing him, she continues on, but from this moment on, her life takes a drastic turn.\n\nGrateful for rescuing the pup, the shrine goddess Uka-no-Mitama-no-Kami, \"Uka-sama,\" grants Inari a fragment of her power. Now, Inari has the ability to transform into anyone by shouting the magical phrase \"Inari, konkon.\" Could this power also grant her the courage to convey her feelings to her crush, Kouji Tanbabashi? With her new heavenly ability and the fox spirit Kon, Inari forms a sincere friendship with Uka-sama, encounters more of the supernatural world, and learns that true love knows no bounds.\n\n[Written by MAL Rewrite]",
- "picture": "https://cdn.myanimelist.net/images/anime/8/64897.jpg",
+ "title": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+ "synopsis": "The infidelity of Eita Kidou's parents not only made his family fall apart, but also made him skeptic of love. Having no intention to delve into romance, Eita devotes his entire high school life to his studies in order to become a doctor.\n\nIt did not take long for the beautiful and popular Masuzu Natsukawa to notice Eita's apathy. Tired of being the object of people's affection, she asks him to pretend to be her boyfriend, as she too feels disgusted at the notion of love. Eita, however, refuses—yet Masuzu has one trick left up her sleeve: Eita’s journal and threatening to post the embarrassing content online if he does not comply.\n\nNow entangled in a fake romance with the most desired girl at school, Eita's life is turned upside down. Whether envied by his peers or receiving a confession, he must cope with his newfound relationship and all the troubles that come along with it.\n\n[Written by MAL Rewrite]",
+ "picture": "https://cdn.myanimelist.net/images/anime/13/44187.jpg",
  "characters": [
   {
-   "link": "https://myanimelist.net/character/74319/Uka-no-Mitama-no-Kami",
-   "picture": "https://cdn.myanimelist.net/images/characters/5/225125.jpg",
-   "name": "Uka-no-Mitama-no-Kami",
+   "link": "https://myanimelist.net/character/48993/Masuzu_Natsukawa",
+   "picture": "https://cdn.myanimelist.net/images/characters/12/191838.jpg",
+   "name": "Natsukawa, Masuzu",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/57/Houko_Kuwashima",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/57358.jpg",
-    "name": "Kuwashima, Houko"
+    "link": "https://myanimelist.net/people/27/Yukari_Tamura",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54665.jpg",
+    "name": "Tamura, Yukari"
    }
   },
   {
-   "link": "https://myanimelist.net/character/74317/Inari_Fushimi",
-   "picture": "https://cdn.myanimelist.net/images/characters/14/225123.jpg",
-   "name": "Fushimi, Inari",
+   "link": "https://myanimelist.net/character/55445/Ai_Fuyuumi",
+   "picture": "https://cdn.myanimelist.net/images/characters/10/191830.jpg",
+   "name": "Fuyuumi, Ai",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/22329/Naomi_Oozora",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54721.jpg",
-    "name": "Oozora, Naomi"
+    "link": "https://myanimelist.net/people/10765/Ai_Kayano",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/59708.jpg",
+    "name": "Kayano, Ai"
    }
   },
   {
-   "link": "https://myanimelist.net/character/86311/Kon",
-   "picture": "https://cdn.myanimelist.net/images/characters/13/235253.jpg",
-   "name": "Kon",
+   "link": "https://myanimelist.net/character/48999/Chiwa_Harusaki",
+   "picture": "https://cdn.myanimelist.net/images/characters/9/191834.jpg",
+   "name": "Harusaki, Chiwa",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/12652/Chinatsu_Akasaki",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/50680.jpg",
+    "name": "Akasaki, Chinatsu"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/48997/Eita_Kidou",
+   "picture": "https://cdn.myanimelist.net/images/characters/5/198765.jpg",
+   "name": "Kidou, Eita",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/13643/Haruka_Yamazaki",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/37083.jpg",
+    "name": "Yamazaki, Haruka"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/62263/Himeka_Akishino",
+   "picture": "https://cdn.myanimelist.net/images/characters/6/191832.jpg",
+   "name": "Akishino, Himeka",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/8555/Hisako_Kanemoto",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/53110.jpg",
+    "name": "Kanemoto, Hisako"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/75772/Kaoru_Asoi",
+   "picture": "https://cdn.myanimelist.net/images/characters/2/191828.jpg",
+   "name": "Asoi, Kaoru",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/12013/Sayuri_Hara",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/37011.jpg",
-    "name": "Hara, Sayuri"
+    "link": "https://myanimelist.net/people/16135/Risa_Taneda",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/46264.jpg",
+    "name": "Taneda, Risa"
    }
   },
   {
-   "link": "https://myanimelist.net/character/74651/Touka_Fushimi",
-   "picture": "https://cdn.myanimelist.net/images/characters/14/237285.jpg",
-   "name": "Fushimi, Touka",
+   "link": "https://myanimelist.net/character/75770/Mana_Natsukawa",
+   "picture": "https://cdn.myanimelist.net/images/characters/11/194953.jpg",
+   "name": "Natsukawa, Mana",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/926/Youji_Ueda",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/56371.jpg",
-    "name": "Ueda, Youji"
+    "link": "https://myanimelist.net/people/11184/Nao_Touyama",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54282.jpg",
+    "name": "Touyama, Nao"
    }
   },
   {
-   "link": "https://myanimelist.net/character/74325/Akemi_Sumizome",
-   "picture": "https://cdn.myanimelist.net/images/characters/9/237221.jpg",
-   "name": "Sumizome, Akemi",
+   "link": "https://myanimelist.net/character/75774/Saeko_Kiryuu",
+   "picture": "https://cdn.myanimelist.net/images/characters/4/199091.jpg",
+   "name": "Kiryuu, Saeko",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/8956/Iori_Nomizu",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/17945.jpg",
-    "name": "Nomizu, Iori"
+    "link": "https://myanimelist.net/people/78/Kaori_Nazuka",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54652.jpg",
+    "name": "Nazuka, Kaori"
    }
   },
   {
-   "link": "https://myanimelist.net/character/74321/Kouji_Tanbabashi",
-   "picture": "https://cdn.myanimelist.net/images/characters/16/243095.jpg",
-   "name": "Tanbabashi, Kouji",
+   "link": "https://myanimelist.net/character/77189/Sakagami",
+   "picture": "https://cdn.myanimelist.net/images/characters/15/192605.jpg",
+   "name": "Sakagami",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/521/Hiroshi_Okamoto",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/9107.jpg",
-    "name": "Okamoto, Hiroshi"
+    "link": "https://myanimelist.net/people/16635/Natsuki_Hanae",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/58598.jpg",
+    "name": "Hanae, Natsuki"
    }
   },
   {
-   "link": "https://myanimelist.net/character/74327/Oomiyanome-no-kami",
-   "picture": "https://cdn.myanimelist.net/images/characters/9/235537.jpg",
-   "name": "Oomiyanome-no-kami",
+   "link": "https://myanimelist.net/character/79553/Yoshie_Tanaka",
+   "picture": "https://cdn.myanimelist.net/images/characters/15/196963.jpg",
+   "name": "Tanaka, Yoshie",
    "role": "Supporting",
    "seiyuu": {
     "link": "https://myanimelist.net/people/11236/Shiori_Mikami",
     "picture": "https://cdn.myanimelist.net/images/voiceactors/2/18173.jpg",
     "name": "Mikami, Shiori"
    }
-  },
-  {
-   "link": "https://myanimelist.net/character/74331/Keiko_Sanjou",
-   "picture": "https://cdn.myanimelist.net/images/characters/14/235259.jpg",
-   "name": "Sanjou, Keiko",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/28983/Kumiko_Ikebe",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/30387.jpg",
-    "name": "Ikebe, Kumiko"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/74323/Ootoshi-no-kami",
-   "picture": "https://cdn.myanimelist.net/images/characters/12/237273.jpg",
-   "name": "Ootoshi-no-kami",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/160/Takehito_Koyasu",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/10264.jpg",
-    "name": "Koyasu, Takehito"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/94195/Chika_Marutamachi",
-   "picture": "https://cdn.myanimelist.net/images/characters/13/237235.jpg",
-   "name": "Marutamachi, Chika",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/12284/Kaori_Sadohara",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/42377.jpg",
-    "name": "Sadohara, Kaori"
-   }
   }
  ],
  "staff": [
   {
-   "link": "https://myanimelist.net/people/26565/Tooru_Takahashi",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Takahashi, Tooru",
+   "link": "https://myanimelist.net/people/7268/Kanta_Kamei",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/12872.jpg",
+   "name": "Kamei, Kanta",
    "role": "Director"
   },
   {
-   "link": "https://myanimelist.net/people/38339/Makoto_Katou",
+   "link": "https://myanimelist.net/people/8074/Jin_Aketagawa",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/53380.jpg",
+   "name": "Aketagawa, Jin",
+   "role": "Sound Director"
+  },
+  {
+   "link": "https://myanimelist.net/people/42034/Daisuke_Takashima",
    "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Katou, Makoto",
+   "name": "Takashima, Daisuke",
+   "role": "Episode Director"
+  },
+  {
+   "link": "https://myanimelist.net/people/25613/Kotomi_Deai",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Deai, Kotomi",
    "role": "Episode Director, Storyboard"
-  },
-  {
-   "link": "https://myanimelist.net/people/10198/Hideki_Okamoto",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Okamoto, Hideki",
-   "role": "Episode Director, Storyboard, Assistant Director"
-  },
-  {
-   "link": "https://myanimelist.net/people/10294/Touko_Machida",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/25777.jpg",
-   "name": "Machida, Touko",
-   "role": "Script"
   }
  ],
- "trailer": "https://www.youtube.com/embed/F26Yjm5-qWA?enablejsapi=1&wmode=opaque&autoplay=1",
- "englishTitle": "Inari Kon Kon",
- "japaneseTitle": "いなり、こんこん、恋いろは。",
- "synonyms": "Inari, Konkon, ABCs of Love",
+ "trailer": "https://www.youtube.com/embed/Qxf-PCLJr-Q?enablejsapi=1&wmode=opaque&autoplay=1",
+ "englishTitle": "Oreshura",
+ "japaneseTitle": "俺の彼女と幼なじみが修羅場すぎる",
+ "synonyms": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
  "type": "TV",
- "episodes": "10",
+ "episodes": "13",
  "status": "Finished Airing",
- "aired": "Jan 16, 2014 to Mar 20, 2014",
- "premiered": "Winter 2014",
- "broadcast": "Wednesdays at 01:00 (JST)",
+ "aired": "Jan 6, 2013 to Mar 31, 2013",
+ "premiered": "Winter 2013",
+ "broadcast": "Sundays at 00:00 (JST)",
  "producers": [
-  "DAX Production",
-  "flying DOG"
+  "Aniplex",
+  "Magic Capsule",
+  "SoftBank Creative"
  ],
  "studios": [
-  "Production IMS"
+  "A-1 Pictures"
  ],
- "source": "Manga",
+ "source": "Light novel",
  "genres": [
   "Comedy",
+  "Harem",
   "Romance",
-  "School",
-  "Seinen",
-  "Supernatural"
+  "School"
  ],
- "duration": "24 min. per ep.",
+ "duration": "23 min. per ep.",
  "rating": "PG-13 - Teens 13 or older",
- "score": "7.24",
- "scoreStats": "scored by 47,542 users",
- "ranked": "#2603",
- "popularity": "#1112",
- "members": "113,641",
- "favorites": "265",
- "id": 20457,
- "url": "https://myanimelist.net/anime/20457/Inari_Konkon_Koi_Iroha"
+ "score": "7.14",
+ "scoreStats": "scored by 172,722 users",
+ "ranked": "#2991",
+ "popularity": "#327",
+ "members": "338,894",
+ "favorites": "1,755",
+ "id": 14749,
+ "url": "https://myanimelist.net/anime/14749/Ore_no_Kanojo_to_Osananajimi_ga_Shuraba_Sugiru"
 }
