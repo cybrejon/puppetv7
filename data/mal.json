@@ -1,178 +1,39 @@
 {
- "title": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
- "synopsis": "The infidelity of Eita Kidou's parents not only made his family fall apart, but also made him skeptic of love. Having no intention to delve into romance, Eita devotes his entire high school life to his studies in order to become a doctor.\n\nIt did not take long for the beautiful and popular Masuzu Natsukawa to notice Eita's apathy. Tired of being the object of people's affection, she asks him to pretend to be her boyfriend, as she too feels disgusted at the notion of love. Eita, however, refuses—yet Masuzu has one trick left up her sleeve: Eita’s journal and threatening to post the embarrassing content online if he does not comply.\n\nNow entangled in a fake romance with the most desired girl at school, Eita's life is turned upside down. Whether envied by his peers or receiving a confession, he must cope with his newfound relationship and all the troubles that come along with it.\n\n[Written by MAL Rewrite]",
- "picture": "https://cdn.myanimelist.net/images/anime/13/44187.jpg",
- "characters": [
-  {
-   "link": "https://myanimelist.net/character/48993/Masuzu_Natsukawa",
-   "picture": "https://cdn.myanimelist.net/images/characters/12/191838.jpg",
-   "name": "Natsukawa, Masuzu",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/27/Yukari_Tamura",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54665.jpg",
-    "name": "Tamura, Yukari"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/55445/Ai_Fuyuumi",
-   "picture": "https://cdn.myanimelist.net/images/characters/10/191830.jpg",
-   "name": "Fuyuumi, Ai",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/10765/Ai_Kayano",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/59708.jpg",
-    "name": "Kayano, Ai"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/48999/Chiwa_Harusaki",
-   "picture": "https://cdn.myanimelist.net/images/characters/9/191834.jpg",
-   "name": "Harusaki, Chiwa",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/12652/Chinatsu_Akasaki",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/50680.jpg",
-    "name": "Akasaki, Chinatsu"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/48997/Eita_Kidou",
-   "picture": "https://cdn.myanimelist.net/images/characters/5/198765.jpg",
-   "name": "Kidou, Eita",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/13643/Haruka_Yamazaki",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/37083.jpg",
-    "name": "Yamazaki, Haruka"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/62263/Himeka_Akishino",
-   "picture": "https://cdn.myanimelist.net/images/characters/6/191832.jpg",
-   "name": "Akishino, Himeka",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/8555/Hisako_Kanemoto",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/53110.jpg",
-    "name": "Kanemoto, Hisako"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/75772/Kaoru_Asoi",
-   "picture": "https://cdn.myanimelist.net/images/characters/2/191828.jpg",
-   "name": "Asoi, Kaoru",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/16135/Risa_Taneda",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/46264.jpg",
-    "name": "Taneda, Risa"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/75770/Mana_Natsukawa",
-   "picture": "https://cdn.myanimelist.net/images/characters/11/194953.jpg",
-   "name": "Natsukawa, Mana",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/11184/Nao_Touyama",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54282.jpg",
-    "name": "Touyama, Nao"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/75774/Saeko_Kiryuu",
-   "picture": "https://cdn.myanimelist.net/images/characters/4/199091.jpg",
-   "name": "Kiryuu, Saeko",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/78/Kaori_Nazuka",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54652.jpg",
-    "name": "Nazuka, Kaori"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/77189/Sakagami",
-   "picture": "https://cdn.myanimelist.net/images/characters/15/192605.jpg",
-   "name": "Sakagami",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/16635/Natsuki_Hanae",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/58598.jpg",
-    "name": "Hanae, Natsuki"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/79553/Yoshie_Tanaka",
-   "picture": "https://cdn.myanimelist.net/images/characters/15/196963.jpg",
-   "name": "Tanaka, Yoshie",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/11236/Shiori_Mikami",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/18173.jpg",
-    "name": "Mikami, Shiori"
-   }
-  }
- ],
- "staff": [
-  {
-   "link": "https://myanimelist.net/people/7268/Kanta_Kamei",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/12872.jpg",
-   "name": "Kamei, Kanta",
-   "role": "Director"
-  },
-  {
-   "link": "https://myanimelist.net/people/8074/Jin_Aketagawa",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/53380.jpg",
-   "name": "Aketagawa, Jin",
-   "role": "Sound Director"
-  },
-  {
-   "link": "https://myanimelist.net/people/42034/Daisuke_Takashima",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Takashima, Daisuke",
-   "role": "Episode Director"
-  },
-  {
-   "link": "https://myanimelist.net/people/25613/Kotomi_Deai",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Deai, Kotomi",
-   "role": "Episode Director, Storyboard"
-  }
- ],
- "trailer": "https://www.youtube.com/embed/Qxf-PCLJr-Q?enablejsapi=1&wmode=opaque&autoplay=1",
- "englishTitle": "Oreshura",
- "japaneseTitle": "俺の彼女と幼なじみが修羅場すぎる",
- "synonyms": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
- "type": "TV",
- "episodes": "13",
+ "title": "Kaijuu Girls Kuro: Ultra Kaijuu Gijinka Keikaku",
+ "synopsis": "",
+ "picture": "https://cdn.myanimelist.net/images/anime/1511/93559.jpg",
+ "characters": [],
+ "staff": [],
+ "trailer": "https://www.youtube.com/embed/eLs1KWHKUEg?enablejsapi=1&wmode=opaque&autoplay=1",
+ "englishTitle": "",
+ "japaneseTitle": "怪獣娘～ウルトラ怪獣擬人化計画～",
+ "synonyms": "Kaijuu Girls Black",
+ "type": "Movie",
+ "episodes": "1",
  "status": "Finished Airing",
- "aired": "Jan 6, 2013 to Mar 31, 2013",
- "premiered": "Winter 2013",
- "broadcast": "Sundays at 00:00 (JST)",
+ "aired": "Nov 23, 2018",
+ "premiered": "",
+ "broadcast": "",
  "producers": [
-  "Aniplex",
-  "Magic Capsule",
-  "SoftBank Creative"
+  "Sotsu"
  ],
  "studios": [
-  "A-1 Pictures"
+  "None found, add some"
  ],
- "source": "Light novel",
+ "source": "Original",
  "genres": [
   "Comedy",
-  "Harem",
-  "Romance",
-  "School"
+  "Fantasy",
+  "Parody"
  ],
- "duration": "23 min. per ep.",
- "rating": "PG-13 - Teens 13 or older",
- "score": "7.14",
- "scoreStats": "scored by 172,722 users",
- "ranked": "#2991",
- "popularity": "#327",
- "members": "338,894",
- "favorites": "1,755",
- "id": 14749,
- "url": "https://myanimelist.net/anime/14749/Ore_no_Kanojo_to_Osananajimi_ga_Shuraba_Sugiru"
+ "duration": "57 min.",
+ "rating": "None",
+ "score": "6.36",
+ "scoreStats": "scored by 238 users",
+ "ranked": "#6448",
+ "popularity": "#7566",
+ "members": "2,786",
+ "favorites": "1",
+ "id": 37586,
+ "url": "https://myanimelist.net/anime/37586/Kaijuu_Girls_Kuro__Ultra_Kaijuu_Gijinka_Keikaku"
 }
