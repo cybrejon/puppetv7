@@ -1,39 +1,180 @@
 {
- "title": "Kaijuu Girls Kuro: Ultra Kaijuu Gijinka Keikaku",
- "synopsis": "",
- "picture": "https://cdn.myanimelist.net/images/anime/1511/93559.jpg",
- "characters": [],
- "staff": [],
- "trailer": "https://www.youtube.com/embed/eLs1KWHKUEg?enablejsapi=1&wmode=opaque&autoplay=1",
- "englishTitle": "",
- "japaneseTitle": "怪獣娘～ウルトラ怪獣擬人化計画～",
- "synonyms": "Kaijuu Girls Black",
- "type": "Movie",
- "episodes": "1",
+ "title": "Black Bullet",
+ "synopsis": "In the year 2021, a parasitic virus known as \"Gastrea\" infects humans and turns them into monsters. What is left of mankind now lives within the Monolith walls, walls that are made of Varanium, the only material that can hurt Gastrea.\n\nTo counter the threat that the Gastrea pose, \"Cursed Children\"—female children whose bodies contain trace amounts of the virus which grant them superhuman abilities—officially called Initiators by the Tendo Civil Security, are given partners called Promoters, people who work to guide and protect the young Initiators. These teams of two are sent out on missions to fight the monsters created by the Gastrea virus and keep them at bay. \n\nBlack Bullet revolves around the team of Enju Aihara, an Initiator, and Satomi Rentaro, a Promoter, as they go on missions to fight the growing threat of Gastrea in their hometown of Tokyo.\n\n[Written by MAL Rewrite]",
+ "picture": "https://cdn.myanimelist.net/images/anime/1292/94693.jpg",
+ "characters": [
+  {
+   "link": "https://myanimelist.net/character/74621/Enju_Aihara",
+   "picture": "https://cdn.myanimelist.net/images/characters/5/241787.jpg",
+   "name": "Aihara, Enju",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/5250/Rina_Hidaka",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/41540.jpg",
+    "name": "Hidaka, Rina"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/74619/Rentarou_Satomi",
+   "picture": "https://cdn.myanimelist.net/images/characters/3/244717.jpg",
+   "name": "Satomi, Rentarou",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/672/Yuki_Kaji",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54595.jpg",
+    "name": "Kaji, Yuki"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/97251/Tina_Sprout",
+   "picture": "https://cdn.myanimelist.net/images/characters/9/245907.jpg",
+   "name": "Sprout, Tina",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/11661/Tomoyo_Kurosawa",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/56646.jpg",
+    "name": "Kurosawa, Tomoyo"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/83523/Kisara_Tendou",
+   "picture": "https://cdn.myanimelist.net/images/characters/15/241785.jpg",
+   "name": "Tendou, Kisara",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/28/Yui_Horie",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/55669.jpg",
+    "name": "Horie, Yui"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/83505/Kagetane_Hiruko",
+   "picture": "https://cdn.myanimelist.net/images/characters/3/243573.jpg",
+   "name": "Hiruko, Kagetane",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/113/Rikiya_Koyama",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54010.jpg",
+    "name": "Koyama, Rikiya"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/104997/Midori_Fuse",
+   "picture": "https://cdn.myanimelist.net/images/characters/15/248953.jpg",
+   "name": "Fuse, Midori",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/10981/Yui_Ogura",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/41028.jpg",
+    "name": "Ogura, Yui"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/83503/Kohina_Hiruko",
+   "picture": "https://cdn.myanimelist.net/images/characters/16/243565.jpg",
+   "name": "Hiruko, Kohina",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/6686/Aoi_Yuuki",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/50769.jpg",
+    "name": "Yuuki, Aoi"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/83511/Kayo_Senju",
+   "picture": "https://cdn.myanimelist.net/images/characters/16/243365.jpg",
+   "name": "Senju, Kayo",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/12961/Megumi_Han",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/46087.jpg",
+    "name": "Han, Megumi"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/83521/Sumire_Muroto",
+   "picture": "https://cdn.myanimelist.net/images/characters/5/204727.jpg",
+   "name": "Muroto, Sumire",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/428/Yuuko_Kaida",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/57367.jpg",
+    "name": "Kaida, Yuuko"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/115589/Blind_Girl",
+   "picture": "https://cdn.myanimelist.net/images/characters/10/263253.jpg",
+   "name": "Blind Girl",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/10765/Ai_Kayano",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/59708.jpg",
+    "name": "Kayano, Ai"
+   }
+  }
+ ],
+ "staff": [
+  {
+   "link": "https://myanimelist.net/people/38764/Mitsutoshi_Ogura",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Ogura, Mitsutoshi",
+   "role": "Producer"
+  },
+  {
+   "link": "https://myanimelist.net/people/11507/Masayuki_Kojima",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/48697.jpg",
+   "name": "Kojima, Masayuki",
+   "role": "Director"
+  },
+  {
+   "link": "https://myanimelist.net/people/35729/Haru_Yamada",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/53573.jpg",
+   "name": "Yamada, Haru",
+   "role": "Sound Director"
+  },
+  {
+   "link": "https://myanimelist.net/people/28575/Hiroshi_Ikehata",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/41766.jpg",
+   "name": "Ikehata, Hiroshi",
+   "role": "Episode Director, Storyboard, Assistant Director"
+  }
+ ],
+ "trailer": "https://www.youtube.com/embed/R-VkhMyUT4w?enablejsapi=1&wmode=opaque&autoplay=1",
+ "englishTitle": "Black Bullet",
+ "japaneseTitle": "ブラック・ブレット　BLACK BULLET　［黒の銃弾］",
+ "synonyms": "",
+ "type": "TV",
+ "episodes": "13",
  "status": "Finished Airing",
- "aired": "Nov 23, 2018",
- "premiered": "",
- "broadcast": "",
+ "aired": "Apr 8, 2014 to Jul 1, 2014",
+ "premiered": "Spring 2014",
+ "broadcast": "Tuesdays at 22:30 (JST)",
  "producers": [
-  "Sotsu"
+  "Geneon Universal Entertainment",
+  "AT-X",
+  "Showgate",
+  "NBCUniversal Entertainment Japan"
  ],
  "studios": [
-  "None found, add some"
+  "Kinema Citrus",
+  "Orange"
  ],
- "source": "Original",
+ "source": "Light novel",
  "genres": [
-  "Comedy",
-  "Fantasy",
-  "Parody"
+  "Action",
+  "Sci-Fi",
+  "Mystery",
+  "Seinen"
  ],
- "duration": "57 min.",
- "rating": "None",
- "score": "6.36",
- "scoreStats": "scored by 238 users",
- "ranked": "#6448",
- "popularity": "#7566",
- "members": "2,786",
- "favorites": "1",
- "id": 37586,
- "url": "https://myanimelist.net/anime/37586/Kaijuu_Girls_Kuro__Ultra_Kaijuu_Gijinka_Keikaku"
+ "duration": "24 min. per ep.",
+ "rating": "R - 17+ (violence & profanity)",
+ "score": "7.23",
+ "scoreStats": "scored by 342,659 users",
+ "ranked": "#2631",
+ "popularity": "#109",
+ "members": "637,838",
+ "favorites": "3,476",
+ "id": 20787,
+ "url": "https://myanimelist.net/anime/20787/Black_Bullet"
 }
