@@ -1,181 +1,177 @@
 {
- "title": "Ga-Rei: Zero",
- "synopsis": "In Japan, there exists a government agency known as the Supernatural Disaster Countermeasures Division (SDCD), whose duty is to protect the citizens from creatures unseen. They are able to dispatch these monsters swiftly and without alerting the general public. But currently, they face a different challenge: the betrayal of one of their own.\n\nAfter the death of her mother several years ago, Kagura Tsuchimiya has been fostered by the Isayama family and forms a close sister-like bond with their daughter Yomi. The two become inseparable, and together they work for the SDCD as highly skilled exorcists. However, as the stress and consequences of their sacred duty weigh on them both, and family politics come into play, Kagura and Yomi begin to slowly drift apart. One of them grows earnestly into her role as an exorcist, and the other heads down a dark path from which there may be no redemption...\n\n[Written by MAL Rewrite]",
- "picture": "https://cdn.myanimelist.net/images/anime/9/11355.jpg",
+ "title": "Nyan Koi!",
+ "synopsis": "Junpei Kousaka is a second-year high school student who has an allergy for cats—a predicament that has made him hate cats and everything related to them. Unfortunately for him, though, he is surrounded by cat lovers: his family, his estranged childhood friend, and even his crush Kaede Mizuno.\n\nOne day, while returning home from school, Junpei nonchalantly attempts to kick an empty can into the trash, but miserably misses. Instead of making it to the garbage, the can ends up breaking off the head of a cat deity statue. That fateful day, he is cursed with the ability to understand cat speech. However, he must keep his curse a secret from everyone else, because anyone who finds out will become more accident-prone and share the same fate as him.\n\nWith the guidance of his cat Nyamsus and with no other choice left, Junpei now has to do a hundred good deeds for cats to lift the curse. If he is unable to complete this task, he will turn into a cat, and considering his allergy, that would be a death sentence for him!\n\n[Written by MAL Rewrite]",
+ "picture": "https://cdn.myanimelist.net/images/anime/10/18299.jpg",
  "characters": [
   {
-   "link": "https://myanimelist.net/character/9797/Yomi_Isayama",
-   "picture": "https://cdn.myanimelist.net/images/characters/8/315666.jpg",
-   "name": "Isayama, Yomi",
+   "link": "https://myanimelist.net/character/24829/Kanako_Sumiyoshi",
+   "picture": "https://cdn.myanimelist.net/images/characters/4/82967.jpg",
+   "name": "Sumiyoshi, Kanako",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/579/Kaoru_Mizuhara",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/12063.jpg",
-    "name": "Mizuhara, Kaoru"
+    "link": "https://myanimelist.net/people/348/Ryouko_Shiraishi",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/26923.jpg",
+    "name": "Shiraishi, Ryouko"
    }
   },
   {
-   "link": "https://myanimelist.net/character/9794/Kagura_Tsuchimiya",
-   "picture": "https://cdn.myanimelist.net/images/characters/16/77527.jpg",
-   "name": "Tsuchimiya, Kagura",
+   "link": "https://myanimelist.net/character/24237/Kaede_Mizuno",
+   "picture": "https://cdn.myanimelist.net/images/characters/8/82970.jpg",
+   "name": "Mizuno, Kaede",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/53/Minori_Chihara",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/46268.jpg",
-    "name": "Chihara, Minori"
+    "link": "https://myanimelist.net/people/885/Yuka_Iguchi",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54657.jpg",
+    "name": "Iguchi, Yuka"
    }
   },
   {
-   "link": "https://myanimelist.net/character/4133/Kensuke_Nimura",
-   "picture": "https://cdn.myanimelist.net/images/characters/10/120609.jpg",
-   "name": "Nimura, Kensuke",
-   "role": "Supporting",
+   "link": "https://myanimelist.net/character/24235/Junpei_Kousaka",
+   "picture": "https://cdn.myanimelist.net/images/characters/15/69421.jpg",
+   "name": "Kousaka, Junpei",
+   "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/261/Minoru_Shiraishi",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/8862.jpg",
-    "name": "Shiraishi, Minoru"
+    "link": "https://myanimelist.net/people/186/Shintaro_Asanuma",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/37161.jpg",
+    "name": "Asanuma, Shintaro"
    }
   },
   {
-   "link": "https://myanimelist.net/character/9795/Noriyuki_Izuna",
-   "picture": "https://cdn.myanimelist.net/images/characters/13/321306.jpg",
-   "name": "Izuna, Noriyuki",
+   "link": "https://myanimelist.net/character/2795/Nabeshin",
+   "picture": "https://cdn.myanimelist.net/images/characters/14/78675.jpg",
+   "name": "Nabeshin",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/10148/Shinya_Takahashi",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/43051.jpg",
-    "name": "Takahashi, Shinya"
+    "link": "https://myanimelist.net/people/896/Shinichi_Watanabe",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/953.jpg",
+    "name": "Watanabe, Shinichi"
    }
   },
   {
-   "link": "https://myanimelist.net/character/15943/Natsuki_Kasuga",
-   "picture": "https://cdn.myanimelist.net/images/characters/11/321308.jpg",
-   "name": "Kasuga, Natsuki",
+   "link": "https://myanimelist.net/character/27081/Kotone_Kirishima",
+   "picture": "https://cdn.myanimelist.net/images/characters/6/89321.jpg",
+   "name": "Kirishima, Kotone",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/413/Eri_Kitamura",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/56752.jpg",
-    "name": "Kitamura, Eri"
+    "link": "https://myanimelist.net/people/890/Haruka_Tomatsu",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54591.jpg",
+    "name": "Tomatsu, Haruka"
    }
   },
   {
-   "link": "https://myanimelist.net/character/17115/Kazuhiro_Mitogawa",
-   "picture": "https://cdn.myanimelist.net/images/characters/9/77231.jpg",
-   "name": "Mitogawa, Kazuhiro",
+   "link": "https://myanimelist.net/character/27082/Akari_Kirishima",
+   "picture": "https://cdn.myanimelist.net/images/characters/11/107023.jpg",
+   "name": "Kirishima, Akari",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/630/Megumi_Matsumoto",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/29559.jpg",
-    "name": "Matsumoto, Megumi"
+    "link": "https://myanimelist.net/people/890/Haruka_Tomatsu",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54591.jpg",
+    "name": "Tomatsu, Haruka"
    }
   },
   {
-   "link": "https://myanimelist.net/character/18028/Mei_Isayama",
-   "picture": "https://cdn.myanimelist.net/images/characters/10/77065.jpg",
-   "name": "Isayama, Mei",
+   "link": "https://myanimelist.net/character/26164/Nagi_Ichinose",
+   "picture": "https://cdn.myanimelist.net/images/characters/12/84998.jpg",
+   "name": "Ichinose, Nagi",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/1132/Ryouko_Tanaka",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/1902.jpg",
-    "name": "Tanaka, Ryouko"
+    "link": "https://myanimelist.net/people/34/Yuu_Kobayashi",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54674.jpg",
+    "name": "Kobayashi, Yuu"
    }
   },
   {
-   "link": "https://myanimelist.net/character/18029/Nabuu_Brothers",
-   "picture": "https://cdn.myanimelist.net/images/characters/3/39488.jpg",
-   "name": "Nabuu Brothers",
+   "link": "https://myanimelist.net/character/26166/Nyamsus",
+   "picture": "https://cdn.myanimelist.net/images/characters/9/66489.jpg",
+   "name": "Nyamsus",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/84/Norio_Wakamoto",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/46186.jpg",
-    "name": "Wakamoto, Norio"
+    "link": "https://myanimelist.net/people/100/Atsuko_Tanaka",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/32781.jpg",
+    "name": "Tanaka, Atsuko"
    }
   },
   {
-   "link": "https://myanimelist.net/character/22675/Michael_Kohara",
-   "picture": "https://cdn.myanimelist.net/images/characters/7/77232.jpg",
-   "name": "Kohara, Michael",
+   "link": "https://myanimelist.net/character/24892/Tama",
+   "picture": "https://cdn.myanimelist.net/images/characters/13/74184.jpg",
+   "name": "Tama",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/577/Hirokazu_Hiramatsu",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/55783.jpg",
-    "name": "Hiramatsu, Hirokazu"
+    "link": "https://myanimelist.net/people/86/Jun_Fukuyama",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/46269.jpg",
+    "name": "Fukuyama, Jun"
    }
   },
   {
-   "link": "https://myanimelist.net/character/15513/Tooru_Kanze",
-   "picture": "https://cdn.myanimelist.net/images/characters/7/321307.jpg",
-   "name": "Kanze, Tooru",
+   "link": "https://myanimelist.net/character/26598/Chizuru_Mochizuki",
+   "picture": "https://cdn.myanimelist.net/images/characters/5/73816.jpg",
+   "name": "Mochizuki, Chizuru",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/1489/Tomoaki_Maeno",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/56372.jpg",
-    "name": "Maeno, Tomoaki"
+    "link": "https://myanimelist.net/people/241/Rina_Satou",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54579.jpg",
+    "name": "Satou, Rina"
    }
   }
  ],
  "staff": [
   {
-   "link": "https://myanimelist.net/people/12163/Ei_Aoki",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/15929.jpg",
-   "name": "Aoki, Ei",
-   "role": "Director, Episode Director, Storyboard"
+   "link": "https://myanimelist.net/people/38029/Shinichi_Nakamura",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Nakamura, Shinichi",
+   "role": "Producer"
   },
   {
-   "link": "https://myanimelist.net/people/7194/Youta_Tsuruoka",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54363.jpg",
-   "name": "Tsuruoka, Youta",
+   "link": "https://myanimelist.net/people/6726/Keiichirou_Kawaguchi",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/42201.jpg",
+   "name": "Kawaguchi, Keiichirou",
+   "role": "Director"
+  },
+  {
+   "link": "https://myanimelist.net/people/35787/Satoki_Iida",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/49710.jpg",
+   "name": "Iida, Satoki",
    "role": "Sound Director"
   },
   {
-   "link": "https://myanimelist.net/people/7034/Katsuhiko_Takayama",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/8181.jpg",
-   "name": "Takayama, Katsuhiko",
-   "role": "Script, Series Composition"
-  },
-  {
-   "link": "https://myanimelist.net/people/42473/Hiroki_Hayashi",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/46126.jpg",
-   "name": "Hayashi, Hiroki",
-   "role": "Storyboard"
+   "link": "https://myanimelist.net/people/896/Shinichi_Watanabe",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/953.jpg",
+   "name": "Watanabe, Shinichi",
+   "role": "Episode Director, Storyboard"
   }
  ],
- "trailer": "https://www.youtube.com/embed/50sj0Gxqrlk?enablejsapi=1&wmode=opaque&autoplay=1",
- "englishTitle": "Ga-Rei-Zero",
- "japaneseTitle": "喰霊–零–",
- "synonyms": "Garei: Zero",
+ "englishTitle": "Nyan Koi!",
+ "japaneseTitle": "にゃんこい！",
+ "synonyms": "Nyankoi",
  "type": "TV",
  "episodes": "12",
  "status": "Finished Airing",
- "aired": "Oct 6, 2008 to Dec 22, 2008",
- "premiered": "Fall 2008",
- "broadcast": "Mondays at 00:00 (JST)",
+ "aired": "Oct 2, 2009 to Dec 18, 2009",
+ "premiered": "Fall 2009",
+ "broadcast": "Unknown",
  "producers": [
-  "Lantis",
-  "Kadokawa Shoten",
-  "Rakuonsha",
-  "Kadokawa Pictures Japan",
-  "KlockWorx"
+  "Pony Canyon",
+  "TBS",
+  "Movic",
+  "Flex Comix"
  ],
  "studios": [
-  "AIC Spirits",
-  "Asread"
+  "AIC"
  ],
  "source": "Manga",
  "genres": [
-  "Action",
-  "Super Power",
-  "Supernatural",
-  "Thriller"
+  "Harem",
+  "Comedy",
+  "Romance"
  ],
- "duration": "23 min. per ep.",
- "rating": "R - 17+ (violence & profanity)",
- "score": "7.65",
- "scoreStats": "scored by 82,002 users",
- "ranked": "#1154",
- "popularity": "#618",
- "members": "197,634",
- "favorites": "2,724",
- "id": 4725,
- "url": "https://myanimelist.net/anime/4725/Ga-Rei__Zero"
+ "duration": "24 min. per ep.",
+ "rating": "PG-13 - Teens 13 or older",
+ "score": "7.23",
+ "scoreStats": "scored by 110,543 users",
+ "ranked": "#2614",
+ "popularity": "#583",
+ "members": "210,262",
+ "favorites": "601",
+ "id": 6512,
+ "url": "https://myanimelist.net/anime/6512/Nyan_Koi"
 }
