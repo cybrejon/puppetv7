@@ -1,180 +1,183 @@
 {
- "title": "Kanata no Astra",
- "synopsis": "In the year 2063, space travel is feasible and commercially available. As the cheerful Aries Spring arrives at the spaceport to attend a camp on the distant planet McPa, her purse is suddenly snatched by a reckless thief. Luckily, the athletic Kanata Hoshijima is able to retrieve it for her, and Aries soon discovers that he is among the group of teenagers who will be travelling with her on the excursion as team B-5. \n\nUpon arriving at their campsite, the group's trip takes a turn for the worse when a strange sphere of black light sucks them into the vast reaches of outer space. Stranded with seemingly no hope, they find an abandoned ship nearby that provides them with the means to return home. However, they soon discover that they are not as close to their campsite as they initially thought, but are in fact thousands of light-years away from home.\n\nWith this realization, the nine members must cautiously manage their resources, maintain their strength, and unite as one to conquer the darkness of space together. While the reason behind their trip's sudden obstruction remains unknown, they nevertheless embark on the treacherous voyage back home aboard their new ship, the Astra.\n\n[Written by MAL Rewrite]",
- "picture": "https://cdn.myanimelist.net/images/anime/1784/106428.jpg",
+ "title": "Bleach",
+ "synopsis": "Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result.\n\nHowever, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world.\n\n[Written by MAL Rewrite]",
+ "picture": "https://cdn.myanimelist.net/images/anime/3/40451.jpg",
  "characters": [
   {
-   "link": "https://myanimelist.net/character/154214/Kanata_Hoshijima",
-   "picture": "https://cdn.myanimelist.net/images/characters/15/386776.jpg",
-   "name": "Hoshijima, Kanata",
+   "link": "https://myanimelist.net/character/5/Ichigo_Kurosaki",
+   "picture": "https://cdn.myanimelist.net/images/characters/3/89190.jpg",
+   "name": "Kurosaki, Ichigo",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/5626/Yoshimasa_Hosoya",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/44652.jpg",
-    "name": "Hosoya, Yoshimasa"
+    "link": "https://myanimelist.net/people/73/Yuki_Matsuoka",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/11313.jpg",
+    "name": "Matsuoka, Yuki"
    }
   },
   {
-   "link": "https://myanimelist.net/character/154215/Aries_Spring",
-   "picture": "https://cdn.myanimelist.net/images/characters/3/386748.jpg",
-   "name": "Spring, Aries",
+   "link": "https://myanimelist.net/character/6/Rukia_Kuchiki",
+   "picture": "https://cdn.myanimelist.net/images/characters/2/78215.jpg",
+   "name": "Kuchiki, Rukia",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/11297/Inori_Minase",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/53871.jpg",
-    "name": "Minase, Inori"
+    "link": "https://myanimelist.net/people/152/Fumiko_Orikasa",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/57767.jpg",
+    "name": "Orikasa, Fumiko"
    }
   },
   {
-   "link": "https://myanimelist.net/character/154216/Quitterie_Raffaeli",
-   "picture": "https://cdn.myanimelist.net/images/characters/2/384733.jpg",
-   "name": "Raffaeli, Quitterie",
+   "link": "https://myanimelist.net/character/906/Renji_Abarai",
+   "picture": "https://cdn.myanimelist.net/images/characters/10/171877.jpg",
+   "name": "Abarai, Renji",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/11661/Tomoyo_Kurosawa",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/60393.jpg",
-    "name": "Kurosawa, Tomoyo"
+    "link": "https://myanimelist.net/people/221/Kentarou_Itou",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/53838.jpg",
+    "name": "Itou, Kentarou"
    }
   },
   {
-   "link": "https://myanimelist.net/character/154219/Luca_Esposito",
-   "picture": "https://cdn.myanimelist.net/images/characters/15/384727.jpg",
-   "name": "Esposito, Luca",
+   "link": "https://myanimelist.net/character/7/Orihime_Inoue",
+   "picture": "https://cdn.myanimelist.net/images/characters/12/97695.jpg",
+   "name": "Inoue, Orihime",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/35657/Risae_Matsuda",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/40616.jpg",
-    "name": "Matsuda, Risae"
+    "link": "https://myanimelist.net/people/73/Yuki_Matsuoka",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/11313.jpg",
+    "name": "Matsuoka, Yuki"
    }
   },
   {
-   "link": "https://myanimelist.net/character/154220/Ulgar_Zweig",
-   "picture": "https://cdn.myanimelist.net/images/characters/8/384734.jpg",
-   "name": "Zweig, Ulgar",
+   "link": "https://myanimelist.net/character/564/Uryuu_Ishida",
+   "picture": "https://cdn.myanimelist.net/images/characters/16/139189.jpg",
+   "name": "Ishida, Uryuu",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/1764/Kouki_Uchiyama",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/48877.jpg",
-    "name": "Uchiyama, Kouki"
+    "link": "https://myanimelist.net/people/16/Noriaki_Sugiyama",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/44267.jpg",
+    "name": "Sugiyama, Noriaki"
    }
   },
   {
-   "link": "https://myanimelist.net/character/154218/Yunhua_Lu",
-   "picture": "https://cdn.myanimelist.net/images/characters/5/390688.jpg",
-   "name": "Lu, Yunhua",
+   "link": "https://myanimelist.net/character/575/Yasutora_Sado",
+   "picture": "https://cdn.myanimelist.net/images/characters/2/102739.jpg",
+   "name": "Sado, Yasutora",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/869/Saori_Hayami",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/55658.jpg",
-    "name": "Hayami, Saori"
+    "link": "https://myanimelist.net/people/25/Hiroki_Yasumoto",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/42158.jpg",
+    "name": "Yasumoto, Hiroki"
    }
   },
   {
-   "link": "https://myanimelist.net/character/154221/Charce_Lacroix",
-   "picture": "https://cdn.myanimelist.net/images/characters/8/384732.jpg",
-   "name": "Lacroix, Charce",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/10989/Nobunaga_Shimazaki",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/28339.jpg",
-    "name": "Shimazaki, Nobunaga"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/154217/Zack_Walker",
-   "picture": "https://cdn.myanimelist.net/images/characters/6/390698.jpg",
-   "name": "Walker, Zack",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/36471/Shunsuke_Takeuchi",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54403.jpg",
-    "name": "Takeuchi, Shunsuke"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/154222/Funicia_Raffaeli",
-   "picture": "https://cdn.myanimelist.net/images/characters/11/390692.jpg",
-   "name": "Raffaeli, Funicia",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/40903/Hina_Kino",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/43887.jpg",
-    "name": "Kino, Hina"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/156248/Polina_Livinskaya",
-   "picture": "https://cdn.myanimelist.net/images/characters/3/386621.jpg",
-   "name": "Livinskaya, Polina",
+   "link": "https://myanimelist.net/character/909/Kenpachi_Zaraki",
+   "picture": "https://cdn.myanimelist.net/images/characters/8/150265.jpg",
+   "name": "Zaraki, Kenpachi",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/184/Hitomi_Nabatame",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/44250.jpg",
-    "name": "Nabatame, Hitomi"
+    "link": "https://myanimelist.net/people/284/Fumihiko_Tachiki",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/38867.jpg",
+    "name": "Tachiki, Fumihiko"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/245/Toushirou_Hitsugaya",
+   "picture": "https://cdn.myanimelist.net/images/characters/11/36579.jpg",
+   "name": "Hitsugaya, Toushirou",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/82/Romi_Park",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54602.jpg",
+    "name": "Park, Romi"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/1081/Ulquiorra_Cifer",
+   "picture": "https://cdn.myanimelist.net/images/characters/12/85334.jpg",
+   "name": "Cifer, Ulquiorra",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/87/Daisuke_Namikawa",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54499.jpg",
+    "name": "Namikawa, Daisuke"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/210/Kisuke_Urahara",
+   "picture": "https://cdn.myanimelist.net/images/characters/15/149491.jpg",
+   "name": "Urahara, Kisuke",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/22/Shinichiro_Miki",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54678.jpg",
+    "name": "Miki, Shinichiro"
    }
   }
  ],
  "staff": [
   {
-   "link": "https://myanimelist.net/people/17913/Masaomi_Andou",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Andou, Masaomi",
-   "role": "Director"
+   "link": "https://myanimelist.net/people/10277/Noriyuki_Abe",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54038.jpg",
+   "name": "Abe, Noriyuki",
+   "role": "Director, Episode Director, Storyboard"
   },
   {
-   "link": "https://myanimelist.net/people/39948/Gouichi_Iwahata",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Iwahata, Gouichi",
-   "role": "Storyboard"
+   "link": "https://myanimelist.net/people/18371/Yuzuru_Tachikawa",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/25109.jpg",
+   "name": "Tachikawa, Yuzuru",
+   "role": "Episode Director, Storyboard, Key Animation"
   },
   {
-   "link": "https://myanimelist.net/people/48854/nonoc",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54978.jpg",
-   "name": "nonoc",
-   "role": "Theme Song Performance"
+   "link": "https://myanimelist.net/people/10936/Masashi_Ishihama",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/42584.jpg",
+   "name": "Ishihama, Masashi",
+   "role": "Episode Director, Storyboard, Animation Director, Key Animation"
   },
   {
-   "link": "https://myanimelist.net/people/48258/Riko_Azuna",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/56803.jpg",
-   "name": "Azuna, Riko",
-   "role": "Theme Song Performance"
+   "link": "https://myanimelist.net/people/6831/Chiaki_Kon",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/43174.jpg",
+   "name": "Kon, Chiaki",
+   "role": "Episode Director, Storyboard"
   }
  ],
- "trailer": "https://www.youtube.com/embed/wD9o_8UjOvg?enablejsapi=1&wmode=opaque&autoplay=1",
- "englishTitle": "Astra Lost in Space",
- "japaneseTitle": "彼方のアストラ",
- "synonyms": "Astra Lost in Space",
+ "trailer": "https://www.youtube.com/embed/0yk5H6vvfG4?enablejsapi=1&wmode=opaque&autoplay=1",
+ "englishTitle": "Bleach",
+ "japaneseTitle": "BLEACH - ブリーチ -",
+ "synonyms": "",
  "type": "TV",
- "episodes": "12",
+ "episodes": "366",
  "status": "Finished Airing",
- "aired": "Jul 3, 2019 to Sep 18, 2019",
- "premiered": "Summer 2019",
- "broadcast": "Wednesdays at 21:00 (JST)",
+ "aired": "Oct 5, 2004 to Mar 27, 2012",
+ "premiered": "Fall 2004",
+ "broadcast": "Tuesdays at 18:00 (JST)",
  "producers": [
-  "AT-X",
-  "Docomo Anime Store",
-  "Shueisha",
-  "Kadokawa Media House",
-  "Kadokawa"
+  "TV Tokyo",
+  "Aniplex",
+  "Dentsu",
+  "TV Tokyo Music",
+  "Studio Kelmadick",
+  "Shueisha"
  ],
  "studios": [
-  "Lerche"
+  "Studio Pierrot"
  ],
  "source": "Manga",
  "genres": [
-  "Sci-Fi",
+  "Action",
   "Adventure",
-  "Space",
+  "Comedy",
+  "Super Power",
+  "Supernatural",
   "Shounen"
  ],
- "duration": "28 min. per ep.",
+ "duration": "24 min. per ep.",
  "rating": "PG-13 - Teens 13 or older",
- "score": "8.19",
- "scoreStats": "scored by 73,030 users",
- "ranked": "#309",
- "popularity": "#850",
- "members": "155,644",
- "favorites": "1,769",
- "id": 39198,
- "url": "https://myanimelist.net/anime/39198/Kanata_no_Astra"
+ "score": "7.80",
+ "scoreStats": "scored by 585,043 users",
+ "ranked": "#810",
+ "popularity": "#29",
+ "members": "1,151,641",
+ "favorites": "50,136",
+ "id": 269,
+ "url": "https://myanimelist.net/anime/269/Bleach"
 }
