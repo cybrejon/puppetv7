@@ -1,177 +1,180 @@
 {
- "title": "Nyan Koi!",
- "synopsis": "Junpei Kousaka is a second-year high school student who has an allergy for cats—a predicament that has made him hate cats and everything related to them. Unfortunately for him, though, he is surrounded by cat lovers: his family, his estranged childhood friend, and even his crush Kaede Mizuno.\n\nOne day, while returning home from school, Junpei nonchalantly attempts to kick an empty can into the trash, but miserably misses. Instead of making it to the garbage, the can ends up breaking off the head of a cat deity statue. That fateful day, he is cursed with the ability to understand cat speech. However, he must keep his curse a secret from everyone else, because anyone who finds out will become more accident-prone and share the same fate as him.\n\nWith the guidance of his cat Nyamsus and with no other choice left, Junpei now has to do a hundred good deeds for cats to lift the curse. If he is unable to complete this task, he will turn into a cat, and considering his allergy, that would be a death sentence for him!\n\n[Written by MAL Rewrite]",
- "picture": "https://cdn.myanimelist.net/images/anime/10/18299.jpg",
+ "title": "Kanata no Astra",
+ "synopsis": "In the year 2063, space travel is feasible and commercially available. As the cheerful Aries Spring arrives at the spaceport to attend a camp on the distant planet McPa, her purse is suddenly snatched by a reckless thief. Luckily, the athletic Kanata Hoshijima is able to retrieve it for her, and Aries soon discovers that he is among the group of teenagers who will be travelling with her on the excursion as team B-5. \n\nUpon arriving at their campsite, the group's trip takes a turn for the worse when a strange sphere of black light sucks them into the vast reaches of outer space. Stranded with seemingly no hope, they find an abandoned ship nearby that provides them with the means to return home. However, they soon discover that they are not as close to their campsite as they initially thought, but are in fact thousands of light-years away from home.\n\nWith this realization, the nine members must cautiously manage their resources, maintain their strength, and unite as one to conquer the darkness of space together. While the reason behind their trip's sudden obstruction remains unknown, they nevertheless embark on the treacherous voyage back home aboard their new ship, the Astra.\n\n[Written by MAL Rewrite]",
+ "picture": "https://cdn.myanimelist.net/images/anime/1784/106428.jpg",
  "characters": [
   {
-   "link": "https://myanimelist.net/character/24829/Kanako_Sumiyoshi",
-   "picture": "https://cdn.myanimelist.net/images/characters/4/82967.jpg",
-   "name": "Sumiyoshi, Kanako",
+   "link": "https://myanimelist.net/character/154214/Kanata_Hoshijima",
+   "picture": "https://cdn.myanimelist.net/images/characters/15/386776.jpg",
+   "name": "Hoshijima, Kanata",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/348/Ryouko_Shiraishi",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/26923.jpg",
-    "name": "Shiraishi, Ryouko"
+    "link": "https://myanimelist.net/people/5626/Yoshimasa_Hosoya",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/44652.jpg",
+    "name": "Hosoya, Yoshimasa"
    }
   },
   {
-   "link": "https://myanimelist.net/character/24237/Kaede_Mizuno",
-   "picture": "https://cdn.myanimelist.net/images/characters/8/82970.jpg",
-   "name": "Mizuno, Kaede",
+   "link": "https://myanimelist.net/character/154215/Aries_Spring",
+   "picture": "https://cdn.myanimelist.net/images/characters/3/386748.jpg",
+   "name": "Spring, Aries",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/885/Yuka_Iguchi",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54657.jpg",
-    "name": "Iguchi, Yuka"
+    "link": "https://myanimelist.net/people/11297/Inori_Minase",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/53871.jpg",
+    "name": "Minase, Inori"
    }
   },
   {
-   "link": "https://myanimelist.net/character/24235/Junpei_Kousaka",
-   "picture": "https://cdn.myanimelist.net/images/characters/15/69421.jpg",
-   "name": "Kousaka, Junpei",
+   "link": "https://myanimelist.net/character/154216/Quitterie_Raffaeli",
+   "picture": "https://cdn.myanimelist.net/images/characters/2/384733.jpg",
+   "name": "Raffaeli, Quitterie",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/186/Shintaro_Asanuma",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/37161.jpg",
-    "name": "Asanuma, Shintaro"
+    "link": "https://myanimelist.net/people/11661/Tomoyo_Kurosawa",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/60393.jpg",
+    "name": "Kurosawa, Tomoyo"
    }
   },
   {
-   "link": "https://myanimelist.net/character/2795/Nabeshin",
-   "picture": "https://cdn.myanimelist.net/images/characters/14/78675.jpg",
-   "name": "Nabeshin",
-   "role": "Supporting",
+   "link": "https://myanimelist.net/character/154219/Luca_Esposito",
+   "picture": "https://cdn.myanimelist.net/images/characters/15/384727.jpg",
+   "name": "Esposito, Luca",
+   "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/896/Shinichi_Watanabe",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/953.jpg",
-    "name": "Watanabe, Shinichi"
+    "link": "https://myanimelist.net/people/35657/Risae_Matsuda",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/40616.jpg",
+    "name": "Matsuda, Risae"
    }
   },
   {
-   "link": "https://myanimelist.net/character/27081/Kotone_Kirishima",
-   "picture": "https://cdn.myanimelist.net/images/characters/6/89321.jpg",
-   "name": "Kirishima, Kotone",
-   "role": "Supporting",
+   "link": "https://myanimelist.net/character/154220/Ulgar_Zweig",
+   "picture": "https://cdn.myanimelist.net/images/characters/8/384734.jpg",
+   "name": "Zweig, Ulgar",
+   "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/890/Haruka_Tomatsu",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54591.jpg",
-    "name": "Tomatsu, Haruka"
+    "link": "https://myanimelist.net/people/1764/Kouki_Uchiyama",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/48877.jpg",
+    "name": "Uchiyama, Kouki"
    }
   },
   {
-   "link": "https://myanimelist.net/character/27082/Akari_Kirishima",
-   "picture": "https://cdn.myanimelist.net/images/characters/11/107023.jpg",
-   "name": "Kirishima, Akari",
-   "role": "Supporting",
+   "link": "https://myanimelist.net/character/154218/Yunhua_Lu",
+   "picture": "https://cdn.myanimelist.net/images/characters/5/390688.jpg",
+   "name": "Lu, Yunhua",
+   "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/890/Haruka_Tomatsu",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54591.jpg",
-    "name": "Tomatsu, Haruka"
+    "link": "https://myanimelist.net/people/869/Saori_Hayami",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/55658.jpg",
+    "name": "Hayami, Saori"
    }
   },
   {
-   "link": "https://myanimelist.net/character/26164/Nagi_Ichinose",
-   "picture": "https://cdn.myanimelist.net/images/characters/12/84998.jpg",
-   "name": "Ichinose, Nagi",
-   "role": "Supporting",
+   "link": "https://myanimelist.net/character/154221/Charce_Lacroix",
+   "picture": "https://cdn.myanimelist.net/images/characters/8/384732.jpg",
+   "name": "Lacroix, Charce",
+   "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/34/Yuu_Kobayashi",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54674.jpg",
-    "name": "Kobayashi, Yuu"
+    "link": "https://myanimelist.net/people/10989/Nobunaga_Shimazaki",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/28339.jpg",
+    "name": "Shimazaki, Nobunaga"
    }
   },
   {
-   "link": "https://myanimelist.net/character/26166/Nyamsus",
-   "picture": "https://cdn.myanimelist.net/images/characters/9/66489.jpg",
-   "name": "Nyamsus",
-   "role": "Supporting",
+   "link": "https://myanimelist.net/character/154217/Zack_Walker",
+   "picture": "https://cdn.myanimelist.net/images/characters/6/390698.jpg",
+   "name": "Walker, Zack",
+   "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/100/Atsuko_Tanaka",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/32781.jpg",
-    "name": "Tanaka, Atsuko"
+    "link": "https://myanimelist.net/people/36471/Shunsuke_Takeuchi",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54403.jpg",
+    "name": "Takeuchi, Shunsuke"
    }
   },
   {
-   "link": "https://myanimelist.net/character/24892/Tama",
-   "picture": "https://cdn.myanimelist.net/images/characters/13/74184.jpg",
-   "name": "Tama",
-   "role": "Supporting",
+   "link": "https://myanimelist.net/character/154222/Funicia_Raffaeli",
+   "picture": "https://cdn.myanimelist.net/images/characters/11/390692.jpg",
+   "name": "Raffaeli, Funicia",
+   "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/86/Jun_Fukuyama",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/46269.jpg",
-    "name": "Fukuyama, Jun"
+    "link": "https://myanimelist.net/people/40903/Hina_Kino",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/43887.jpg",
+    "name": "Kino, Hina"
    }
   },
   {
-   "link": "https://myanimelist.net/character/26598/Chizuru_Mochizuki",
-   "picture": "https://cdn.myanimelist.net/images/characters/5/73816.jpg",
-   "name": "Mochizuki, Chizuru",
+   "link": "https://myanimelist.net/character/156248/Polina_Livinskaya",
+   "picture": "https://cdn.myanimelist.net/images/characters/3/386621.jpg",
+   "name": "Livinskaya, Polina",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/241/Rina_Satou",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54579.jpg",
-    "name": "Satou, Rina"
+    "link": "https://myanimelist.net/people/184/Hitomi_Nabatame",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/44250.jpg",
+    "name": "Nabatame, Hitomi"
    }
   }
  ],
  "staff": [
   {
-   "link": "https://myanimelist.net/people/38029/Shinichi_Nakamura",
+   "link": "https://myanimelist.net/people/17913/Masaomi_Andou",
    "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Nakamura, Shinichi",
-   "role": "Producer"
-  },
-  {
-   "link": "https://myanimelist.net/people/6726/Keiichirou_Kawaguchi",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/42201.jpg",
-   "name": "Kawaguchi, Keiichirou",
+   "name": "Andou, Masaomi",
    "role": "Director"
   },
   {
-   "link": "https://myanimelist.net/people/35787/Satoki_Iida",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/49710.jpg",
-   "name": "Iida, Satoki",
-   "role": "Sound Director"
+   "link": "https://myanimelist.net/people/39948/Gouichi_Iwahata",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Iwahata, Gouichi",
+   "role": "Storyboard"
   },
   {
-   "link": "https://myanimelist.net/people/896/Shinichi_Watanabe",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/953.jpg",
-   "name": "Watanabe, Shinichi",
-   "role": "Episode Director, Storyboard"
+   "link": "https://myanimelist.net/people/48854/nonoc",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54978.jpg",
+   "name": "nonoc",
+   "role": "Theme Song Performance"
+  },
+  {
+   "link": "https://myanimelist.net/people/48258/Riko_Azuna",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/56803.jpg",
+   "name": "Azuna, Riko",
+   "role": "Theme Song Performance"
   }
  ],
- "englishTitle": "Nyan Koi!",
- "japaneseTitle": "にゃんこい！",
- "synonyms": "Nyankoi",
+ "trailer": "https://www.youtube.com/embed/wD9o_8UjOvg?enablejsapi=1&wmode=opaque&autoplay=1",
+ "englishTitle": "Astra Lost in Space",
+ "japaneseTitle": "彼方のアストラ",
+ "synonyms": "Astra Lost in Space",
  "type": "TV",
  "episodes": "12",
  "status": "Finished Airing",
- "aired": "Oct 2, 2009 to Dec 18, 2009",
- "premiered": "Fall 2009",
- "broadcast": "Unknown",
+ "aired": "Jul 3, 2019 to Sep 18, 2019",
+ "premiered": "Summer 2019",
+ "broadcast": "Wednesdays at 21:00 (JST)",
  "producers": [
-  "Pony Canyon",
-  "TBS",
-  "Movic",
-  "Flex Comix"
+  "AT-X",
+  "Docomo Anime Store",
+  "Shueisha",
+  "Kadokawa Media House",
+  "Kadokawa"
  ],
  "studios": [
-  "AIC"
+  "Lerche"
  ],
  "source": "Manga",
  "genres": [
-  "Harem",
-  "Comedy",
-  "Romance"
+  "Sci-Fi",
+  "Adventure",
+  "Space",
+  "Shounen"
  ],
- "duration": "24 min. per ep.",
+ "duration": "28 min. per ep.",
  "rating": "PG-13 - Teens 13 or older",
- "score": "7.23",
- "scoreStats": "scored by 110,543 users",
- "ranked": "#2614",
- "popularity": "#583",
- "members": "210,262",
- "favorites": "601",
- "id": 6512,
- "url": "https://myanimelist.net/anime/6512/Nyan_Koi"
+ "score": "8.19",
+ "scoreStats": "scored by 73,030 users",
+ "ranked": "#309",
+ "popularity": "#850",
+ "members": "155,644",
+ "favorites": "1,769",
+ "id": 39198,
+ "url": "https://myanimelist.net/anime/39198/Kanata_no_Astra"
 }
