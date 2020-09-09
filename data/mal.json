@@ -1,183 +1,175 @@
 {
- "title": "Bleach",
- "synopsis": "Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result.\n\nHowever, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world.\n\n[Written by MAL Rewrite]",
- "picture": "https://cdn.myanimelist.net/images/anime/3/40451.jpg",
+ "title": "Eguchi Hisashi no Kotobuki Gorou Show",
+ "synopsis": "Based on the gag manga by Hisashi Eguchi.\n\nOriginally released as a feature part of Studio Pierrot's video magazine show Anime V Comic Rentaman (アニメ・V・コミック レンタマン) along with Abashiri Ikka, Yumemakura Baku Twilight Gekijou and Akai Hayate. \n\n(Source: AniDB) ",
+ "picture": "https://cdn.myanimelist.net/images/anime/13/54143.jpg",
  "characters": [
   {
-   "link": "https://myanimelist.net/character/5/Ichigo_Kurosaki",
-   "picture": "https://cdn.myanimelist.net/images/characters/3/89190.jpg",
-   "name": "Kurosaki, Ichigo",
+   "link": "https://myanimelist.net/character/142656/Vulgar_Father",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Vulgar Father",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/73/Yuki_Matsuoka",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/11313.jpg",
-    "name": "Matsuoka, Yuki"
+    "link": "https://myanimelist.net/people/5770/Yuusaku_Yara",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/32675.jpg",
+    "name": "Yara, Yuusaku"
    }
   },
   {
-   "link": "https://myanimelist.net/character/6/Rukia_Kuchiki",
-   "picture": "https://cdn.myanimelist.net/images/characters/2/78215.jpg",
-   "name": "Kuchiki, Rukia",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/152/Fumiko_Orikasa",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/57767.jpg",
-    "name": "Orikasa, Fumiko"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/906/Renji_Abarai",
-   "picture": "https://cdn.myanimelist.net/images/characters/10/171877.jpg",
-   "name": "Abarai, Renji",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/221/Kentarou_Itou",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/53838.jpg",
-    "name": "Itou, Kentarou"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/7/Orihime_Inoue",
-   "picture": "https://cdn.myanimelist.net/images/characters/12/97695.jpg",
-   "name": "Inoue, Orihime",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/73/Yuki_Matsuoka",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/11313.jpg",
-    "name": "Matsuoka, Yuki"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/564/Uryuu_Ishida",
-   "picture": "https://cdn.myanimelist.net/images/characters/16/139189.jpg",
-   "name": "Ishida, Uryuu",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/16/Noriaki_Sugiyama",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/44267.jpg",
-    "name": "Sugiyama, Noriaki"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/575/Yasutora_Sado",
-   "picture": "https://cdn.myanimelist.net/images/characters/2/102739.jpg",
-   "name": "Sado, Yasutora",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/25/Hiroki_Yasumoto",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/42158.jpg",
-    "name": "Yasumoto, Hiroki"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/909/Kenpachi_Zaraki",
-   "picture": "https://cdn.myanimelist.net/images/characters/8/150265.jpg",
-   "name": "Zaraki, Kenpachi",
+   "link": "https://myanimelist.net/character/142683/Kirishima",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Kirishima",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/284/Fumihiko_Tachiki",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/38867.jpg",
-    "name": "Tachiki, Fumihiko"
+    "link": "https://myanimelist.net/people/761/Tessyo_Genda",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54780.jpg",
+    "name": "Genda, Tessyo"
    }
   },
   {
-   "link": "https://myanimelist.net/character/245/Toushirou_Hitsugaya",
-   "picture": "https://cdn.myanimelist.net/images/characters/11/36579.jpg",
-   "name": "Hitsugaya, Toushirou",
+   "link": "https://myanimelist.net/character/142685/Kirishima_no_Tsuma",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Kirishima no Tsuma",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/82/Romi_Park",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54602.jpg",
-    "name": "Park, Romi"
+    "link": "https://myanimelist.net/people/5365/Ai_Satou",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/15877.jpg",
+    "name": "Satou, Ai"
    }
   },
   {
-   "link": "https://myanimelist.net/character/1081/Ulquiorra_Cifer",
-   "picture": "https://cdn.myanimelist.net/images/characters/12/85334.jpg",
-   "name": "Cifer, Ulquiorra",
+   "link": "https://myanimelist.net/character/142682/Butler",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Butler",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/87/Daisuke_Namikawa",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54499.jpg",
-    "name": "Namikawa, Daisuke"
+    "link": "https://myanimelist.net/people/634/Yousuke_Akimoto",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54969.jpg",
+    "name": "Akimoto, Yousuke"
    }
   },
   {
-   "link": "https://myanimelist.net/character/210/Kisuke_Urahara",
-   "picture": "https://cdn.myanimelist.net/images/characters/15/149491.jpg",
-   "name": "Urahara, Kisuke",
+   "link": "https://myanimelist.net/character/142681/Kaichou_no_Musume",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Kaichou no Musume",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/22/Shinichiro_Miki",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54678.jpg",
-    "name": "Miki, Shinichiro"
+    "link": "https://myanimelist.net/people/9786/Sakurako_Kishiro",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/7594.jpg",
+    "name": "Kishiro, Sakurako"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/142680/Kaichou",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Kaichou",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/6175/Tomomichi_Nishimura",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54964.jpg",
+    "name": "Nishimura, Tomomichi"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/142686/Kirishima_no_Musuko",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Kirishima no Musuko",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/9786/Sakurako_Kishiro",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/7594.jpg",
+    "name": "Kishiro, Sakurako"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/142687/Ichinose",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Ichinose",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/8889/Toshiya_Ueda",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/17865.jpg",
+    "name": "Ueda, Toshiya"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/142694/College_Student",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "College Student",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/195/Kikuko_Inoue",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/35155.jpg",
+    "name": "Inoue, Kikuko"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/142693/Sailor",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Sailor",
+   "role": "Supporting",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/629/Issei_Futamata",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54852.jpg",
+    "name": "Futamata, Issei"
    }
   }
  ],
  "staff": [
   {
-   "link": "https://myanimelist.net/people/10277/Noriyuki_Abe",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54038.jpg",
-   "name": "Abe, Noriyuki",
-   "role": "Director, Episode Director, Storyboard"
+   "link": "https://myanimelist.net/people/42534/Fusanobu_Fujiyama",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Fujiyama, Fusanobu",
+   "role": "Sound Director"
   },
   {
-   "link": "https://myanimelist.net/people/18371/Yuzuru_Tachikawa",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/25109.jpg",
-   "name": "Tachikawa, Yuzuru",
-   "role": "Episode Director, Storyboard, Key Animation"
+   "link": "https://myanimelist.net/people/40116/Shinsaku_Kozuma",
+   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+   "name": "Kozuma, Shinsaku",
+   "role": "Storyboard"
   },
   {
-   "link": "https://myanimelist.net/people/10936/Masashi_Ishihama",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/42584.jpg",
-   "name": "Ishihama, Masashi",
-   "role": "Episode Director, Storyboard, Animation Director, Key Animation"
+   "link": "https://myanimelist.net/people/5770/Yuusaku_Yara",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/32675.jpg",
+   "name": "Yara, Yuusaku",
+   "role": "Theme Song Performance"
   },
   {
-   "link": "https://myanimelist.net/people/6831/Chiaki_Kon",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/43174.jpg",
-   "name": "Kon, Chiaki",
-   "role": "Episode Director, Storyboard"
+   "link": "https://myanimelist.net/people/18237/Hisashi_Eguchi",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/27751.jpg",
+   "name": "Eguchi, Hisashi",
+   "role": "Original Creator"
   }
  ],
- "trailer": "https://www.youtube.com/embed/0yk5H6vvfG4?enablejsapi=1&wmode=opaque&autoplay=1",
- "englishTitle": "Bleach",
- "japaneseTitle": "BLEACH - ブリーチ -",
- "synonyms": "",
- "type": "TV",
- "episodes": "366",
+ "englishTitle": "",
+ "japaneseTitle": "江口寿史の寿五郎ショウ",
+ "synonyms": "Kotobuki Goro Show",
+ "type": "OVA",
+ "episodes": "4",
  "status": "Finished Airing",
- "aired": "Oct 5, 2004 to Mar 27, 2012",
- "premiered": "Fall 2004",
- "broadcast": "Tuesdays at 18:00 (JST)",
+ "aired": "May 21, 1991 to Nov 21, 1991",
+ "premiered": "",
+ "broadcast": "",
  "producers": [
-  "TV Tokyo",
-  "Aniplex",
-  "Dentsu",
-  "TV Tokyo Music",
-  "Studio Kelmadick",
-  "Shueisha"
+  "None found, add some"
  ],
  "studios": [
-  "Studio Pierrot"
+  "Studio Pierrot",
+  "Kyoto Animation"
  ],
  "source": "Manga",
  "genres": [
-  "Action",
-  "Adventure",
   "Comedy",
-  "Super Power",
-  "Supernatural",
-  "Shounen"
+  "Parody",
+  "Ecchi"
  ],
- "duration": "24 min. per ep.",
- "rating": "PG-13 - Teens 13 or older",
- "score": "7.80",
- "scoreStats": "scored by 585,043 users",
- "ranked": "#810",
- "popularity": "#29",
- "members": "1,151,641",
- "favorites": "50,136",
- "id": 269,
- "url": "https://myanimelist.net/anime/269/Bleach"
+ "duration": "7 min. per ep.",
+ "rating": "R+ - Mild Nudity",
+ "score": "5.08",
+ "scoreStats": "scored by 312 users",
+ "ranked": "#10084",
+ "popularity": "#10024",
+ "members": "1,030",
+ "favorites": "0",
+ "id": 20385,
+ "url": "https://myanimelist.net/anime/20385/Eguchi_Hisashi_no_Kotobuki_Gorou_Show"
 }
