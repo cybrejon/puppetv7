@@ -194,7 +194,9 @@ module.exports = {
         } else if (aliases.dai_shimei.includes(text1)) {
             nameString = "Dai Shimei"
         } else if (aliases.shiranui.includes(text1)) {
-            nameString = "Shiranui"
+            nameString = "Shiranui" 
+        } else if (aliases.kani.includes(text1)) {
+            nameString = "Kani Hime"
         } else return sendErr(); 
 
         const mainData = data[`${nameString}`];
