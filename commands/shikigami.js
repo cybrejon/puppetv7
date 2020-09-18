@@ -1,3 +1,4 @@
+const { text } = require("express");
 
 const   Discord = require("discord.js"),
 { aliases } = require("../ref/shiki_alias.json"),
@@ -214,6 +215,8 @@ if (aliases.kubinashi.includes(text1)) {
     nameString = "Shiranui"
 } else if (aliases.kani.includes(text1)) {
     nameString = "Kani Hime"
+} else if (aliases.hako.includes(text)) {
+    nameString = "Hako Shoujo"
 } else return sendErr(`:x: Incorrect shikigami name, please type \`${prefix}list\``);
 
 // predefine some json objects

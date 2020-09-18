@@ -83,7 +83,8 @@
         "suzuka_gozen" : ["suzuka-gozen", "gozen", "suzuka"],
         "dai_shimei" : ["dai-shimei", "dai", "shimei"],
         "shiranui" : ["shiranui", "shiran", "shir"],
-        "kani" : ["kani-hime", "kani", "crab"]
+        "kani" : ["kani-hime", "kani", "crab"],
+        "hako" : ["hako-shoujo", "hako"]
 
     }
 

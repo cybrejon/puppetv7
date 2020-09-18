@@ -6,6 +6,7 @@ const { prefix } = require('../config.json');
 const { path_dict } = require("../ref/images.json");
 const { data } = require("../ref/oa.json");
 const { ownerID } = require('../config.json');
+const { text } = require('express');
 // const { JsonBox } = require('jsonbox-node');
 
 // require('dotenv').config();
@@ -197,6 +198,8 @@ module.exports = {
             nameString = "Shiranui" 
         } else if (aliases.kani.includes(text1)) {
             nameString = "Kani Hime"
+        } else if (aliases.hako.includes(text1)) {
+            nameString = "Hako Shoujo"
         } else return sendErr(); 
 
         const mainData = data[`${nameString}`];
