@@ -215,7 +215,7 @@ if (aliases.kubinashi.includes(text1)) {
     nameString = "Shiranui"
 } else if (aliases.kani.includes(text1)) {
     nameString = "Kani Hime"
-} else if (aliases.hako.includes(text)) {
+} else if (aliases.hako.includes(text1)) {
     nameString = "Hako Shoujo"
 } else return sendErr(`:x: Incorrect shikigami name, please type \`${prefix}list\``);
 
