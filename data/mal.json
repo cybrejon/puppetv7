@@ -1,175 +1,184 @@
 {
- "title": "Eguchi Hisashi no Kotobuki Gorou Show",
- "synopsis": "Based on the gag manga by Hisashi Eguchi.\n\nOriginally released as a feature part of Studio Pierrot's video magazine show Anime V Comic Rentaman (アニメ・V・コミック レンタマン) along with Abashiri Ikka, Yumemakura Baku Twilight Gekijou and Akai Hayate. \n\n(Source: AniDB) ",
- "picture": "https://cdn.myanimelist.net/images/anime/13/54143.jpg",
+ "title": "Dragon Crisis!",
+ "synopsis": "A normal high school boy Kisaragi Ryuji's peaceful life is turned into an adventure by the return of his second cousin Eriko. Ryuji and Eriko seize a relic box from a black broker. In the box, they find a red dragon girl Rose. In order to protect Rose from the black organization, Ryuji decides to fight using his power as a relic handler.",
+ "picture": "https://cdn.myanimelist.net/images/anime/8/50311.jpg",
  "characters": [
   {
-   "link": "https://myanimelist.net/character/142656/Vulgar_Father",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Vulgar Father",
+   "link": "https://myanimelist.net/character/35736/Rose",
+   "picture": "https://cdn.myanimelist.net/images/characters/7/109444.jpg",
+   "name": "Rose",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/5770/Yuusaku_Yara",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/32675.jpg",
-    "name": "Yara, Yuusaku"
+    "link": "https://myanimelist.net/people/8/Rie_Kugimiya",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54599.jpg",
+    "name": "Kugimiya, Rie"
    }
   },
   {
-   "link": "https://myanimelist.net/character/142683/Kirishima",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Kirishima",
-   "role": "Supporting",
+   "link": "https://myanimelist.net/character/37781/Ryuuji_Kisaragi",
+   "picture": "https://cdn.myanimelist.net/images/characters/10/124135.jpg",
+   "name": "Kisaragi, Ryuuji",
+   "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/761/Tessyo_Genda",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54780.jpg",
-    "name": "Genda, Tessyo"
+    "link": "https://myanimelist.net/people/356/Hiro_Shimono",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/56753.jpg",
+    "name": "Shimono, Hiro"
    }
   },
   {
-   "link": "https://myanimelist.net/character/142685/Kirishima_no_Tsuma",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Kirishima no Tsuma",
-   "role": "Supporting",
+   "link": "https://myanimelist.net/character/37782/Eriko_Nanao",
+   "picture": "https://cdn.myanimelist.net/images/characters/16/124447.jpg",
+   "name": "Nanao, Eriko",
+   "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/5365/Ai_Satou",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/15877.jpg",
-    "name": "Satou, Ai"
+    "link": "https://myanimelist.net/people/140/Yukana",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/45746.jpg",
+    "name": "Yukana"
    }
   },
   {
-   "link": "https://myanimelist.net/character/142682/Butler",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Butler",
+   "link": "https://myanimelist.net/character/37785/Ai",
+   "picture": "https://cdn.myanimelist.net/images/characters/5/120776.jpg",
+   "name": "Ai",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/634/Yousuke_Akimoto",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54969.jpg",
-    "name": "Akimoto, Yousuke"
+    "link": "https://myanimelist.net/people/246/Yuka_Inokuchi",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/4053.jpg",
+    "name": "Inokuchi, Yuka"
    }
   },
   {
-   "link": "https://myanimelist.net/character/142681/Kaichou_no_Musume",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Kaichou no Musume",
+   "link": "https://myanimelist.net/character/37784/Maruga",
+   "picture": "https://cdn.myanimelist.net/images/characters/9/165315.jpg",
+   "name": "Maruga",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/9786/Sakurako_Kishiro",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/7594.jpg",
-    "name": "Kishiro, Sakurako"
+    "link": "https://myanimelist.net/people/28/Yui_Horie",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/55669.jpg",
+    "name": "Horie, Yui"
    }
   },
   {
-   "link": "https://myanimelist.net/character/142680/Kaichou",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Kaichou",
+   "link": "https://myanimelist.net/character/40278/Bianca_Alexandra_Lou",
+   "picture": "https://cdn.myanimelist.net/images/characters/13/120780.jpg",
+   "name": "Lou, Bianca Alexandra",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/6175/Tomomichi_Nishimura",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54964.jpg",
-    "name": "Nishimura, Tomomichi"
+    "link": "https://myanimelist.net/people/73/Yuki_Matsuoka",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/11313.jpg",
+    "name": "Matsuoka, Yuki"
    }
   },
   {
-   "link": "https://myanimelist.net/character/142686/Kirishima_no_Musuko",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Kirishima no Musuko",
+   "link": "https://myanimelist.net/character/39854/Sapphi",
+   "picture": "https://cdn.myanimelist.net/images/characters/3/120779.jpg",
+   "name": "Sapphi",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/9786/Sakurako_Kishiro",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/7594.jpg",
-    "name": "Kishiro, Sakurako"
+    "link": "https://myanimelist.net/people/52/Emiri_Katou",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/12722.jpg",
+    "name": "Katou, Emiri"
    }
   },
   {
-   "link": "https://myanimelist.net/character/142687/Ichinose",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Ichinose",
+   "link": "https://myanimelist.net/character/39721/Onyx",
+   "picture": "https://cdn.myanimelist.net/images/characters/10/120778.jpg",
+   "name": "Onyx",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/8889/Toshiya_Ueda",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/17865.jpg",
-    "name": "Ueda, Toshiya"
+    "link": "https://myanimelist.net/people/118/Hiroshi_Kamiya",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/58597.jpg",
+    "name": "Kamiya, Hiroshi"
    }
   },
   {
-   "link": "https://myanimelist.net/character/142694/College_Student",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "College Student",
+   "link": "https://myanimelist.net/character/41438/Kai",
+   "picture": "https://cdn.myanimelist.net/images/characters/4/124449.jpg",
+   "name": "Kai",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/195/Kikuko_Inoue",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/35155.jpg",
-    "name": "Inoue, Kikuko"
+    "link": "https://myanimelist.net/people/1673/Mayumi_Sako",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/11644.jpg",
+    "name": "Sako, Mayumi"
    }
   },
   {
-   "link": "https://myanimelist.net/character/142693/Sailor",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Sailor",
+   "link": "https://myanimelist.net/character/37783/Misaki_Etou",
+   "picture": "https://cdn.myanimelist.net/images/characters/14/198283.jpg",
+   "name": "Etou, Misaki",
    "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/629/Issei_Futamata",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54852.jpg",
-    "name": "Futamata, Issei"
+    "link": "https://myanimelist.net/people/10813/Mayako_Nigo",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/43379.jpg",
+    "name": "Nigo, Mayako"
    }
   }
  ],
  "staff": [
   {
-   "link": "https://myanimelist.net/people/42534/Fusanobu_Fujiyama",
+   "link": "https://myanimelist.net/people/10935/Hideki_Tachibana",
    "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Fujiyama, Fusanobu",
+   "name": "Tachibana, Hideki",
+   "role": "Director"
+  },
+  {
+   "link": "https://myanimelist.net/people/30689/Shouji_Hata",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/53577.jpg",
+   "name": "Hata, Shouji",
    "role": "Sound Director"
   },
   {
-   "link": "https://myanimelist.net/people/40116/Shinsaku_Kozuma",
+   "link": "https://myanimelist.net/people/19333/Shunji_Yoshida",
    "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Kozuma, Shinsaku",
-   "role": "Storyboard"
+   "name": "Yoshida, Shunji",
+   "role": "Episode Director"
   },
   {
-   "link": "https://myanimelist.net/people/5770/Yuusaku_Yara",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/32675.jpg",
-   "name": "Yara, Yuusaku",
-   "role": "Theme Song Performance"
-  },
-  {
-   "link": "https://myanimelist.net/people/18237/Hisashi_Eguchi",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/27751.jpg",
-   "name": "Eguchi, Hisashi",
-   "role": "Original Creator"
+   "link": "https://myanimelist.net/people/1967/Hideyuki_Kurata",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/53834.jpg",
+   "name": "Kurata, Hideyuki",
+   "role": "Script, Screenplay, Series Composition"
   }
  ],
+ "trailer": "https://www.youtube.com/embed/tJY0n-_9r_4?enablejsapi=1&wmode=opaque&autoplay=1",
  "englishTitle": "",
- "japaneseTitle": "江口寿史の寿五郎ショウ",
- "synonyms": "Kotobuki Goro Show",
- "type": "OVA",
- "episodes": "4",
- "status": "Finished Airing",
- "aired": "May 21, 1991 to Nov 21, 1991",
- "premiered": "",
- "broadcast": "",
+ "japaneseTitle": "ドラゴンクライシス!",
+ "synonyms": [
+  "Dragon Crisis!"
+ ],
+ "type": "TV",
+ "episodes": "12",
+ "aired": "Jan 11, 2011 to Mar 29, 2011",
+ "premiered": "Winter 2011",
+ "broadcast": "Mondays at 01:30 (JST)",
  "producers": [
-  "None found, add some"
+  "Yomiuri Telecasting",
+  "Starchild Records",
+  "Kids Station",
+  "DAX Production",
+  "Shueisha"
  ],
  "studios": [
-  "Studio Pierrot",
-  "Kyoto Animation"
+  "Studio Deen"
  ],
- "source": "Manga",
+ "source": "Light novel",
+ "duration": "23 min. per ep.",
+ "rating": "PG-13 - Teens 13 or older",
+ "status": "Finished Airing",
  "genres": [
-  "Comedy",
-  "Parody",
-  "Ecchi"
+  "Action",
+  "Magic",
+  "Romance",
+  "School",
+  "Seinen",
+  "Supernatural"
  ],
- "duration": "7 min. per ep.",
- "rating": "R+ - Mild Nudity",
- "score": "5.08",
- "scoreStats": "scored by 312 users",
- "ranked": "#10084",
- "popularity": "#10024",
- "members": "1,030",
- "favorites": "0",
- "id": 20385,
- "url": "https://myanimelist.net/anime/20385/Eguchi_Hisashi_no_Kotobuki_Gorou_Show"
+ "score": "6.73",
+ "scoreStats": "scored by 73,698 users",
+ "ranked": "#4650",
+ "popularity": "#930",
+ "members": "143,191",
+ "favorites": "309",
+ "id": 9330,
+ "url": "https://myanimelist.net/anime/9330/Dragon_Crisis"
 }
