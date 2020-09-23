@@ -1,184 +1,91 @@
 {
- "title": "Dragon Crisis!",
- "synopsis": "A normal high school boy Kisaragi Ryuji's peaceful life is turned into an adventure by the return of his second cousin Eriko. Ryuji and Eriko seize a relic box from a black broker. In the box, they find a red dragon girl Rose. In order to protect Rose from the black organization, Ryuji decides to fight using his power as a relic handler.",
- "picture": "https://cdn.myanimelist.net/images/anime/8/50311.jpg",
+ "title": "Horimiya",
+ "synopsis": "Although admired at school for her amiability and academic prowess, high school student Kyouko Hori has been hiding another side of her. With her parents often away from home due to work, Hori has to look after her younger brother and do the housework, leaving no chance to socialize away from school.\n\nMeanwhile, Izumi Miyamura is seen as a brooding, glasses-wearing otaku. However, in reality, he is a gentle person inept at studying. Furthermore, he has nine piercings hidden behind his long hair and a tattoo along his back and left shoulder.\n\nBy sheer chance, Hori and Miyamura cross paths outside of school—neither looking as the other expects. These seemingly polar opposites become friends, sharing with each other a side they have never shown to anyone else.\n\n[Written by MAL Rewrite]",
+ "picture": "https://cdn.myanimelist.net/images/anime/1268/109252.jpg",
  "characters": [
   {
-   "link": "https://myanimelist.net/character/35736/Rose",
-   "picture": "https://cdn.myanimelist.net/images/characters/7/109444.jpg",
-   "name": "Rose",
+   "link": "https://myanimelist.net/character/66173/Izumi_Miyamura",
+   "picture": "https://cdn.myanimelist.net/images/characters/8/187511.jpg",
+   "name": "Miyamura, Izumi",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/8/Rie_Kugimiya",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54599.jpg",
-    "name": "Kugimiya, Rie"
+    "link": "https://myanimelist.net/people/1764/Kouki_Uchiyama",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/48877.jpg",
+    "name": "Uchiyama, Kouki"
    }
   },
   {
-   "link": "https://myanimelist.net/character/37781/Ryuuji_Kisaragi",
-   "picture": "https://cdn.myanimelist.net/images/characters/10/124135.jpg",
-   "name": "Kisaragi, Ryuuji",
+   "link": "https://myanimelist.net/character/66171/Kyouko_Hori",
+   "picture": "https://cdn.myanimelist.net/images/characters/16/318188.jpg",
+   "name": "Hori, Kyouko",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/356/Hiro_Shimono",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/56753.jpg",
-    "name": "Shimono, Hiro"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/37782/Eriko_Nanao",
-   "picture": "https://cdn.myanimelist.net/images/characters/16/124447.jpg",
-   "name": "Nanao, Eriko",
-   "role": "Main",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/140/Yukana",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/45746.jpg",
-    "name": "Yukana"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/37785/Ai",
-   "picture": "https://cdn.myanimelist.net/images/characters/5/120776.jpg",
-   "name": "Ai",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/246/Yuka_Inokuchi",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/4053.jpg",
-    "name": "Inokuchi, Yuka"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/37784/Maruga",
-   "picture": "https://cdn.myanimelist.net/images/characters/9/165315.jpg",
-   "name": "Maruga",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/28/Yui_Horie",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/55669.jpg",
-    "name": "Horie, Yui"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/40278/Bianca_Alexandra_Lou",
-   "picture": "https://cdn.myanimelist.net/images/characters/13/120780.jpg",
-   "name": "Lou, Bianca Alexandra",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/73/Yuki_Matsuoka",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/11313.jpg",
-    "name": "Matsuoka, Yuki"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/39854/Sapphi",
-   "picture": "https://cdn.myanimelist.net/images/characters/3/120779.jpg",
-   "name": "Sapphi",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/52/Emiri_Katou",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/12722.jpg",
-    "name": "Katou, Emiri"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/39721/Onyx",
-   "picture": "https://cdn.myanimelist.net/images/characters/10/120778.jpg",
-   "name": "Onyx",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/118/Hiroshi_Kamiya",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/58597.jpg",
-    "name": "Kamiya, Hiroshi"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/41438/Kai",
-   "picture": "https://cdn.myanimelist.net/images/characters/4/124449.jpg",
-   "name": "Kai",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/1673/Mayumi_Sako",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/11644.jpg",
-    "name": "Sako, Mayumi"
-   }
-  },
-  {
-   "link": "https://myanimelist.net/character/37783/Misaki_Etou",
-   "picture": "https://cdn.myanimelist.net/images/characters/14/198283.jpg",
-   "name": "Etou, Misaki",
-   "role": "Supporting",
-   "seiyuu": {
-    "link": "https://myanimelist.net/people/10813/Mayako_Nigo",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/43379.jpg",
-    "name": "Nigo, Mayako"
+    "link": "https://myanimelist.net/people/890/Haruka_Tomatsu",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54591.jpg",
+    "name": "Tomatsu, Haruka"
    }
   }
  ],
  "staff": [
   {
-   "link": "https://myanimelist.net/people/10935/Hideki_Tachibana",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Tachibana, Hideki",
+   "link": "https://myanimelist.net/people/10936/Masashi_Ishihama",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/42584.jpg",
+   "name": "Ishihama, Masashi",
    "role": "Director"
   },
   {
-   "link": "https://myanimelist.net/people/30689/Shouji_Hata",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/53577.jpg",
-   "name": "Hata, Shouji",
-   "role": "Sound Director"
+   "link": "https://myanimelist.net/people/14787/Takao_Yoshioka",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/24313.jpg",
+   "name": "Yoshioka, Takao",
+   "role": "Script, Series Composition"
   },
   {
-   "link": "https://myanimelist.net/people/19333/Shunji_Yoshida",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Yoshida, Shunji",
-   "role": "Episode Director"
+   "link": "https://myanimelist.net/people/7520/Masaru_Yokoyama",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/40248.jpg",
+   "name": "Yokoyama, Masaru",
+   "role": "Music"
   },
   {
-   "link": "https://myanimelist.net/people/1967/Hideyuki_Kurata",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/53834.jpg",
-   "name": "Kurata, Hideyuki",
-   "role": "Script, Screenplay, Series Composition"
+   "link": "https://myanimelist.net/people/16703/HERO",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/19321.jpg",
+   "name": "HERO",
+   "role": "Original Creator"
   }
  ],
- "trailer": "https://www.youtube.com/embed/tJY0n-_9r_4?enablejsapi=1&wmode=opaque&autoplay=1",
+ "trailer": "https://www.youtube.com/embed/nSyiXO2wTow?enablejsapi=1&wmode=opaque&autoplay=1",
  "englishTitle": "",
- "japaneseTitle": "ドラゴンクライシス!",
+ "japaneseTitle": "ホリミヤ",
  "synonyms": [
-  "Dragon Crisis!"
+  ""
  ],
  "type": "TV",
- "episodes": "12",
- "aired": "Jan 11, 2011 to Mar 29, 2011",
- "premiered": "Winter 2011",
- "broadcast": "Mondays at 01:30 (JST)",
+ "episodes": "Unknown",
+ "aired": "Jan, 2021 to ?",
+ "premiered": "Winter 2021",
+ "broadcast": "Unknown",
  "producers": [
-  "Yomiuri Telecasting",
-  "Starchild Records",
-  "Kids Station",
-  "DAX Production",
-  "Shueisha"
+  "None found, add some"
  ],
  "studios": [
-  "Studio Deen"
+  "CloverWorks"
  ],
- "source": "Light novel",
- "duration": "23 min. per ep.",
+ "source": "Manga",
+ "duration": "Unknown",
  "rating": "PG-13 - Teens 13 or older",
- "status": "Finished Airing",
+ "status": "Not yet aired",
  "genres": [
-  "Action",
-  "Magic",
+  "Slice of Life",
+  "Comedy",
   "Romance",
   "School",
-  "Seinen",
-  "Supernatural"
+  "Shounen"
  ],
- "score": "6.73",
- "scoreStats": "scored by 73,698 users",
- "ranked": "#4650",
- "popularity": "#930",
- "members": "143,191",
- "favorites": "309",
- "id": 9330,
- "url": "https://myanimelist.net/anime/9330/Dragon_Crisis"
+ "score": "N/A",
+ "scoreStats": "scored by 0 users",
+ "ranked": "N/A",
+ "popularity": "#17123",
+ "members": "13,166",
+ "favorites": "110",
+ "id": 42897,
+ "url": "https://myanimelist.net/anime/42897/Horimiya"
 }
