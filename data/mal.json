@@ -1,91 +1,113 @@
 {
- "title": "Horimiya",
- "synopsis": "Although admired at school for her amiability and academic prowess, high school student Kyouko Hori has been hiding another side of her. With her parents often away from home due to work, Hori has to look after her younger brother and do the housework, leaving no chance to socialize away from school.\n\nMeanwhile, Izumi Miyamura is seen as a brooding, glasses-wearing otaku. However, in reality, he is a gentle person inept at studying. Furthermore, he has nine piercings hidden behind his long hair and a tattoo along his back and left shoulder.\n\nBy sheer chance, Hori and Miyamura cross paths outside of school—neither looking as the other expects. These seemingly polar opposites become friends, sharing with each other a side they have never shown to anyone else.\n\n[Written by MAL Rewrite]",
- "picture": "https://cdn.myanimelist.net/images/anime/1268/109252.jpg",
+ "title": "Houkago Teibou Nisshi",
+ "synopsis": "Hina Tsurugi and her family have just moved to a quaint seaside town. Hoping to savor the sight of the peaceful ocean, Hina stumbles upon a girl named Yuuki Kuroiwa—an upperclassman at her new school—who invites Hina to join her in fishing. Hina reels in an octopus, which falls onto her; being afraid of bugs and big creatures, she panics and begs Yuuki to remove it from her. Yuuki sees this as an opportunity to force Hina to join the school's Breakwater Club—a club where members gather, catch, and eat various types of marine life as their main activity.\n\nAlthough her attempts to refuse to join fail, Hina slowly begins to discover the hidden joy in fishing. Her view on the sport changes, now looking forward to all the delightful experiences she can take part in alongside her fellow club members.\n\n[Written by MAL Rewrite]",
+ "picture": "https://cdn.myanimelist.net/images/anime/1802/106362.jpg",
  "characters": [
   {
-   "link": "https://myanimelist.net/character/66173/Izumi_Miyamura",
-   "picture": "https://cdn.myanimelist.net/images/characters/8/187511.jpg",
-   "name": "Miyamura, Izumi",
+   "link": "https://myanimelist.net/character/179211/Hina_Tsurugi",
+   "picture": "https://cdn.myanimelist.net/images/characters/12/402675.jpg",
+   "name": "Tsurugi, Hina",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/1764/Kouki_Uchiyama",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/48877.jpg",
-    "name": "Uchiyama, Kouki"
+    "link": "https://myanimelist.net/people/39009/Kanon_Takao",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/41702.jpg",
+    "name": "Takao, Kanon"
    }
   },
   {
-   "link": "https://myanimelist.net/character/66171/Kyouko_Hori",
-   "picture": "https://cdn.myanimelist.net/images/characters/16/318188.jpg",
-   "name": "Hori, Kyouko",
+   "link": "https://myanimelist.net/character/179214/Makoto_Oono",
+   "picture": "https://cdn.myanimelist.net/images/characters/6/402679.jpg",
+   "name": "Oono, Makoto",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/890/Haruka_Tomatsu",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54591.jpg",
-    "name": "Tomatsu, Haruka"
+    "link": "https://myanimelist.net/people/723/Satomi_Akesaka",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/41560.jpg",
+    "name": "Akesaka, Satomi"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/179212/Yuuki_Kuroiwa",
+   "picture": "https://cdn.myanimelist.net/images/characters/4/402677.jpg",
+   "name": "Kuroiwa, Yuuki",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/47327/Yuu_Sasahara",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/53817.jpg",
+    "name": "Sasahara, Yuu"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/179213/Natsumi_Hodaka",
+   "picture": "https://cdn.myanimelist.net/images/characters/8/402676.jpg",
+   "name": "Hodaka, Natsumi",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/48833/Natsumi_Kawaida",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/59035.jpg",
+    "name": "Kawaida, Natsumi"
    }
   }
  ],
  "staff": [
   {
-   "link": "https://myanimelist.net/people/10936/Masashi_Ishihama",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/42584.jpg",
-   "name": "Ishihama, Masashi",
+   "link": "https://myanimelist.net/people/19083/Takaharu_Ookuma",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/39567.jpg",
+   "name": "Ookuma, Takaharu",
    "role": "Director"
   },
   {
-   "link": "https://myanimelist.net/people/14787/Takao_Yoshioka",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/24313.jpg",
-   "name": "Yoshioka, Takao",
-   "role": "Script, Series Composition"
+   "link": "https://myanimelist.net/people/723/Satomi_Akesaka",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/41560.jpg",
+   "name": "Akesaka, Satomi",
+   "role": "Theme Song Performance"
   },
   {
-   "link": "https://myanimelist.net/people/7520/Masaru_Yokoyama",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/40248.jpg",
-   "name": "Yokoyama, Masaru",
-   "role": "Music"
+   "link": "https://myanimelist.net/people/39009/Kanon_Takao",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/41702.jpg",
+   "name": "Takao, Kanon",
+   "role": "Theme Song Performance"
   },
   {
-   "link": "https://myanimelist.net/people/16703/HERO",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/19321.jpg",
-   "name": "HERO",
-   "role": "Original Creator"
+   "link": "https://myanimelist.net/people/47327/Yuu_Sasahara",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/53817.jpg",
+   "name": "Sasahara, Yuu",
+   "role": "Theme Song Performance"
   }
  ],
- "trailer": "https://www.youtube.com/embed/nSyiXO2wTow?enablejsapi=1&wmode=opaque&autoplay=1",
- "englishTitle": "",
- "japaneseTitle": "ホリミヤ",
+ "trailer": "https://www.youtube.com/embed/PAvLwvItvts?enablejsapi=1&wmode=opaque&autoplay=1",
+ "englishTitle": "Diary of Our Days at the Breakwater",
+ "japaneseTitle": "放課後ていぼう日誌",
  "synonyms": [
-  ""
+  "Hokago Teibo Nisshi",
+  "Afterschool Embankment Journal"
  ],
  "type": "TV",
- "episodes": "Unknown",
- "aired": "Jan, 2021 to ?",
- "premiered": "Winter 2021",
- "broadcast": "Unknown",
+ "episodes": "12",
+ "aired": "Apr 7, 2020 to Sep 22, 2020",
+ "premiered": "Spring 2020",
+ "broadcast": "Tuesdays at 22:00 (JST)",
  "producers": [
   "None found, add some"
  ],
  "studios": [
-  "CloverWorks"
+  "Doga Kobo"
  ],
  "source": "Manga",
- "duration": "Unknown",
+ "duration": "23 min. per ep.",
  "rating": "PG-13 - Teens 13 or older",
- "status": "Not yet aired",
+ "status": "Finished Airing",
  "genres": [
   "Slice of Life",
   "Comedy",
-  "Romance",
   "School",
-  "Shounen"
+  "Seinen"
  ],
- "score": "N/A",
- "scoreStats": "scored by 0 users",
- "ranked": "N/A",
- "popularity": "#17123",
- "members": "13,166",
- "favorites": "110",
- "id": 42897,
- "url": "https://myanimelist.net/anime/42897/Horimiya"
+ "score": "7.32",
+ "scoreStats": "scored by 6,582 users",
+ "ranked": "#2229",
+ "popularity": "#2846",
+ "members": "29,369",
+ "favorites": "95",
+ "id": 39730,
+ "url": "https://myanimelist.net/anime/39730/Houkago_Teibou_Nisshi"
 }
