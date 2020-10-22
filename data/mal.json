@@ -1,127 +1,192 @@
 {
- "title": "Tonikaku Kawaii",
- "synopsis": "Having grown up ridiculed for his bizarre name, Nasa Yuzaki strives to be remembered for something more. Fortunately, it seems he's on the right path, ranking first in the nation's mock exams and set to enter his high school of choice.\n\nHowever, everything changes in a single night when he notices a girl across the street on his way home. Enraptured by her overwhelming cuteness, it's love at first sight for Nasa. But in his infatuated daze, he fails to notice the approaching danger speeding down the road and finds himself at death's door. Barely alive thanks to the girl's intervention, Nasa musters the courage to confess his love to her, fearing she might otherwise vanish from his life. She accepts his proposal on one condition: marriage, to which Nasa gladly accepts before passing out from his injuries. Upon waking, however, the girl is nowhere to be found.\n\nAfter recovering from his injuries, Nasa tosses his previous ambitions aside and dedicates his life to finding the girl that captured his heart, yet several years pass to no avail. But one night, when an unexpected visitor comes knocking on his door, Nasa finds himself facing a woman that would forever change his world: his wife.\n\n[Written by MAL Rewrite]",
- "picture": "https://cdn.myanimelist.net/images/anime/1613/108722.jpg",
+ "title": "Darling in the FranXX",
+ "synopsis": "In the distant future, humanity has been driven to near-extinction by giant beasts known as Klaxosaurs, forcing the surviving humans to take refuge in massive fortress cities called Plantations. Children raised here are trained to pilot giant mechas known as FranXX—the only weapons known to be effective against the Klaxosaurs—in boy-girl pairs. Bred for the sole purpose of piloting these machines, these children know nothing of the outside world and are only able to prove their existence by defending their race.  \n\nHiro, an aspiring FranXX pilot, has lost his motivation and self-confidence after failing an aptitude test. Skipping out on his class' graduation ceremony, Hiro retreats to a forest lake, where he encounters a mysterious girl with two horns growing out of her head. She introduces herself by her codename Zero Two, which is known to belong to an infamous FranXX pilot known as the \"Partner Killer.\" Before Hiro can digest the encounter, the Plantation is rocked by a sudden Klaxosaur attack. Zero Two engages the creature in her FranXX, but it is heavily damaged in the skirmish and crashes near Hiro. Finding her partner dead, Zero Two invites Hiro to pilot the mecha with her, and the duo easily defeats the Klaxosaur in the ensuing fight. With a new partner by his side, Hiro has been given a chance at redemption for his past failures, but at what cost?\n\n[Written by MAL Rewrite]",
+ "picture": "https://cdn.myanimelist.net/images/anime/1614/90408.jpg",
  "characters": [
   {
-   "link": "https://myanimelist.net/character/163271/Tsukasa_Yuzaki",
-   "picture": "https://cdn.myanimelist.net/images/characters/7/378069.jpg",
-   "name": "Yuzaki, Tsukasa",
+   "link": "https://myanimelist.net/character/155679/Zero_Two",
+   "picture": "https://cdn.myanimelist.net/images/characters/9/341980.jpg",
+   "name": "Zero Two",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/34951/Akari_Kitou",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/58183.jpg",
-    "name": "Kitou, Akari"
+    "link": "https://myanimelist.net/people/890/Haruka_Tomatsu",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54591.jpg",
+    "name": "Tomatsu, Haruka"
    }
   },
   {
-   "link": "https://myanimelist.net/character/169840/Nasa_Yuzaki",
-   "picture": "https://cdn.myanimelist.net/images/characters/7/395696.jpg",
-   "name": "Yuzaki, Nasa",
+   "link": "https://myanimelist.net/character/155680/Ichigo",
+   "picture": "https://cdn.myanimelist.net/images/characters/10/341981.jpg",
+   "name": "Ichigo",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/30853/Junya_Enoki",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/42672.jpg",
-    "name": "Enoki, Junya"
+    "link": "https://myanimelist.net/people/47097/Kana_Ichinose",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54490.jpg",
+    "name": "Ichinose, Kana"
    }
   },
   {
-   "link": "https://myanimelist.net/character/179342/Kaname_Arisugawa",
-   "picture": "https://cdn.myanimelist.net/images/characters/10/418286.jpg",
-   "name": "Arisugawa, Kaname",
-   "role": "Supporting",
+   "link": "https://myanimelist.net/character/155678/Hiro",
+   "picture": "https://cdn.myanimelist.net/images/characters/3/341979.jpg",
+   "name": "Hiro",
+   "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/21515/Yuu_Serizawa",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/43148.jpg",
-    "name": "Serizawa, Yuu"
+    "link": "https://myanimelist.net/people/24875/Yuuto_Uemura",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54508.jpg",
+    "name": "Uemura, Yuuto"
    }
   },
   {
-   "link": "https://myanimelist.net/character/179344/Aya_Arisugawa",
-   "picture": "https://cdn.myanimelist.net/images/characters/7/418284.jpg",
-   "name": "Arisugawa, Aya",
-   "role": "Supporting",
+   "link": "https://myanimelist.net/character/155681/Gorou",
+   "picture": "https://cdn.myanimelist.net/images/characters/13/341982.jpg",
+   "name": "Gorou",
+   "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/14441/Sumire_Uesaka",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/56280.jpg",
-    "name": "Uesaka, Sumire"
+    "link": "https://myanimelist.net/people/34209/Yuuichirou_Umehara",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/60856.jpg",
+    "name": "Umehara, Yuuichirou"
    }
   },
   {
-   "link": "https://myanimelist.net/character/179343/Chitose_Kaginoji",
-   "picture": "https://cdn.myanimelist.net/images/characters/6/418287.jpg",
-   "name": "Kaginoji, Chitose",
-   "role": "Supporting",
+   "link": "https://myanimelist.net/character/155684/Kokoro",
+   "picture": "https://cdn.myanimelist.net/images/characters/5/341985.jpg",
+   "name": "Kokoro",
+   "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/43279/Konomi_Kohara",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/47086.jpg",
-    "name": "Kohara, Konomi"
+    "link": "https://myanimelist.net/people/869/Saori_Hayami",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/55658.jpg",
+    "name": "Hayami, Saori"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/155687/Mitsuru",
+   "picture": "https://cdn.myanimelist.net/images/characters/13/341988.jpg",
+   "name": "Mitsuru",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/42747/Aoi_Ichikawa",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/51883.jpg",
+    "name": "Ichikawa, Aoi"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/155682/Miku",
+   "picture": "https://cdn.myanimelist.net/images/characters/14/341983.jpg",
+   "name": "Miku",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/24263/Nanami_Yamashita",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/37085.jpg",
+    "name": "Yamashita, Nanami"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/155683/Zorome",
+   "picture": "https://cdn.myanimelist.net/images/characters/3/341984.jpg",
+   "name": "Zorome",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/10013/Mutsumi_Tamura",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/43087.jpg",
+    "name": "Tamura, Mutsumi"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/155685/Futoshi",
+   "picture": "https://cdn.myanimelist.net/images/characters/7/341986.jpg",
+   "name": "Futoshi",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/11158/Hiroki_Gotou",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/10008.jpg",
+    "name": "Gotou, Hiroki"
+   }
+  },
+  {
+   "link": "https://myanimelist.net/character/155686/Ikuno",
+   "picture": "https://cdn.myanimelist.net/images/characters/14/341987.jpg",
+   "name": "Ikuno",
+   "role": "Main",
+   "seiyuu": {
+    "link": "https://myanimelist.net/people/28755/Shizuka_Ishigami",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54295.jpg",
+    "name": "Ishigami, Shizuka"
    }
   }
  ],
  "staff": [
   {
-   "link": "https://myanimelist.net/people/28575/Hiroshi_Ikehata",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/41766.jpg",
-   "name": "Ikehata, Hiroshi",
-   "role": "Director"
+   "link": "https://myanimelist.net/people/6385/Eiichi_Kamagata",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54551.jpg",
+   "name": "Kamagata, Eiichi",
+   "role": "Producer"
   },
   {
-   "link": "https://myanimelist.net/people/6549/Satoshi_Motoyama",
-   "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
-   "name": "Motoyama, Satoshi",
-   "role": "Sound Director"
+   "link": "https://myanimelist.net/people/12673/Hiromi_Wakabayashi",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/56399.jpg",
+   "name": "Wakabayashi, Hiromi",
+   "role": "Producer"
   },
   {
-   "link": "https://myanimelist.net/people/34951/Akari_Kitou",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/58183.jpg",
-   "name": "Kitou, Akari",
-   "role": "Theme Song Performance"
+   "link": "https://myanimelist.net/people/40434/Hiroyasu_Kobayashi",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/53704.jpg",
+   "name": "Kobayashi, Hiroyasu",
+   "role": "Producer"
   },
   {
-   "link": "https://myanimelist.net/people/51901/KanoeRana",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/60490.jpg",
-   "name": "KanoeRana",
-   "role": "Theme Song Performance"
+   "link": "https://myanimelist.net/people/9029/Atsushi_Nishigori",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/52774.jpg",
+   "name": "Nishigori, Atsushi",
+   "role": "Director, Episode Director, Storyboard, Series Composition"
   }
  ],
- "trailer": "https://www.youtube.com/embed/3M7w-ROU62U?enablejsapi=1&wmode=opaque&autoplay=1",
- "englishTitle": "TONIKAWA: Over the Moon For You",
- "japaneseTitle": "トニカクカワイイ",
+ "trailer": "https://www.youtube.com/embed/giD4G9qlzDs?enablejsapi=1&wmode=opaque&autoplay=1",
+ "englishTitle": "DARLING in the FRANXX",
+ "japaneseTitle": "ダーリン・イン・ザ・フランキス",
  "synonyms": [
-  "Generally Cute",
-  "Fly Me to the Moon"
+  ""
  ],
  "type": "TV",
- "episodes": "Unknown",
- "aired": "Oct 3, 2020 to ?",
- "premiered": "Fall 2020",
- "broadcast": "Saturdays at 01:05 (JST)",
+ "episodes": "24",
+ "aired": "Jan 13, 2018 to Jul 7, 2018",
+ "premiered": "Winter 2018",
+ "broadcast": "Saturdays at 23:30 (JST)",
  "producers": [
-  "Shogakukan-Shueisha Productions",
-  "Warner Bros. Japan",
-  "KlockWorx",
-  "Shogakukan",
-  "Crunchyroll SC Anime Fund"
+  "Aniplex",
+  "Khara",
+  "Movic",
+  "Ultra Super Pictures",
+  "Lucent Pictures Entertainment",
+  "Tokyo MX",
+  "Nagoya Broadcasting Network",
+  "Asahi Broadcasting",
+  "BS11",
+  "Lawson",
+  "ABC Animation",
+  "Rialto Entertainment"
  ],
  "studios": [
-  "Seven Arcs"
+  "A-1 Pictures",
+  "Trigger",
+  "CloverWorks"
  ],
- "source": "Manga",
- "duration": "23 min.",
- "rating": "None",
- "status": "Currently Airing",
+ "source": "Original",
+ "duration": "24 min. per ep.",
+ "rating": "PG-13 - Teens 13 or older",
+ "status": "Finished Airing",
  "genres": [
-  "Comedy",
+  "Action",
+  "Drama",
+  "Mecha",
   "Romance",
-  "Shounen"
+  "Sci-Fi"
  ],
- "score": "7.74",
- "scoreStats": "scored by 7,326 users",
- "ranked": "#940",
- "popularity": "#1584",
- "members": "77,579",
- "favorites": "468",
- "id": 41389,
- "url": "https://myanimelist.net/anime/41389/Tonikaku_Kawaii"
+ "score": "7.36",
+ "scoreStats": "scored by 457,934 users",
+ "ranked": "#2060",
+ "popularity": "#80",
+ "members": "821,404",
+ "favorites": "19,315",
+ "id": 35849,
+ "url": "https://myanimelist.net/anime/35849/Darling_in_the_FranXX"
 }
