@@ -1,192 +1,182 @@
 {
- "title": "Darling in the FranXX",
- "synopsis": "In the distant future, humanity has been driven to near-extinction by giant beasts known as Klaxosaurs, forcing the surviving humans to take refuge in massive fortress cities called Plantations. Children raised here are trained to pilot giant mechas known as FranXX—the only weapons known to be effective against the Klaxosaurs—in boy-girl pairs. Bred for the sole purpose of piloting these machines, these children know nothing of the outside world and are only able to prove their existence by defending their race.  \n\nHiro, an aspiring FranXX pilot, has lost his motivation and self-confidence after failing an aptitude test. Skipping out on his class' graduation ceremony, Hiro retreats to a forest lake, where he encounters a mysterious girl with two horns growing out of her head. She introduces herself by her codename Zero Two, which is known to belong to an infamous FranXX pilot known as the \"Partner Killer.\" Before Hiro can digest the encounter, the Plantation is rocked by a sudden Klaxosaur attack. Zero Two engages the creature in her FranXX, but it is heavily damaged in the skirmish and crashes near Hiro. Finding her partner dead, Zero Two invites Hiro to pilot the mecha with her, and the duo easily defeats the Klaxosaur in the ensuing fight. With a new partner by his side, Hiro has been given a chance at redemption for his past failures, but at what cost?\n\n[Written by MAL Rewrite]",
- "picture": "https://cdn.myanimelist.net/images/anime/1614/90408.jpg",
+ "title": "Naruto",
+ "synopsis": "Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.\n\nNow, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes.\n\n[Written by MAL Rewrite]",
+ "picture": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
  "characters": [
   {
-   "link": "https://myanimelist.net/character/155679/Zero_Two",
-   "picture": "https://cdn.myanimelist.net/images/characters/9/341980.jpg",
-   "name": "Zero Two",
+   "link": "https://myanimelist.net/character/17/Naruto_Uzumaki",
+   "picture": "https://cdn.myanimelist.net/images/characters/2/284121.jpg",
+   "name": "Uzumaki, Naruto",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/890/Haruka_Tomatsu",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54591.jpg",
-    "name": "Tomatsu, Haruka"
+    "link": "https://myanimelist.net/people/15/Junko_Takeuchi",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54677.jpg",
+    "name": "Takeuchi, Junko"
    }
   },
   {
-   "link": "https://myanimelist.net/character/155680/Ichigo",
-   "picture": "https://cdn.myanimelist.net/images/characters/10/341981.jpg",
-   "name": "Ichigo",
+   "link": "https://myanimelist.net/character/85/Kakashi_Hatake",
+   "picture": "https://cdn.myanimelist.net/images/characters/7/284129.jpg",
+   "name": "Hatake, Kakashi",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/47097/Kana_Ichinose",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54490.jpg",
-    "name": "Ichinose, Kana"
+    "link": "https://myanimelist.net/people/21/Kazuhiko_Inoue",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54627.jpg",
+    "name": "Inoue, Kazuhiko"
    }
   },
   {
-   "link": "https://myanimelist.net/character/155678/Hiro",
-   "picture": "https://cdn.myanimelist.net/images/characters/3/341979.jpg",
-   "name": "Hiro",
+   "link": "https://myanimelist.net/character/13/Sasuke_Uchiha",
+   "picture": "https://cdn.myanimelist.net/images/characters/9/131317.jpg",
+   "name": "Uchiha, Sasuke",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/24875/Yuuto_Uemura",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/54508.jpg",
-    "name": "Uemura, Yuuto"
+    "link": "https://myanimelist.net/people/16/Noriaki_Sugiyama",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/44267.jpg",
+    "name": "Sugiyama, Noriaki"
    }
   },
   {
-   "link": "https://myanimelist.net/character/155681/Gorou",
-   "picture": "https://cdn.myanimelist.net/images/characters/13/341982.jpg",
-   "name": "Gorou",
+   "link": "https://myanimelist.net/character/145/Sakura_Haruno",
+   "picture": "https://cdn.myanimelist.net/images/characters/9/69275.jpg",
+   "name": "Haruno, Sakura",
    "role": "Main",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/34209/Yuuichirou_Umehara",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/60856.jpg",
-    "name": "Umehara, Yuuichirou"
+    "link": "https://myanimelist.net/people/300/Chie_Nakamura",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/57667.jpg",
+    "name": "Nakamura, Chie"
    }
   },
   {
-   "link": "https://myanimelist.net/character/155684/Kokoro",
-   "picture": "https://cdn.myanimelist.net/images/characters/5/341985.jpg",
-   "name": "Kokoro",
-   "role": "Main",
+   "link": "https://myanimelist.net/character/14/Itachi_Uchiha",
+   "picture": "https://cdn.myanimelist.net/images/characters/9/284122.jpg",
+   "name": "Uchiha, Itachi",
+   "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/869/Saori_Hayami",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/55658.jpg",
-    "name": "Hayami, Saori"
+    "link": "https://myanimelist.net/people/412/Hideo_Ishikawa",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/56721.jpg",
+    "name": "Ishikawa, Hideo"
    }
   },
   {
-   "link": "https://myanimelist.net/character/155687/Mitsuru",
-   "picture": "https://cdn.myanimelist.net/images/characters/13/341988.jpg",
-   "name": "Mitsuru",
-   "role": "Main",
+   "link": "https://myanimelist.net/character/2007/Shikamaru_Nara",
+   "picture": "https://cdn.myanimelist.net/images/characters/3/131315.jpg",
+   "name": "Nara, Shikamaru",
+   "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/42747/Aoi_Ichikawa",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/51883.jpg",
-    "name": "Ichikawa, Aoi"
+    "link": "https://myanimelist.net/people/96/Nobutoshi_Canna",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/17561.jpg",
+    "name": "Canna, Nobutoshi"
    }
   },
   {
-   "link": "https://myanimelist.net/character/155682/Miku",
-   "picture": "https://cdn.myanimelist.net/images/characters/14/341983.jpg",
-   "name": "Miku",
-   "role": "Main",
+   "link": "https://myanimelist.net/character/1662/Gaara",
+   "picture": "https://cdn.myanimelist.net/images/characters/10/293375.jpg",
+   "name": "Gaara",
+   "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/24263/Nanami_Yamashita",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/37085.jpg",
-    "name": "Yamashita, Nanami"
+    "link": "https://myanimelist.net/people/17/Akira_Ishida",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/44590.jpg",
+    "name": "Ishida, Akira"
    }
   },
   {
-   "link": "https://myanimelist.net/character/155683/Zorome",
-   "picture": "https://cdn.myanimelist.net/images/characters/3/341984.jpg",
-   "name": "Zorome",
-   "role": "Main",
+   "link": "https://myanimelist.net/character/1555/Hinata_Hyuuga",
+   "picture": "https://cdn.myanimelist.net/images/characters/6/278736.jpg",
+   "name": "Hyuuga, Hinata",
+   "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/10013/Mutsumi_Tamura",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/2/43087.jpg",
-    "name": "Tamura, Mutsumi"
+    "link": "https://myanimelist.net/people/81/Nana_Mizuki",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54694.jpg",
+    "name": "Mizuki, Nana"
    }
   },
   {
-   "link": "https://myanimelist.net/character/155685/Futoshi",
-   "picture": "https://cdn.myanimelist.net/images/characters/7/341986.jpg",
-   "name": "Futoshi",
-   "role": "Main",
+   "link": "https://myanimelist.net/character/2423/Jiraiya",
+   "picture": "https://cdn.myanimelist.net/images/characters/15/68618.jpg",
+   "name": "Jiraiya",
+   "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/11158/Hiroki_Gotou",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/10008.jpg",
-    "name": "Gotou, Hiroki"
+    "link": "https://myanimelist.net/people/337/Houchuu_Ootsuka",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54906.jpg",
+    "name": "Ootsuka, Houchuu"
    }
   },
   {
-   "link": "https://myanimelist.net/character/155686/Ikuno",
-   "picture": "https://cdn.myanimelist.net/images/characters/14/341987.jpg",
-   "name": "Ikuno",
-   "role": "Main",
+   "link": "https://myanimelist.net/character/2535/Minato_Namikaze",
+   "picture": "https://cdn.myanimelist.net/images/characters/14/128074.jpg",
+   "name": "Namikaze, Minato",
+   "role": "Supporting",
    "seiyuu": {
-    "link": "https://myanimelist.net/people/28755/Shizuka_Ishigami",
-    "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54295.jpg",
-    "name": "Ishigami, Shizuka"
+    "link": "https://myanimelist.net/people/6/Toshiyuki_Morikawa",
+    "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54699.jpg",
+    "name": "Morikawa, Toshiyuki"
    }
   }
  ],
  "staff": [
   {
-   "link": "https://myanimelist.net/people/6385/Eiichi_Kamagata",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/54551.jpg",
-   "name": "Kamagata, Eiichi",
+   "link": "https://myanimelist.net/people/16407/Noriko_Kobayashi",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/43026.jpg",
+   "name": "Kobayashi, Noriko",
    "role": "Producer"
   },
   {
-   "link": "https://myanimelist.net/people/12673/Hiromi_Wakabayashi",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/56399.jpg",
-   "name": "Wakabayashi, Hiromi",
-   "role": "Producer"
+   "link": "https://myanimelist.net/people/5843/Hayato_Date",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/10555.jpg",
+   "name": "Date, Hayato",
+   "role": "Director, Episode Director, Storyboard"
   },
   {
-   "link": "https://myanimelist.net/people/40434/Hiroyasu_Kobayashi",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/53704.jpg",
-   "name": "Kobayashi, Hiroyasu",
-   "role": "Producer"
+   "link": "https://myanimelist.net/people/8110/Yasunori_Ebina",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/2/43008.jpg",
+   "name": "Ebina, Yasunori",
+   "role": "Sound Director"
   },
   {
-   "link": "https://myanimelist.net/people/9029/Atsushi_Nishigori",
-   "picture": "https://cdn.myanimelist.net/images/voiceactors/3/52774.jpg",
-   "name": "Nishigori, Atsushi",
-   "role": "Director, Episode Director, Storyboard, Series Composition"
+   "link": "https://myanimelist.net/people/10805/Atsushi_Wakabayashi",
+   "picture": "https://cdn.myanimelist.net/images/voiceactors/1/9425.jpg",
+   "name": "Wakabayashi, Atsushi",
+   "role": "Episode Director, Storyboard, Animation Director, Key Animation"
   }
  ],
- "trailer": "https://www.youtube.com/embed/giD4G9qlzDs?enablejsapi=1&wmode=opaque&autoplay=1",
- "englishTitle": "DARLING in the FRANXX",
- "japaneseTitle": "ダーリン・イン・ザ・フランキス",
+ "trailer": "https://www.youtube.com/embed/j2hiC9BmJlQ?enablejsapi=1&wmode=opaque&autoplay=1",
+ "englishTitle": "Naruto",
+ "japaneseTitle": "ナルト",
  "synonyms": [
-  ""
+  "NARUTO"
  ],
  "type": "TV",
- "episodes": "24",
- "aired": "Jan 13, 2018 to Jul 7, 2018",
- "premiered": "Winter 2018",
- "broadcast": "Saturdays at 23:30 (JST)",
+ "episodes": "220",
+ "aired": "Oct 3, 2002 to Feb 8, 2007",
+ "premiered": "Fall 2002",
+ "broadcast": "Thursdays at 19:30 (JST)",
  "producers": [
+  "TV Tokyo",
   "Aniplex",
-  "Khara",
-  "Movic",
-  "Ultra Super Pictures",
-  "Lucent Pictures Entertainment",
-  "Tokyo MX",
-  "Nagoya Broadcasting Network",
-  "Asahi Broadcasting",
-  "BS11",
-  "Lawson",
-  "ABC Animation",
-  "Rialto Entertainment"
+  "Shueisha"
  ],
  "studios": [
-  "A-1 Pictures",
-  "Trigger",
-  "CloverWorks"
+  "Studio Pierrot"
  ],
- "source": "Original",
- "duration": "24 min. per ep.",
+ "source": "Manga",
+ "duration": "23 min. per ep.",
  "rating": "PG-13 - Teens 13 or older",
  "status": "Finished Airing",
  "genres": [
   "Action",
-  "Drama",
-  "Mecha",
-  "Romance",
-  "Sci-Fi"
+  "Adventure",
+  "Comedy",
+  "Super Power",
+  "Martial Arts",
+  "Shounen"
  ],
- "score": "7.36",
- "scoreStats": "scored by 457,934 users",
- "ranked": "#2060",
- "popularity": "#80",
- "members": "821,404",
- "favorites": "19,315",
- "id": 35849,
- "url": "https://myanimelist.net/anime/35849/Darling_in_the_FranXX"
+ "score": "7.91",
+ "scoreStats": "scored by 1,196,843 users",
+ "ranked": "#659",
+ "popularity": "#8",
+ "members": "1,836,056",
+ "favorites": "65,789",
+ "id": 20,
+ "url": "https://myanimelist.net/anime/20/Naruto"
 }
